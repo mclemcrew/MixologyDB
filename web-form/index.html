@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JSON Generator for DAW Mixes</title>
+    <link
+      href="https://fonts.googleapis.com/css?family=Cabin|Poppins"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <form id="jsonForm">
+
+        <!-- Tracks Section -->
+        <div id="tracks-section">
+          <h2>Track Details</h2>
+          <div class="track">
+            <div class="form-group">
+              <label for="track-name">Track Name:</label>
+              <input type="text" id="track-name" name="track-name" required />
+            </div>
+            <!-- Track Type (aux/inst/audio)  -->
+            <div class="form-group">
+              <label for="track-type">Track Type:</label>
+              <select class="track-type" id="track-type" name="track-type">
+                <option value=""></option>
+                <option value="AUX">Aux</option>
+                <option value="AUDIO">Audio</option>
+                <option value="INST">Instrument</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label for="track-name">Track Audio Path:</label>
+              <input
+                type="text"
+                id="track-audio-path"
+                name="track-audio-path"
+              />
+            </div>
+            <div class="form-group">
+              <label for="track-mode">Channel Mode:</label>
+              <select class="track-mode" name="track-mode" id="track-mode">
+                <option value=""></option>
+                <option value="MONO">Mono</option>
+                <option value="STEREO">Stereo</option>
+              </select>
+            </div>
+
+            <div class="parameters">
+              <h2>Parameters</h2>
+              <div class="parameter">
+                <div class="form-group">
+                  <label for="gain">Gain:</label>
+                  <input type="number" class="param" name="track-gain" />
+                </div>
+                <!-- Only if it's in MONO -->
+                <div
+                  class="form-group pan-parameter-container-mono"
+                  style="display: none"
+                >
+                  <label for="pan">Pan:</label>
+                  <input type="number" class="param" name="pan" />
+                </div>
+                <!-- Only if it's in STEREO -->
+                <div
+                  class="form-group"
+                  id="pan-left-container"
+                  style="display: none"
+                >
+                  <label for="pan-left">Pan Left:</label>
+                  <input type="number" class="param" name="pan-left" />
+                </div>
+                <div
+                  class="form-group"
+                  id="pan-right-container"
+                  style="display: none"
+                >
+                  <label for="pan-right">Pan Right:</label>
+                  <input type="number" class="param" name="pan-right" />
+                </div>
+
+                <div class="param-buttons-container">
+                  <button id="show-eq" class="param-button">Add EQ</button>
+                  <button id="show-reverb" class="param-button">
+                    Add Reverb
+                  </button>
+                  <button id="show-compression" class="param-button">
+                    Add Compression
+                  </button>
+                </div>
+
+                <!-- EQ Parameters -->
+                <div class="eq-section" style="display: none">
+                  <!-- Implement logic such that when the EQ button is pressed it allows user to add a type and insert the values -->
+                  <p>EQ Parameters:</p>
+
+                  <!-- Button to add a new EQ item -->
+                  <button class="eq-button-param">Add EQ Parameter</button>
+
+                  <!-- Container for EQ items -->
+                  <div class="eq-items"></div>
+                </div>
+
+                <!-- Reverb Values -->
+                <div class="reverb-section" style="display: none">
+                  <div class="form-group">
+                    <div class="form-group">
+                      <label for="freq">Reverb Name:</label>
+                      <input
+                        type="text"
+                        class="reverb-name"
+                        name="reverb-name"
+                      />
+                    </div>
+                    <div class="form-group">
+                      <label for="reverb-type">Reverb Type:</label>
+                      <input
+                        type="text"
+                        class="reverb-type"
+                        name="reverb-type"
+                      />
+                    </div>
+                    <div class="form-group">
+                      <label for="reverb-gain">Reverb Gain:</label>
+                      <input
+                        type="number"
+                        class="reverb-gain"
+                        name="reverb-gain"
+                      />
+                    </div>
+
+                    <!-- Panning here depends on if the track is stereo or mono -->
+                    <!-- Only if it's in MONO -->
+                    <div
+                      class="form-group"
+                      id="reverb-pan-mono"
+                      style="display: none"
+                    >
+                      <label for="reverb-pan">Reverb Pan:</label>
+                      <input type="number" class="param" name="reverb-pan" />
+                    </div>
+                    <!-- Only if it's in STEREO -->
+                    <div
+                      class="form-group"
+                      id="reverb-pan-left"
+                      style="display: none"
+                    >
+                      <label for="reverb-pan-left">Reverb Pan Left:</label>
+                      <input
+                        type="number"
+                        class="param"
+                        name="reverb-pan-left"
+                      />
+                    </div>
+                    <div
+                      class="form-group"
+                      id="reverb-pan-right"
+                      style="display: none"
+                    >
+                      <label for="reverb-pan-right">Reverb Pan Right:</label>
+                      <input
+                        type="number"
+                        class="param"
+                        name="reverb-pan-right"
+                      />
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Compression Values -->
+                <div class="compression-section" style="display: none">
+                  <div class="form-group">
+                    <div class="form-group">
+                      <label for="compression-name">Compression Name:</label>
+                      <input
+                        type="text"
+                        class="compression-name"
+                        name="compression-name"
+                      />
+                    </div>
+                    <div class="form-group">
+                      <label for="compression-attack"
+                        >Compression Attack:</label
+                      >
+                      <input
+                        type="number"
+                        class="compression-attack"
+                        name="compression-attack"
+                      />
+                    </div>
+                    <div class="form-group">
+                      <label for="compression-release"
+                        >Compression Release:</label
+                      >
+                      <input
+                        type="number"
+                        class="compression-release"
+                        name="compression-release"
+                      />
+                    </div>
+                    <div class="form-group">
+                      <label for="optional-param-type"
+                        >Compression Ratio:</label
+                      >
+                      <select
+                        class="compression-ratio"
+                        name="compression-ratio"
+                      >
+                        <option value="1:1">1:1</option>
+                        <option value="2:1">2:1</option>
+                        <option value="4:1">4:1</option>
+                        <option value="8:1">8:1</option>
+                        <option value="12:1">12:1</option>
+                      </select>
+                    </div>
+
+                    <button class="add-compression-param">
+                      Add Other Parameter
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <button type="button" id="copy-button">Copy to Clipboard</button>
+      </form>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
