@@ -40,14 +40,14 @@ document.addEventListener("DOMContentLoaded", function () {
         }
 
         const jsonObject = {
-            "track-name": formData.get('track-name'),
-            "track-type": formData.get('track-type'),
-            "track-audio-path": formData.get('track-audio-path'),
-            "channel-mode": formData.get('track-mode'),
-            "parameters": {
-                "gain": parseFloat(formData.get('track-gain')),
-                "pan": trackPan
-            }
+            // "track-name": formData.get('track-name'),
+            // "track-type": formData.get('track-type'),
+            // "track-audio-path": formData.get('track-audio-path'),
+            // "channel-mode": formData.get('track-mode'),
+            // "parameters": {
+            //     "gain": parseFloat(formData.get('track-gain')),
+            //     "pan": trackPan
+            // }
         };
 
         // Handle EQ
@@ -76,18 +76,16 @@ document.addEventListener("DOMContentLoaded", function () {
 
         if (eqTypes != "") {
             // eqJSONString = eqJSONString.substring(0, eqJSONString.length - 1)
-            jsonObject.parameters.eq = eqJSONArray;
+            jsonObject.eq = eqJSONArray;
 
             console.log("EQ was added");
         }
-
-        // console.log(eqJSONString);
 
         // Handle Reverb
         let reverbName = formData.get('reverb-name');
         let reverbType = formData.get('reverb-type');
         let reverbGain = formData.get('reverb-gain');
-        let reverbJSONString = `{ "name" : "${reverbName}", "type" : "${reverbType}", "gain" : ${reverbGain}, "pan" : [${reverbPanValue}]}`;
+        let reverbJSONString = `[{ "name" : "${reverbName}", "type" : "${reverbType}", "gain" : ${reverbGain}, "pan" : [${reverbPanValue}]}]`;
 
         if (reverbName != "" && reverbType != "") {
             jsonObject.parameters.reverb = JSON.parse(reverbJSONString);
@@ -107,7 +105,9 @@ document.addEventListener("DOMContentLoaded", function () {
         console.log(jsonObject);
 
         // Add logic to convert jsonObject to JSON string
-        const jsonString = JSON.stringify(jsonObject, null, 2);
+        let jsonString = JSON.stringify(jsonObject, null, 2);
+        // jsonString = jsonString.slice(-1,1)
+        // console.log(jsonString)
 
         // Copy JSON string to clipboard
         const textarea = document.createElement("textarea");
