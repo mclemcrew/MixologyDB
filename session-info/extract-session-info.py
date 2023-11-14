@@ -20,7 +20,7 @@ def extract_info(text):
 
 
 # Read the text file
-with open('/Volumes/SSD-MClem/Mixing Datasets/MixEvaluationDataset/JokersJacksAndKings/SeaOfLeaves/FinalMixes/UCP-B1/UCP-B1.txt', 'r') as file:
+with open('/Volumes/SSD-MClem/Mixing Datasets/MixEvaluationDataset/Creepoid/OldTree/FinalMixes/UCP-A1/UCP-A1.txt', 'r') as file:
     content = file.read()
 
 track_data = extract_info(content)
@@ -50,7 +50,7 @@ for track in track_data:
     track_name = track['track-name']
     plugins = track['plug-ins']
     clip_name = track['clip-name']
-    audio_filename = "./audio/SeaOfLeaves/"
+    audio_filename = "./audio/OldTree/"
     
     if clip_name in clip_to_source_mapping:
         audio_filename += clip_to_source_mapping[clip_name]

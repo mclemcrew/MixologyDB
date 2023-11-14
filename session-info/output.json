@@ -1,331 +1,153 @@
 [
   {
-    "track-name": "KickIn",
+    "track-name": "VOX SM7 COMP_01.1",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/01_KickIn.wav",
+    "track-audio-path": "./audio/OldTree/VOX SM7 COMP_01.1.wav",
     "parameters": {
       "gain": 0,
       "pan": [
         0
       ],
       "plug-ins": [
-        "EQ3 7-Band (mono)",
-        "Dyn3 Compressor/Limiter (mono)"
-      ]
-    }
-  },
-  {
-    "track-name": "KickOut",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/02_KickOut.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "EQ3 7-Band (mono)",
-        "Dyn3 Compressor/Limiter (mono)"
-      ]
-    }
-  },
-  {
-    "track-name": "SnareUp",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/03_SnareUp.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "EQ3 7-Band (mono)",
-        "Dyn3 Compressor/Limiter (mono)"
-      ]
-    }
-  },
-  {
-    "track-name": "SnareDown",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/04_SnareDown.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)"
-      ]
-    }
-  },
-  {
-    "track-name": "Overheads (Stereo)",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/05_Overheads.L.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "EQ3 7-Band (stereo)",
-        "Dyn3 Compressor/Limiter (stereo)",
-        "Channel Strip (stereo)"
-      ]
-    }
-  },
-  {
-    "track-name": "DrumsRoom (Stereo)",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/06_DrumsRoom.L.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": []
-    }
-  },
-  {
-    "track-name": "Tom1",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/07_Tom1.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "EQ3 7-Band (mono)",
-        "Dyn3 Compressor/Limiter (mono)"
-      ]
-    }
-  },
-  {
-    "track-name": "Tom2",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/08_Tom2.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "EQ3 7-Band (mono)",
-        "Dyn3 Compressor/Limiter (mono)"
-      ]
-    }
-  },
-  {
-    "track-name": "BassDI",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/09_BassDI.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": []
-    }
-  },
-  {
-    "track-name": "BassAmp",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/10_BassAmp.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": []
-    }
-  },
-  {
-    "track-name": "ElecGtr1Mic1",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/11_ElecGtr1Mic1.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
+        "Dyn3 Compressor/Limiter (mono)",
         "EQ3 7-Band (mono)"
       ]
     }
   },
   {
-    "track-name": "ElecGtr1Mic2",
+    "track-name": "VOX 260 COMP_01.1",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/12_ElecGtr1Mic2.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": []
-    }
-  },
-  {
-    "track-name": "ElecGtr2Mic1",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/13_ElecGtr2Mic1.wav",
+    "track-audio-path": "./audio/OldTree/VOX 260 COMP_01.1.wav",
     "parameters": {
       "gain": 0,
       "pan": [
         0
       ],
       "plug-ins": [
+        "Dyn3 Compressor/Limiter (mono)",
         "EQ3 7-Band (mono)"
       ]
     }
   },
   {
-    "track-name": "ElecGtr2Mic2",
+    "track-name": "VOX 260.dup1 COMP_01.1",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/14_ElecGtr2Mic2.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": []
-    }
-  },
-  {
-    "track-name": "ElecGtr3Mic1",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/15_ElecGtr3Mic1.wav",
+    "track-audio-path": "./audio/OldTree/VOX 260.dup1 COMP_01.1.wav",
     "parameters": {
       "gain": 0,
       "pan": [
         0
       ],
       "plug-ins": [
+        "Dyn3 Compressor/Limiter (mono)",
         "EQ3 7-Band (mono)"
       ]
     }
   },
   {
-    "track-name": "ElecGtr3Mic2",
+    "track-name": "VOX SM7.dup1 COMP_01.1",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/16_ElecGtr3Mic2.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": []
-    }
-  },
-  {
-    "track-name": "ElecGtr4Mic1",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/17_ElecGtr4Mic1.wav",
+    "track-audio-path": "./audio/OldTree/VOX SM7.dup1 COMP_01.1.wav",
     "parameters": {
       "gain": 0,
       "pan": [
         0
       ],
       "plug-ins": [
+        "Dyn3 Compressor/Limiter (mono)",
         "EQ3 7-Band (mono)"
       ]
     }
   },
   {
-    "track-name": "ElecGtr4Mic2",
+    "track-name": "HALL VOC COMP_01.1",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/18_ElecGtr4Mic2.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": []
-    }
-  },
-  {
-    "track-name": "ElecGtr5Mic1",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/19_ElecGtr5Mic1.wav",
+    "track-audio-path": "./audio/OldTree/HALL VOC COMP_01.1.wav",
     "parameters": {
       "gain": 0,
       "pan": [
         0
       ],
       "plug-ins": [
-        "AIR Dynamic Delay (mono)",
-        "D-Verb (mono)"
-      ]
-    }
-  },
-  {
-    "track-name": "ElecGtr5Mic2",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/20_ElecGtr5Mic2.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": []
-    }
-  },
-  {
-    "track-name": "ElecGtr6Mic1",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/21_ElecGtr6Mic1.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
+        "Dyn3 Compressor/Limiter (mono)",
         "EQ3 7-Band (mono)"
       ]
     }
   },
   {
-    "track-name": "ElecGtr6Mic2",
+    "track-name": "PAT VOC CRAP COMP_01.1",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/22_ElecGtr6Mic2.wav",
+    "track-audio-path": "./audio/OldTree/PAT VOC CRAP COMP_01.1.wav",
     "parameters": {
       "gain": 0,
       "pan": [
         0
       ],
       "plug-ins": [
+        "Dyn3 Compressor/Limiter (mono)",
         "EQ3 7-Band (mono)"
       ]
     }
   },
   {
-    "track-name": "ElecGtr7Mic1",
+    "track-name": "PAT VOC ELAM COMP_01.1",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/23_ElecGtr7Mic1.wav",
+    "track-audio-path": "./audio/OldTree/PAT VOC ELAM COMP_01.1.wav",
+    "parameters": {
+      "gain": 0,
+      "pan": [
+        0
+      ],
+      "plug-ins": [
+        "Dyn3 Compressor/Limiter (mono)",
+        "EQ3 7-Band (mono)"
+      ]
+    }
+  },
+  {
+    "track-name": "ANNA VOC TOY COMP_01.1",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/OldTree/ANNA VOC TOY COMP_01.1.wav",
+    "parameters": {
+      "gain": 0,
+      "pan": [
+        0
+      ],
+      "plug-ins": [
+        "Dyn3 Compressor/Limiter (mono)",
+        "EQ3 7-Band (mono)"
+      ]
+    }
+  },
+  {
+    "track-name": "ANNA VOC ELAM.dup1.24_01.1",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/OldTree/ANNA VOC ELAM.dup1.24_01.1.wav",
+    "parameters": {
+      "gain": 0,
+      "pan": [
+        0
+      ],
+      "plug-ins": [
+        "Dyn3 Compressor/Limiter (mono)",
+        "EQ3 7-Band (mono)"
+      ]
+    }
+  },
+  {
+    "track-name": "ANNA VOC TOY.dup1.24_01.1",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/OldTree/ANNA VOC TOY.dup1.24_01.1.wav",
     "parameters": {
       "gain": 0,
       "pan": [
@@ -335,10 +157,122 @@
     }
   },
   {
-    "track-name": "ElecGtr7Mic2",
+    "track-name": "AHHHH!_01.1",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/24_ElecGtr7Mic2.wav",
+    "track-audio-path": "./audio/OldTree/AHHHH!_01.1.wav",
+    "parameters": {
+      "gain": 0,
+      "pan": [
+        0
+      ],
+      "plug-ins": [
+        "Dyn3 Compressor/Limiter (mono)",
+        "EQ3 7-Band (mono)"
+      ]
+    }
+  },
+  {
+    "track-name": "GTR 1 SM7.04_01.1",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/OldTree/GTR 1 SM7.04_01.1.wav",
+    "parameters": {
+      "gain": 0,
+      "pan": [
+        0
+      ],
+      "plug-ins": [
+        "Dyn3 Compressor/Limiter (mono)",
+        "EQ3 7-Band (mono)"
+      ]
+    }
+  },
+  {
+    "track-name": "GTR 1 RIBBON.04_01.1",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/OldTree/GTR 1 RIBBON.04_01.1.wav",
+    "parameters": {
+      "gain": 0,
+      "pan": [
+        0
+      ],
+      "plug-ins": [
+        "Dyn3 Compressor/Limiter (mono)",
+        "EQ3 7-Band (mono)"
+      ]
+    }
+  },
+  {
+    "track-name": "GTR 1 ROOM.04_01.1",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/OldTree/GTR 1 ROOM.04_01.1.wav",
+    "parameters": {
+      "gain": 0,
+      "pan": [
+        0
+      ],
+      "plug-ins": [
+        "Dyn3 Compressor/Limiter (mono)",
+        "EQ3 7-Band (mono)"
+      ]
+    }
+  },
+  {
+    "track-name": "GTR 2 SM7 COMP_01.1",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/OldTree/GTR 2 SM7 COMP_01.1.wav",
+    "parameters": {
+      "gain": 0,
+      "pan": [
+        0
+      ],
+      "plug-ins": [
+        "Dyn3 Compressor/Limiter (mono)",
+        "EQ3 7-Band (mono)"
+      ]
+    }
+  },
+  {
+    "track-name": "GTR 2 RIBBON COMP_01.1",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/OldTree/GTR 2 RIBBON COMP_01.1.wav",
+    "parameters": {
+      "gain": 0,
+      "pan": [
+        0
+      ],
+      "plug-ins": [
+        "Dyn3 Compressor/Limiter (mono)",
+        "EQ3 7-Band (mono)"
+      ]
+    }
+  },
+  {
+    "track-name": "GTR 2 ROOM COMP_01.1",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/OldTree/GTR 2 ROOM COMP_01.1.wav",
+    "parameters": {
+      "gain": 0,
+      "pan": [
+        0
+      ],
+      "plug-ins": [
+        "Dyn3 Compressor/Limiter (mono)",
+        "EQ3 7-Band (mono)"
+      ]
+    }
+  },
+  {
+    "track-name": "GTR 2 CRAP COMP_01.1",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/OldTree/GTR 2 CRAP COMP_01.1.wav",
     "parameters": {
       "gain": 0,
       "pan": [
@@ -348,156 +282,302 @@
     }
   },
   {
-    "track-name": "ElecGtr8 (Stereo)",
+    "track-name": "KickIn COMP_01.1",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/25_ElecGtr8.L.wav",
+    "track-audio-path": "./audio/OldTree/KickIn COMP_01.1.wav",
     "parameters": {
       "gain": 0,
       "pan": [
         0
       ],
       "plug-ins": [
-        "EQ3 7-Band (mono)"
-      ]
-    }
-  },
-  {
-    "track-name": "SynthPad (Stereo)",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/26_SynthPad.L.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "D-Verb (stereo)"
-      ]
-    }
-  },
-  {
-    "track-name": "SynthLead (Stereo)",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/27_SynthLead.L.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "AIR Dynamic Delay (stereo)"
-      ]
-    }
-  },
-  {
-    "track-name": "LeadVox",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/28_LeadVox.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Channel Strip (mono)",
+        "Dyn3 Compressor/Limiter (mono)",
         "Dyn3 Expander/Gate (mono)",
-        "D-Verb (mono)",
-        "AIR Flanger (mono)",
-        "InTune (mono)"
+        "EQ3 7-Band (mono)"
       ]
     }
   },
   {
-    "track-name": "BackingVox1",
+    "track-name": "KickOut COMP_01.2",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/29_BackingVox1.wav",
+    "track-audio-path": "./audio/OldTree/KickOut COMP_01.1.wav",
     "parameters": {
       "gain": 0,
       "pan": [
         0
       ],
       "plug-ins": [
-        "Channel Strip (mono)",
+        "Dyn3 Compressor/Limiter (mono)",
         "Dyn3 Expander/Gate (mono)",
-        "InTune (mono)",
-        "D-Verb (mono)"
+        "EQ3 7-Band (mono)"
       ]
     }
   },
   {
-    "track-name": "BackingVox2",
+    "track-name": "Kit COMP_01",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/30_BackingVox2.wav",
+    "track-audio-path": "./audio/OldTree/Kit COMP_01.1.wav",
+    "parameters": {
+      "gain": 0,
+      "pan": [
+        0
+      ],
+      "plug-ins": []
+    }
+  },
+  {
+    "track-name": "SnTop COMP_01.1",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/OldTree/SnTop COMP_01.1.wav",
     "parameters": {
       "gain": 0,
       "pan": [
         0
       ],
       "plug-ins": [
-        "Channel Strip (mono)",
+        "Dyn3 Compressor/Limiter (mono)",
         "Dyn3 Expander/Gate (mono)",
-        "InTune (mono)",
-        "D-Verb (mono)"
+        "EQ3 7-Band (mono)"
       ]
     }
   },
   {
-    "track-name": "BackingVox3",
+    "track-name": "SnBot COMP_01.1",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/31_BackingVox3.wav",
+    "track-audio-path": "./audio/OldTree/SnBot COMP_01.1.wav",
     "parameters": {
       "gain": 0,
       "pan": [
         0
       ],
       "plug-ins": [
-        "Channel Strip (mono)",
+        "Dyn3 Compressor/Limiter (mono)",
         "Dyn3 Expander/Gate (mono)",
-        "InTune (mono)",
-        "D-Verb (mono)"
+        "EQ3 7-Band (mono)"
       ]
     }
   },
   {
-    "track-name": "BackingVox4",
+    "track-name": "Tom COMP_01.1",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/32_BackingVox4.wav",
+    "track-audio-path": "./audio/OldTree/Tom COMP_01.1.wav",
     "parameters": {
       "gain": 0,
       "pan": [
         0
       ],
       "plug-ins": [
-        "Channel Strip (mono)",
-        "Dyn3 Expander/Gate (mono)",
-        "InTune (mono)",
-        "D-Verb (mono)"
+        "Dyn3 Compressor/Limiter (mono)",
+        "Dyn3 Expander/Gate (mono)"
       ]
     }
   },
   {
-    "track-name": "BackingVox5",
+    "track-name": "OHL COMP_01.2",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/SeaOfLeaves/33_BackingVox5.wav",
+    "track-audio-path": "./audio/OldTree/OHL COMP_01.1.wav",
     "parameters": {
       "gain": 0,
       "pan": [
         0
       ],
       "plug-ins": [
-        "Channel Strip (mono)",
-        "Dyn3 Expander/Gate (mono)",
-        "InTune (mono)",
-        "D-Verb (mono)"
+        "Dyn3 Compressor/Limiter (mono)",
+        "EQ3 7-Band (mono)"
+      ]
+    }
+  },
+  {
+    "track-name": "OH CRAP L COMP_01",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/OldTree/OH CRAP L COMP_01.1.wav",
+    "parameters": {
+      "gain": 0,
+      "pan": [
+        0
+      ],
+      "plug-ins": []
+    }
+  },
+  {
+    "track-name": "OH CRAP R COMP_01",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/OldTree/OH CRAP R COMP_01.1.wav",
+    "parameters": {
+      "gain": 0,
+      "pan": [
+        0
+      ],
+      "plug-ins": []
+    }
+  },
+  {
+    "track-name": "OHR COMP_01.2",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/OldTree/OHR COMP_01.1.wav",
+    "parameters": {
+      "gain": 0,
+      "pan": [
+        0
+      ],
+      "plug-ins": []
+    }
+  },
+  {
+    "track-name": "ROOM COMP_01.1",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/OldTree/ROOM COMP_01.1.wav",
+    "parameters": {
+      "gain": 0,
+      "pan": [
+        0
+      ],
+      "plug-ins": []
+    }
+  },
+  {
+    "track-name": "BassDI COMP_01.1",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/OldTree/BassDI COMP_01.1.wav",
+    "parameters": {
+      "gain": 0,
+      "pan": [
+        0
+      ],
+      "plug-ins": [
+        "Dyn3 Compressor/Limiter (mono)",
+        "EQ3 7-Band (mono)"
+      ]
+    }
+  },
+  {
+    "track-name": "BassAmp COMP_01.1",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/OldTree/BassAmp COMP_01.1.wav",
+    "parameters": {
+      "gain": 0,
+      "pan": [
+        0
+      ],
+      "plug-ins": []
+    }
+  },
+  {
+    "track-name": "TAMBO ELAM.01_04.1",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/OldTree/TAMBO ELAM.01_04.1.wav",
+    "parameters": {
+      "gain": 0,
+      "pan": [
+        0
+      ],
+      "plug-ins": [
+        "Dyn3 Compressor/Limiter (mono)",
+        "EQ3 7-Band (mono)"
+      ]
+    }
+  },
+  {
+    "track-name": "TAMBO CRAP.01_04.1",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/OldTree/TAMBO CRAP.01_04.1.wav",
+    "parameters": {
+      "gain": 0,
+      "pan": [
+        0
+      ],
+      "plug-ins": []
+    }
+  },
+  {
+    "track-name": "SHAKER PHASER.01_02.1",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/OldTree/SHAKER PHASER.01_02.1.wav",
+    "parameters": {
+      "gain": 0,
+      "pan": [
+        0
+      ],
+      "plug-ins": [
+        "Dyn3 Compressor/Limiter (mono)",
+        "EQ3 7-Band (mono)"
+      ]
+    }
+  },
+  {
+    "track-name": "SHAKER ELAM.01_04.1",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/OldTree/SHAKER ELAM.01_04.1.wav",
+    "parameters": {
+      "gain": 0,
+      "pan": [
+        0
+      ],
+      "plug-ins": []
+    }
+  },
+  {
+    "track-name": "SHAKER CRAP.01_04.1",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/OldTree/SHAKER CRAP.01_04.1.wav",
+    "parameters": {
+      "gain": 0,
+      "pan": [
+        0
+      ],
+      "plug-ins": [
+        "Dyn3 Compressor/Limiter (mono)",
+        "EQ3 7-Band (mono)"
+      ]
+    }
+  },
+  {
+    "track-name": "BELLS CRAP.01_06.1",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/OldTree/BELLS CRAP.01_06.1.wav",
+    "parameters": {
+      "gain": 0,
+      "pan": [
+        0
+      ],
+      "plug-ins": [
+        "Dyn3 Compressor/Limiter (mono)",
+        "EQ3 7-Band (mono)"
+      ]
+    }
+  },
+  {
+    "track-name": "BELLS ELAM.01_06.1",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/OldTree/BELLS ELAM.01_06.1.wav",
+    "parameters": {
+      "gain": 0,
+      "pan": [
+        0
+      ],
+      "plug-ins": [
+        "Dyn3 Compressor/Limiter (mono)",
+        "EQ3 7-Band (mono)"
       ]
     }
   }

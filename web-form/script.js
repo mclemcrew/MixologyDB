@@ -40,14 +40,14 @@ document.addEventListener("DOMContentLoaded", function () {
         }
 
         const jsonObject = {
-            // "track-name": formData.get('track-name'),
-            // "track-type": formData.get('track-type'),
-            // "track-audio-path": formData.get('track-audio-path'),
-            // "channel-mode": formData.get('track-mode'),
-            // "parameters": {
-            //     "gain": parseFloat(formData.get('track-gain')),
-            //     "pan": trackPan
-            // }
+            "track-name": formData.get('track-name'),
+            "track-type": formData.get('track-type'),
+            "track-audio-path": formData.get('track-audio-path'),
+            "channel-mode": formData.get('track-mode'),
+            "parameters": {
+                "gain": parseFloat(formData.get('track-gain')),
+                "pan": trackPan
+            }
         };
 
         // Handle EQ
