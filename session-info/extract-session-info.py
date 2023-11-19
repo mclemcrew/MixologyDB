@@ -20,7 +20,7 @@ def extract_info(text):
 
 
 # Read the text file
-with open('/Volumes/SSD-MClem/Mixing Datasets/MixEvaluationDataset/Creepoid/OldTree/FinalMixes/UCP-A1/UCP-A1.txt', 'r') as file:
+with open('/Volumes/SSD-MClem/Mixing Datasets/MixEvaluationDataset/TheDoneFors/PouringRoom/FinalMixes/McG-X/PouringRoom_X.txt', 'r') as file:
     content = file.read()
 
 track_data = extract_info(content)
@@ -29,7 +29,7 @@ track_data = extract_info(content)
 clip_to_source_mapping = {}
 
 # Define a regular expression pattern to extract clip mappings
-clip_mapping_pattern = re.compile(r"O F F L I N E  C L I P S  I N  S E S S I O N\n(.*?)\n\n", re.DOTALL)
+clip_mapping_pattern = re.compile(r"O N L I N E  C L I P S  I N  S E S S I O N\n(.*?)\n\n", re.DOTALL)
 clip_mapping_section = clip_mapping_pattern.search(content)
 
 if clip_mapping_section:
@@ -50,7 +50,7 @@ for track in track_data:
     track_name = track['track-name']
     plugins = track['plug-ins']
     clip_name = track['clip-name']
-    audio_filename = "./audio/OldTree/"
+    audio_filename = "./audio/PouringRoom/"
     
     if clip_name in clip_to_source_mapping:
         audio_filename += clip_to_source_mapping[clip_name]

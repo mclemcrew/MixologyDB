@@ -1,584 +1,233 @@
 [
   {
-    "track-name": "VOX SM7 COMP_01.1",
+    "track-name": "Kin.09",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/VOX SM7 COMP_01.1.wav",
+    "track-audio-path": "./audio/PouringRoom/Kin.09_01.wav",
     "parameters": {
       "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "EQ3 7-Band (mono)"
-      ]
+      "pan": [0],
+      "plug-ins": ["Channel Strip (mono)"]
     }
   },
   {
-    "track-name": "VOX 260 COMP_01.1",
+    "track-name": "KOut.09",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/VOX 260 COMP_01.1.wav",
+    "track-audio-path": "./audio/PouringRoom/KOut.09_01.wav",
     "parameters": {
       "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "EQ3 7-Band (mono)"
-      ]
+      "pan": [0],
+      "plug-ins": ["Channel Strip (mono)"]
     }
   },
   {
-    "track-name": "VOX 260.dup1 COMP_01.1",
+    "track-name": "SnT1.09",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/VOX 260.dup1 COMP_01.1.wav",
+    "track-audio-path": "./audio/PouringRoom/SnT1.09_01.wav",
     "parameters": {
       "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "EQ3 7-Band (mono)"
-      ]
+      "pan": [0],
+      "plug-ins": ["Channel Strip (mono)"]
     }
   },
   {
-    "track-name": "VOX SM7.dup1 COMP_01.1",
+    "track-name": "SnT2.09",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/VOX SM7.dup1 COMP_01.1.wav",
+    "track-audio-path": "./audio/PouringRoom/SnT2.09_01.wav",
     "parameters": {
       "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "EQ3 7-Band (mono)"
-      ]
+      "pan": [0],
+      "plug-ins": ["Channel Strip (mono)"]
     }
   },
   {
-    "track-name": "HALL VOC COMP_01.1",
+    "track-name": "StOH.09 (Stereo)",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/HALL VOC COMP_01.1.wav",
+    "track-audio-path": "./audio/PouringRoom/StOH.09_01.L.wav",
     "parameters": {
       "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "EQ3 7-Band (mono)"
-      ]
+      "pan": [0],
+      "plug-ins": ["Channel Strip (mono)"]
     }
   },
   {
-    "track-name": "PAT VOC CRAP COMP_01.1",
+    "track-name": "Hat.09",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/PAT VOC CRAP COMP_01.1.wav",
+    "track-audio-path": "./audio/PouringRoom/Hat.09_01.wav",
     "parameters": {
       "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "EQ3 7-Band (mono)"
-      ]
+      "pan": [0],
+      "plug-ins": ["Channel Strip (mono)"]
     }
   },
   {
-    "track-name": "PAT VOC ELAM COMP_01.1",
+    "track-name": "Tom1.09",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/PAT VOC ELAM COMP_01.1.wav",
+    "track-audio-path": "./audio/PouringRoom/Tom1.09_01.wav",
     "parameters": {
       "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "EQ3 7-Band (mono)"
-      ]
+      "pan": [0],
+      "plug-ins": ["Channel Strip (mono)"]
     }
   },
   {
-    "track-name": "ANNA VOC TOY COMP_01.1",
+    "track-name": "Floor.09",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/ANNA VOC TOY COMP_01.1.wav",
+    "track-audio-path": "./audio/PouringRoom/Floor.09_01.wav",
     "parameters": {
       "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "EQ3 7-Band (mono)"
-      ]
+      "pan": [0],
+      "plug-ins": ["Channel Strip (mono)"]
     }
   },
   {
-    "track-name": "ANNA VOC ELAM.dup1.24_01.1",
+    "track-name": "CymbalODB.09 (Stereo)",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/ANNA VOC ELAM.dup1.24_01.1.wav",
+    "track-audio-path": "./audio/PouringRoom/CymbalODB.09_01.L.wav",
     "parameters": {
       "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "EQ3 7-Band (mono)"
-      ]
+      "pan": [0],
+      "plug-ins": ["Channel Strip (mono)"]
     }
   },
   {
-    "track-name": "ANNA VOC TOY.dup1.24_01.1",
+    "track-name": "Bass DI.09",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/ANNA VOC TOY.dup1.24_01.1.wav",
+    "track-audio-path": "./audio/PouringRoom/Bass DI.09_01.wav",
     "parameters": {
       "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": []
+      "pan": [0],
+      "plug-ins": ["Channel Strip (mono)"]
     }
   },
   {
-    "track-name": "AHHHH!_01.1",
+    "track-name": "Bass Amp.09",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/AHHHH!_01.1.wav",
+    "track-audio-path": "./audio/PouringRoom/Bass Amp.09_01.wav",
     "parameters": {
       "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "EQ3 7-Band (mono)"
-      ]
+      "pan": [0],
+      "plug-ins": ["Channel Strip (mono)"]
     }
   },
   {
-    "track-name": "GTR 1 SM7.04_01.1",
+    "track-name": "Act Guit.09 (Stereo)",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/GTR 1 SM7.04_01.1.wav",
+    "track-audio-path": "./audio/PouringRoom/Act Guit.09_01.L.wav",
     "parameters": {
       "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "EQ3 7-Band (mono)"
-      ]
+      "pan": [0],
+      "plug-ins": ["Channel Strip (mono)"]
     }
   },
   {
-    "track-name": "GTR 1 RIBBON.04_01.1",
+    "track-name": "Paul GTR.09",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/GTR 1 RIBBON.04_01.1.wav",
+    "track-audio-path": "./audio/PouringRoom/Paul GTR.09_01.wav",
     "parameters": {
       "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "EQ3 7-Band (mono)"
-      ]
+      "pan": [0],
+      "plug-ins": ["Channel Strip (mono)"]
     }
   },
   {
-    "track-name": "GTR 1 ROOM.04_01.1",
+    "track-name": "Paul GTR R84.09",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/GTR 1 ROOM.04_01.1.wav",
+    "track-audio-path": "./audio/PouringRoom/Paul GTR R84.09_01.wav",
     "parameters": {
       "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "EQ3 7-Band (mono)"
-      ]
+      "pan": [0],
+      "plug-ins": ["Channel Strip (mono)"]
     }
   },
   {
-    "track-name": "GTR 2 SM7 COMP_01.1",
+    "track-name": "GtrSolo201.09",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/GTR 2 SM7 COMP_01.1.wav",
+    "track-audio-path": "./audio/PouringRoom/GtrSolo201.09_01.wav",
     "parameters": {
       "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "EQ3 7-Band (mono)"
-      ]
+      "pan": [0],
+      "plug-ins": ["Channel Strip (mono)"]
     }
   },
   {
-    "track-name": "GTR 2 RIBBON COMP_01.1",
+    "track-name": "GtrSoloR84.09",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/GTR 2 RIBBON COMP_01.1.wav",
+    "track-audio-path": "./audio/PouringRoom/",
     "parameters": {
       "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "EQ3 7-Band (mono)"
-      ]
+      "pan": [0],
+      "plug-ins": ["Channel Strip (mono)"]
     }
   },
   {
-    "track-name": "GTR 2 ROOM COMP_01.1",
+    "track-name": "Keyz.09 (Stereo)",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/GTR 2 ROOM COMP_01.1.wav",
+    "track-audio-path": "./audio/PouringRoom/Keyz.09_01.L.wav",
     "parameters": {
       "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "EQ3 7-Band (mono)"
-      ]
+      "pan": [0],
+      "plug-ins": ["Channel Strip (mono)"]
     }
   },
   {
-    "track-name": "GTR 2 CRAP COMP_01.1",
+    "track-name": "Keyz.09.L",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/GTR 2 CRAP COMP_01.1.wav",
+    "track-audio-path": "./audio/PouringRoom/Keyz.09_01.L.wav",
     "parameters": {
       "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": []
+      "pan": [0],
+      "plug-ins": ["Channel Strip (mono)"]
     }
   },
   {
-    "track-name": "KickIn COMP_01.1",
+    "track-name": "Keyz.09.R",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/KickIn COMP_01.1.wav",
+    "track-audio-path": "./audio/PouringRoom/Keyz.09_01.R.wav",
     "parameters": {
       "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "Dyn3 Expander/Gate (mono)",
-        "EQ3 7-Band (mono)"
-      ]
+      "pan": [0],
+      "plug-ins": ["Channel Strip (mono)"]
     }
   },
   {
-    "track-name": "KickOut COMP_01.2",
+    "track-name": "LDVoc58.09",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/KickOut COMP_01.1.wav",
+    "track-audio-path": "./audio/PouringRoom/LDVoc58.09_01.wav",
     "parameters": {
       "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "Dyn3 Expander/Gate (mono)",
-        "EQ3 7-Band (mono)"
-      ]
+      "pan": [0],
+      "plug-ins": ["Channel Strip (mono)"]
     }
   },
   {
-    "track-name": "Kit COMP_01",
+    "track-name": "Back1SM58.09",
     "track-type": "AUDIO",
     "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/Kit COMP_01.1.wav",
+    "track-audio-path": "./audio/PouringRoom/Back1SM58.09_01.wav",
     "parameters": {
       "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": []
-    }
-  },
-  {
-    "track-name": "SnTop COMP_01.1",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/SnTop COMP_01.1.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "Dyn3 Expander/Gate (mono)",
-        "EQ3 7-Band (mono)"
-      ]
-    }
-  },
-  {
-    "track-name": "SnBot COMP_01.1",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/SnBot COMP_01.1.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "Dyn3 Expander/Gate (mono)",
-        "EQ3 7-Band (mono)"
-      ]
-    }
-  },
-  {
-    "track-name": "Tom COMP_01.1",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/Tom COMP_01.1.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "Dyn3 Expander/Gate (mono)"
-      ]
-    }
-  },
-  {
-    "track-name": "OHL COMP_01.2",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/OHL COMP_01.1.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "EQ3 7-Band (mono)"
-      ]
-    }
-  },
-  {
-    "track-name": "OH CRAP L COMP_01",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/OH CRAP L COMP_01.1.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": []
-    }
-  },
-  {
-    "track-name": "OH CRAP R COMP_01",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/OH CRAP R COMP_01.1.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": []
-    }
-  },
-  {
-    "track-name": "OHR COMP_01.2",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/OHR COMP_01.1.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": []
-    }
-  },
-  {
-    "track-name": "ROOM COMP_01.1",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/ROOM COMP_01.1.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": []
-    }
-  },
-  {
-    "track-name": "BassDI COMP_01.1",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/BassDI COMP_01.1.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "EQ3 7-Band (mono)"
-      ]
-    }
-  },
-  {
-    "track-name": "BassAmp COMP_01.1",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/BassAmp COMP_01.1.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": []
-    }
-  },
-  {
-    "track-name": "TAMBO ELAM.01_04.1",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/TAMBO ELAM.01_04.1.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "EQ3 7-Band (mono)"
-      ]
-    }
-  },
-  {
-    "track-name": "TAMBO CRAP.01_04.1",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/TAMBO CRAP.01_04.1.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": []
-    }
-  },
-  {
-    "track-name": "SHAKER PHASER.01_02.1",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/SHAKER PHASER.01_02.1.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "EQ3 7-Band (mono)"
-      ]
-    }
-  },
-  {
-    "track-name": "SHAKER ELAM.01_04.1",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/SHAKER ELAM.01_04.1.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": []
-    }
-  },
-  {
-    "track-name": "SHAKER CRAP.01_04.1",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/SHAKER CRAP.01_04.1.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "EQ3 7-Band (mono)"
-      ]
-    }
-  },
-  {
-    "track-name": "BELLS CRAP.01_06.1",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/BELLS CRAP.01_06.1.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "EQ3 7-Band (mono)"
-      ]
-    }
-  },
-  {
-    "track-name": "BELLS ELAM.01_06.1",
-    "track-type": "AUDIO",
-    "channel-mode": "MONO",
-    "track-audio-path": "./audio/OldTree/BELLS ELAM.01_06.1.wav",
-    "parameters": {
-      "gain": 0,
-      "pan": [
-        0
-      ],
-      "plug-ins": [
-        "Dyn3 Compressor/Limiter (mono)",
-        "EQ3 7-Band (mono)"
-      ]
+      "pan": [0],
+      "plug-ins": ["Channel Strip (mono)"]
     }
   }
 ]
