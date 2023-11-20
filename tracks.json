@@ -39450,7 +39450,833 @@
       "song-name": "Pouring Room",
       "artist-name": "The Districts",
       "genre": "COUNTRY",
-      "tracks": []
+      "tracks": [
+        [
+          {
+            "track-name": "Kin.09",
+            "track-type": "AUDIO",
+            "channel-mode": "MONO",
+            "track-audio-path": "./audio/PouringRoom/Kin.09_01.wav",
+            "parameters": {
+              "gain": -2.6,
+              "pan": [0],
+              "eq": [
+                {
+                  "type": "HP",
+                  "value": {
+                    "freq": 31.3,
+                    "q": 0,
+                    "gain": 12
+                  }
+                },
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 148.6,
+                    "q": 4.2,
+                    "gain": 3
+                  }
+                },
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 2100,
+                    "q": 3.43,
+                    "gain": 1.9
+                  }
+                }
+              ],
+              "compression": [
+                {
+                  "name": "Channel Strip",
+                  "attack": 17.4,
+                  "release": 158.9,
+                  "thres": -35.4,
+                  "depth": -36,
+                  "gain": 4.1,
+                  "ratio": "4.8:1",
+                  "knee": 0
+                }
+              ],
+              "gate": [
+                {
+                  "name": "Channel Strip",
+                  "attack": 0.02,
+                  "release": 257.6,
+                  "thres": -54.9,
+                  "depth": -10,
+                  "ratio": "1.2:5",
+                  "knee": 2.3,
+                  "hold": 1
+                }
+              ],
+              "reverb": [
+                {
+                  "name": "PCM Native Room",
+                  "type": "ROOM",
+                  "send": "True",
+                  "gain": 0,
+                  "pan": [0]
+                }
+              ]
+            }
+          },
+          {
+            "track-name": "KOut.09",
+            "track-type": "AUDIO",
+            "channel-mode": "MONO",
+            "track-audio-path": "./audio/PouringRoom/KOut.09_01.wav",
+            "parameters": {
+              "gain": 1.1,
+              "pan": [0],
+              "eq": [
+                {
+                  "type": "HP",
+                  "value": {
+                    "freq": 41.3,
+                    "q": 0,
+                    "gain": 24
+                  }
+                },
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 148.6,
+                    "q": 4.2,
+                    "gain": 3
+                  }
+                },
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 2100,
+                    "q": 3.43,
+                    "gain": 1.9
+                  }
+                }
+              ],
+              "compression": [
+                {
+                  "name": "Channel Strip",
+                  "attack": 17.4,
+                  "release": 158.9,
+                  "thres": -35.4,
+                  "depth": -36,
+                  "gain": 4.1,
+                  "ratio": "4.8:1",
+                  "knee": 0
+                }
+              ]
+            }
+          },
+          {
+            "track-name": "SnT1.09",
+            "track-type": "AUDIO",
+            "channel-mode": "MONO",
+            "track-audio-path": "./audio/PouringRoom/SnT1.09_01.wav",
+            "parameters": {
+              "gain": 6.5,
+              "pan": [0],
+              "eq": [
+                {
+                  "type": "HP",
+                  "value": {
+                    "freq": 52.7,
+                    "q": 0,
+                    "gain": 24
+                  }
+                },
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 622.5,
+                    "q": 2.94,
+                    "gain": -5.1
+                  }
+                },
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 3300,
+                    "q": 1.6,
+                    "gain": 3.3
+                  }
+                },
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 179.5,
+                    "q": 2.89,
+                    "gain": -2
+                  }
+                },
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 1000,
+                    "q": 3.08,
+                    "gain": 1.4
+                  }
+                }
+              ],
+              "compression": [
+                {
+                  "name": "Channel Strip",
+                  "attack": 11,
+                  "release": 138.4,
+                  "thres": -36.4,
+                  "depth": -36,
+                  "gain": 4.6,
+                  "ratio": "2.1:1",
+                  "knee": 2.4
+                }
+              ],
+              "reverb": [
+                {
+                  "name": "PCM Native Room",
+                  "type": "ROOM",
+                  "send": "True",
+                  "gain": -9.9,
+                  "pan": [0]
+                },
+                {
+                  "name": "PCM Native Room",
+                  "type": "ROOM",
+                  "send": "True",
+                  "gain": 0,
+                  "pan": [0]
+                },
+                {
+                  "name": "PCM Native Room",
+                  "type": "ROOM",
+                  "send": "True",
+                  "gain": 0,
+                  "pan": [0]
+                }
+              ]
+            }
+          },
+          {
+            "track-name": "SnT2.09",
+            "track-type": "AUDIO",
+            "channel-mode": "MONO",
+            "track-audio-path": "./audio/PouringRoom/SnT2.09_01.wav",
+            "parameters": {
+              "gain": -9.8,
+              "pan": [0],
+              "eq": [
+                {
+                  "type": "HP",
+                  "value": {
+                    "freq": 52.7,
+                    "q": 0,
+                    "gain": 24
+                  }
+                },
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 179.5,
+                    "q": 2.89,
+                    "gain": -2
+                  }
+                },
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 1000,
+                    "q": 3.08,
+                    "gain": 1.4
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "track-name": "StOH.09 (Stereo)",
+            "track-type": "AUDIO",
+            "channel-mode": "STEREO",
+            "track-audio-path": "./audio/PouringRoom/StOH.09_01.L.wav",
+            "parameters": {
+              "gain": -1.7,
+              "pan": [-100, 100],
+              "eq": [
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 5000,
+                    "q": 1.21,
+                    "gain": 3.8
+                  }
+                }
+              ],
+              "reverb": [
+                {
+                  "name": "PCM Native Room",
+                  "type": "ROOM",
+                  "send": "True",
+                  "gain": 0.3,
+                  "pan": [-100, 100]
+                }
+              ]
+            }
+          },
+          {
+            "track-name": "Hat.09",
+            "track-type": "AUDIO",
+            "channel-mode": "MONO",
+            "track-audio-path": "./audio/PouringRoom/Hat.09_01.wav",
+            "parameters": {
+              "gain": -6.5,
+              "pan": [100],
+              "eq": [
+                {
+                  "type": "HP",
+                  "value": {
+                    "freq": 231.1,
+                    "q": 0,
+                    "gain": 24
+                  }
+                },
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 10300,
+                    "q": 0.5,
+                    "gain": -2.6
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "track-name": "Tom1.09",
+            "track-type": "AUDIO",
+            "channel-mode": "MONO",
+            "track-audio-path": "./audio/PouringRoom/Tom1.09_01.wav",
+            "parameters": {
+              "gain": -6.5,
+              "pan": [17],
+              "eq": [
+                {
+                  "type": "HP",
+                  "value": {
+                    "freq": 66.1,
+                    "q": 0,
+                    "gain": 24
+                  }
+                }
+              ],
+              "reverb": [
+                {
+                  "name": "PCM Native Room",
+                  "type": "ROOM",
+                  "send": "True",
+                  "gain": -4.8,
+                  "pan": [17]
+                }
+              ]
+            }
+          },
+          {
+            "track-name": "Floor.09",
+            "track-type": "AUDIO",
+            "channel-mode": "MONO",
+            "track-audio-path": "./audio/PouringRoom/Floor.09_01.wav",
+            "parameters": {
+              "gain": -2,
+              "pan": [-83],
+              "eq": [
+                {
+                  "type": "HP",
+                  "value": {
+                    "freq": 39.2,
+                    "q": 0,
+                    "gain": 24
+                  }
+                }
+              ],
+              "reverb": [
+                {
+                  "name": "PCM Native Room",
+                  "type": "ROOM",
+                  "send": "True",
+                  "gain": -4.8,
+                  "pan": [-83]
+                }
+              ]
+            }
+          },
+          {
+            "track-name": "CymbalODB.09 (Stereo)",
+            "track-type": "AUDIO",
+            "channel-mode": "STEREO",
+            "track-audio-path": "./audio/PouringRoom/CymbalODB.09_01.L.wav",
+            "parameters": {
+              "gain": -10.2,
+              "pan": [-100, 100],
+              "eq": [
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 2400,
+                    "q": 0.89,
+                    "gain": 2.6
+                  }
+                },
+                {
+                  "type": "HS",
+                  "value": {
+                    "freq": 9900,
+                    "q": 0.5,
+                    "gain": 1.8
+                  }
+                }
+              ],
+              "compression": [
+                {
+                  "name": "Channel Strip",
+                  "attack": 100,
+                  "release": 200,
+                  "thres": -52.2,
+                  "depth": -36,
+                  "gain": 5.0,
+                  "ratio": "1.4:1",
+                  "knee": 4.3
+                }
+              ],
+              "reverb": [
+                {
+                  "name": "PCM Native Room",
+                  "type": "ROOM",
+                  "send": "True",
+                  "gain": 7.2,
+                  "pan": [-100, 100]
+                }
+              ]
+            }
+          },
+          {
+            "track-name": "Bass Amp.09",
+            "track-type": "AUDIO",
+            "channel-mode": "MONO",
+            "track-audio-path": "./audio/PouringRoom/Bass Amp.09_01.wav",
+            "parameters": {
+              "gain": -5.8,
+              "pan": [0],
+              "eq": [
+                {
+                  "type": "LS",
+                  "value": {
+                    "freq": 113,
+                    "q": 0.5,
+                    "gain": 1.1
+                  }
+                },
+                {
+                  "type": "HS",
+                  "value": {
+                    "freq": 146,
+                    "q": 1.93,
+                    "gain": -1.6
+                  }
+                }
+              ],
+              "compression": [
+                {
+                  "name": "Channel Strip",
+                  "attack": 9.1,
+                  "release": 479.8,
+                  "thres": -26.8,
+                  "depth": -36,
+                  "gain": 4.2,
+                  "ratio": "2.3:1",
+                  "knee": 0
+                }
+              ]
+            }
+          },
+          {
+            "track-name": "Act Guit.09 (Stereo)",
+            "track-type": "AUDIO",
+            "channel-mode": "MONO",
+            "track-audio-path": "./audio/PouringRoom/Act Guit.09_01.L.wav",
+            "parameters": {
+              "gain": -4.9,
+              "pan": [20, 100],
+              "eq": [
+                {
+                  "type": "HP",
+                  "value": {
+                    "freq": 113.3,
+                    "q": 0,
+                    "gain": 24
+                  }
+                },
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 167.4,
+                    "q": 1.53,
+                    "gain": -2.7
+                  }
+                },
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 13000,
+                    "q": 3.33,
+                    "gain": 2.6
+                  }
+                }
+              ],
+              "compression": [
+                {
+                  "name": "Channel Strip",
+                  "attack": 3.9,
+                  "release": 339.6,
+                  "thres": -34.4,
+                  "depth": -36,
+                  "gain": 3.6,
+                  "ratio": "1.7:1",
+                  "knee": 3.2
+                }
+              ],
+              "reverb": [
+                {
+                  "name": "PCM Native Room",
+                  "type": "ROOM",
+                  "send": "True",
+                  "gain": 3.3,
+                  "pan": [20, 100]
+                }
+              ]
+            }
+          },
+          {
+            "track-name": "Paul GTR.09",
+            "track-type": "AUDIO",
+            "channel-mode": "MONO",
+            "track-audio-path": "./audio/PouringRoom/Paul GTR.09_01.wav",
+            "parameters": {
+              "gain": -5.8,
+              "pan": [-87],
+              "eq": [
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 7200,
+                    "q": 1.63,
+                    "gain": 5.1
+                  }
+                },
+                {
+                  "type": "HS",
+                  "value": {
+                    "freq": 9300,
+                    "q": 0.5,
+                    "gain": 2.1
+                  }
+                },
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 146.6,
+                    "q": 2.6,
+                    "gain": -3.1
+                  }
+                }
+              ],
+              "compression": [
+                {
+                  "name": "Channel Strip",
+                  "attack": 1,
+                  "release": 240.5,
+                  "thres": -32,
+                  "depth": -36,
+                  "gain": 2.3,
+                  "ratio": "1.7:1",
+                  "knee": 5.1
+                }
+              ],
+              "reverb": [
+                {
+                  "name": "PCM Native Room",
+                  "type": "ROOM",
+                  "send": "True",
+                  "gain": 0,
+                  "pan": [-87]
+                }
+              ]
+            }
+          },
+          {
+            "track-name": "Paul GTR R84.09",
+            "track-type": "AUDIO",
+            "channel-mode": "MONO",
+            "track-audio-path": "./audio/PouringRoom/Paul GTR R84.09_01.wav",
+            "parameters": {
+              "gain": -29.7,
+              "pan": [-87],
+              "eq": [
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 146.6,
+                    "q": 2.6,
+                    "gain": -3.1
+                  }
+                }
+              ],
+              "compression": [
+                {
+                  "name": "Channel Strip",
+                  "attack": 1,
+                  "release": 240.5,
+                  "thres": -32,
+                  "depth": -36,
+                  "gain": 2.3,
+                  "ratio": "1.7:1",
+                  "knee": 5.1
+                }
+              ],
+              "reverb": [
+                {
+                  "name": "PCM Native Room",
+                  "type": "ROOM",
+                  "send": "True",
+                  "gain": 0,
+                  "pan": [-87]
+                }
+              ]
+            }
+          },
+          {
+            "track-name": "GtrSolo201.09",
+            "track-type": "AUDIO",
+            "channel-mode": "MONO",
+            "track-audio-path": "./audio/PouringRoom/GtrSolo201.09_01.wav",
+            "parameters": {
+              "gain": -6.6,
+              "pan": [21],
+              "eq": [
+                {
+                  "type": "HP",
+                  "value": {
+                    "freq": 119.3,
+                    "q": 0,
+                    "gain": 24
+                  }
+                },
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 1147.7,
+                    "q": 1.68,
+                    "gain": -3.7
+                  }
+                },
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 3700,
+                    "q": 1.31,
+                    "gain": 2
+                  }
+                }
+              ],
+              "reverb": [
+                {
+                  "name": "PCM Native Room",
+                  "type": "ROOM",
+                  "send": "True",
+                  "gain": 0,
+                  "pan": [21]
+                },
+                {
+                  "name": "PCM Native Room",
+                  "type": "ROOM",
+                  "send": "True",
+                  "gain": -2.7,
+                  "pan": [0]
+                }
+              ]
+            }
+          },
+          {
+            "track-name": "Keyz.09.L",
+            "track-type": "AUDIO",
+            "channel-mode": "MONO",
+            "track-audio-path": "./audio/PouringRoom/Keyz.09_01.L.wav",
+            "parameters": {
+              "gain": -5.6,
+              "pan": [-56],
+              "eq": [
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 146.6,
+                    "q": 2.68,
+                    "gain": -3.6
+                  }
+                },
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 1500,
+                    "q": 1.87,
+                    "gain": 2.9
+                  }
+                }
+              ],
+              "reverb": [
+                {
+                  "name": "PCM Native Room",
+                  "type": "ROOM",
+                  "send": "True",
+                  "gain": 2.1,
+                  "pan": [-56]
+                }
+              ]
+            }
+          },
+          {
+            "track-name": "Keyz.09.R",
+            "track-type": "AUDIO",
+            "channel-mode": "MONO",
+            "track-audio-path": "./audio/PouringRoom/Keyz.09_01.R.wav",
+            "parameters": {
+              "gain": -5.4,
+              "pan": [56],
+              "eq": [
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 146.6,
+                    "q": 2.68,
+                    "gain": -3.6
+                  }
+                },
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 1500,
+                    "q": 1.87,
+                    "gain": 2.9
+                  }
+                }
+              ],
+              "reverb": [
+                {
+                  "name": "PCM Native Room",
+                  "type": "ROOM",
+                  "send": "True",
+                  "gain": 2.1,
+                  "pan": [56]
+                }
+              ]
+            }
+          },
+          {
+            "track-name": "LDVoc58.09",
+            "track-type": "AUDIO",
+            "channel-mode": "MONO",
+            "track-audio-path": "./audio/PouringRoom/LDVoc58.09_01.wav",
+            "parameters": {
+              "gain": -19.8,
+              "pan": [0],
+              "eq": [
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 218.9,
+                    "q": 2.56,
+                    "gain": -2.8
+                  }
+                },
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 3200,
+                    "q": 2.52,
+                    "gain": 1.7
+                  }
+                }
+              ],
+              "compression": [
+                {
+                  "name": "Channel Strip",
+                  "attack": 8.3,
+                  "release": 468.8,
+                  "thres": -40.6,
+                  "depth": -36,
+                  "gain": 3.7,
+                  "ratio": "1.9:1",
+                  "knee": 5
+                }
+              ],
+              "reverb": [
+                {
+                  "name": "PCM Native Room",
+                  "type": "ROOM",
+                  "send": "True",
+                  "gain": 0,
+                  "pan": [0]
+                }
+              ]
+            }
+          },
+          {
+            "track-name": "Back1SM58.09",
+            "track-type": "AUDIO",
+            "channel-mode": "MONO",
+            "track-audio-path": "./audio/PouringRoom/Back1SM58.09_01.wav",
+            "parameters": {
+              "gain": -5.2,
+              "pan": [0],
+              "eq": [
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 218.9,
+                    "q": 2.56,
+                    "gain": -2.8
+                  }
+                },
+                {
+                  "type": "NOTCH",
+                  "value": {
+                    "freq": 3200,
+                    "q": 2.52,
+                    "gain": 1.7
+                  }
+                }
+              ],
+              "compression": [
+                {
+                  "name": "Channel Strip",
+                  "attack": 8.3,
+                  "release": 468.8,
+                  "thres": -40.6,
+                  "depth": -36,
+                  "gain": 3.7,
+                  "ratio": "1.9:1",
+                  "knee": 5
+                }
+              ],
+              "reverb": [
+                {
+                  "name": "PCM Native Room",
+                  "type": "ROOM",
+                  "send": "True",
+                  "gain": 5.3,
+                  "pan": [0]
+                }
+              ]
+            }
+          }
+        ]
+      ]
     }
   ]
 }
