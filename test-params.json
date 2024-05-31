@@ -1,0 +1,6 @@
+{
+  "types": [
+    { "type": "EQ", "parameters": ["type", "gain", "q", "freq"] },
+    { "type": "Reverb", "parameters": ["type", "pre-delay", "length"] }
+  ]
+}

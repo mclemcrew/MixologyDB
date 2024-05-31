@@ -2,7 +2,7 @@
 
 A repo containing JSON descriptions of open-sourced and Creative Commons licensed audio files and their respective parameter values for common audio effect values used within the singular track.
 
-The majority of these tracks come from [The Mixing Evaluation dataset](http://c4dm.eecs.qmul.ac.uk/multitrack/MixEvaluation/) by Brecht De Man et al. This repo contains the tools and an example file of the full dataset that can be found on [HuggingFace](https://huggingface.co/datasets/mclemcrew/MixologyDB) and will be available 04/01/24.
+The majority of these tracks come from [The Mixing Evaluation dataset](http://c4dm.eecs.qmul.ac.uk/multitrack/MixEvaluation/) by Brecht De Man et al. This repo contains the tools and an example file of the full dataset that can be found on [HuggingFace](https://huggingface.co/datasets/mclemcrew/MixologyDB) and will be available 12/05/23.
 
 You will find two tools in this repo:
 - Rotary Calculator

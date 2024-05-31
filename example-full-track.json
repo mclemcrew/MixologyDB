@@ -1,0 +1,1528 @@
+{
+  "mix-name": "McG-A",
+  "song-name": "Not Alone",
+  "artist-name": "Fredy V",
+  "genre": "SOUL",
+  "mix-evaluation": [
+    {
+      "track-num-eval": 0.83,
+      "track-semantic-eval": "Needs more verb on the backgrounds. Good presence on the lead and good positioning in general, too dry?",
+      "track-instructions": [
+        {
+          "originalStatement": "Needs more verb on the backgrounds",
+          "sentiment": 0,
+          "instruction": "Please reduce the reverb on the background tracks",
+          "task": "Change the Reverb on the ./audio/NotAlone/BVox1_CONS.wav, ./audio/NotAlone/BVox2_CONS.wav tracks"
+        },
+        {
+          "originalStatement": "Good presence on the lead",
+          "sentiment": 1,
+          "instruction": "Please maintain the good presence on the lead",
+          "task": "Change the EQ on the ./audio/NotAlone/LdVC2_CONS.wav track"
+        },
+        {
+          "originalStatement": "good positioning in general",
+          "sentiment": 1,
+          "instruction": "Please maintain the good positioning in general",
+          "task": "Change the Pan on the ./audio/NotAlone/Stereo_Mix.wav track"
+        },
+        {
+          "originalStatement": "too dry?",
+          "sentiment": 0,
+          "instruction": "Please make the mix too dry",
+          "task": "Change the Reverb on the ./audio/NotAlone/Stereo_Mix.wav track"
+        }
+      ]
+    },
+    {
+      "track-num-eval": 0.44,
+      "track-semantic-eval": "more electric guitar and piano, lead vocal is too upfront, no support from the band, missing lead vocal double parts? could use more reverb on the vocals",
+      "track-instructions": [
+        {
+          "originalStatement": "more electric guitar and piano",
+          "sentiment": 0,
+          "instruction": "Please decrease the presence of the electric guitar and piano",
+          "task": "Change the Gain on the ./audio/NotAlone/GtrLD3_CONS.wav and ./audio/NotAlone/Pia2M1_CONS.wav tracks"
+        },
+        {
+          "originalStatement": "lead vocal is too upfront",
+          "sentiment": 0,
+          "instruction": "Please push back the lead vocal",
+          "task": "Change the Gain on the ./audio/NotAlone/LdVC2_CONS.wav track"
+        },
+        {
+          "originalStatement": "no support from the band",
+          "sentiment": 0,
+          "instruction": "Please lower the volume of the band",
+          "task": "Change the Gain on the ./audio/NotAlone/Stereo_Mix.wav track"
+        },
+        {
+          "originalStatement": "missing lead vocal double parts?",
+          "sentiment": 0,
+          "instruction": "Please add echo to simulate double part vocals",
+          "task": "Change the Delay on the ./audio/NotAlone/LdVC2_CONS.wav track"
+        },
+        {
+          "originalStatement": "could use more reverb on the vocals",
+          "sentiment": 0,
+          "instruction": "Please decrease the reverb on the vocals",
+          "task": "Change the Reverb on the ./audio/NotAlone/LdVC2_CONS.wav, ./audio/NotAlone/LdV3D_CONS.wav, and ./audio/NotAlone/LdV3DH_CONS.wav tracks"
+        }
+      ]
+    },
+    {
+      "track-num-eval": 0.39,
+      "track-semantic-eval": "Missing BGV parts. Instruments do not share a space. BGV peaky in the high end. Needs more blending/reverb. No impact. Good snare volume. Good keys Volume.",
+      "track-instructions": [
+        {
+          "originalStatement": "Missing BGV parts",
+          "sentiment": 0,
+          "instruction": "Please add the missing BGV parts",
+          "task": "Change the Gain on the ./audio/NotAlone/BGV1_CONS.wav, ./audio/NotAlone/BGV2_CONS.wav tracks"
+        },
+        {
+          "originalStatement": "Instruments do not share a space",
+          "sentiment": 0,
+          "instruction": "Please make the instruments not share a space",
+          "task": "Change the Pan on the ./audio/NotAlone/Stereo_Mix.wav track"
+        },
+        {
+          "originalStatement": "BGV peaky in the high end",
+          "sentiment": 0,
+          "instruction": "Please make the BGV peaky in the high end",
+          "task": "Change the EQ on the ./audio/NotAlone/BGV1_CONS.wav, ./audio/NotAlone/BGV2_CONS.wav tracks"
+        },
+        {
+          "originalStatement": "Needs more blending/reverb",
+          "sentiment": 0,
+          "instruction": "Please reduce the blending/reverb",
+          "task": "Change the Reverb on the ./audio/NotAlone/Stereo_Mix.wav track"
+        },
+        {
+          "originalStatement": "No impact",
+          "sentiment": 0,
+          "instruction": "Please reduce the impact of the track",
+          "task": "Change the Compression on the ./audio/NotAlone/Stereo_Mix.wav track"
+        },
+        {
+          "originalStatement": "Good snare volume",
+          "sentiment": 1,
+          "instruction": "Please maintain the snare volume",
+          "task": "Change the Gain on the ./audio/NotAlone/SDIt_CONS.wav track"
+        },
+        {
+          "originalStatement": "Good keys Volume",
+          "sentiment": 1,
+          "instruction": "Please maintain the keys volume",
+          "task": "Change the Gain on the ./audio/NotAlone/PnoRmRL_CONS.wav tracks"
+        }
+      ]
+    },
+    {
+      "track-num-eval": 0.51,
+      "track-semantic-eval": "Fairly good balances. Why'd you take out the BGs at 'in spite of my...'? I miss it. Keys are too low in mix. BG vocals need to be tamed a bit - they jump out at times. Snare verb is too long and slappy, especially when everything else is fairly dry.",
+      "track-instructions": [
+        {
+          "originalStatement": "Fairly good balances",
+          "sentiment": 1,
+          "instruction": "Please maintain the good balances",
+          "task": "Change the EQ on the ./audio/NotAlone/Stereo_Mix.wav track"
+        },
+        {
+          "originalStatement": "Why'd you take out the BGs at 'in spite of my...'? I miss it",
+          "sentiment": 0,
+          "instruction": "Please reintroduce the BGs at 'in spite of my...'",
+          "task": "Change the Gain on the ./audio/NotAlone/BGVsSpM_CONS.wav, ./audio/NotAlone/BGVsSpD_CONS.wav, and ./audio/NotAlone/BGVsSpDH_CONS.wav tracks"
+        },
+        {
+          "originalStatement": "Keys are too low in mix",
+          "sentiment": 0,
+          "instruction": "Please bring up the levels of the keys",
+          "task": "Change the Gain on the ./audio/NotAlone/Keys_CONS.wav track"
+        },
+        {
+          "originalStatement": "BG vocals need to be tamed a bit - they jump out at times",
+          "sentiment": 0,
+          "instruction": "Please tame the BG vocals",
+          "task": "Change the Gain on the ./audio/NotAlone/BGVsSpM_CONS.wav, ./audio/NotAlone/BGVsSpD_CONS.wav, and ./audio/NotAlone/BGVsSpDH_CONS.wav tracks"
+        },
+        {
+          "originalStatement": "Snare verb is too long and slappy, especially when everything else is fairly dry",
+          "sentiment": 0,
+          "instruction": "Please shorten the snare verb",
+          "task": "Change the Reverb on the ./audio/NotAlone/Drums_CONS.wav track"
+        }
+      ]
+    },
+    {
+      "track-num-eval": 1,
+      "track-semantic-eval": "Best mix, nice verb on vox. good balance. Good drum sound, nice bass. Missing some vocals though?",
+      "track-instructions": [
+        {
+          "originalStatement": "Best mix",
+          "sentiment": 1,
+          "instruction": "Please maintain the overall mix",
+          "task": "Change the EQ on the ./audio/NotAlone/Stereo_Mix.wav track"
+        },
+        {
+          "originalStatement": "nice verb on vox",
+          "sentiment": 1,
+          "instruction": "Please maintain the nice reverb on vocals",
+          "task": "Change the Reverb on the ./audio/NotAlone/LdVC2_CONS.wav, ./audio/NotAlone/LdV3D_CONS.wav, and ./audio/NotAlone/LdV3DH_CONS.wav tracks"
+        },
+        {
+          "originalStatement": "good balance",
+          "sentiment": 1,
+          "instruction": "Please maintain the good balance",
+          "task": "Change the EQ on the ./audio/NotAlone/Stereo_Mix.wav track"
+        },
+        {
+          "originalStatement": "Good drum sound, nice bass",
+          "sentiment": 1,
+          "instruction": "Please maintain the good drum sound and nice bass",
+          "task": "Change the EQ on the ./audio/NotAlone/KIn_CONS.wav and ./audio/NotAlone/BassDI_CONS.wav tracks"
+        },
+        {
+          "originalStatement": "Missing some vocals though?",
+          "sentiment": 0,
+          "instruction": "Please increase the prominence of the vocals",
+          "task": "Change the Gain on the ./audio/NotAlone/LdVC2_CONS.wav, ./audio/NotAlone/LdV3D_CONS.wav, and ./audio/NotAlone/LdV3DH_CONS.wav tracks"
+        }
+      ]
+    },
+    {
+      "track-num-eval": 0.91,
+      "track-semantic-eval": "background little upfront but nice balance",
+      "track-instructions": [
+        {
+          "originalStatement": "background little upfront",
+          "sentiment": 0,
+          "instruction": "Please bring the background elements a little upfront",
+          "task": "Change the Gain on the ./audio/NotAlone/Stereo_Mix.wav track"
+        },
+        {
+          "originalStatement": "but nice balance",
+          "sentiment": 1,
+          "instruction": "Please maintain the nice balance",
+          "task": "Change the EQ on the ./audio/NotAlone/Stereo_Mix.wav track"
+        }
+      ]
+    },
+    {
+      "track-num-eval": 0.88,
+      "track-semantic-eval": "nice punchy drums, bass well balanced with kick. Good overall balance, chorus vocals could blend better",
+      "track-instructions": [
+        {
+          "originalStatement": "nice punchy drums",
+          "sentiment": 1,
+          "instruction": "Please maintain the punchiness of the drums",
+          "task": "Change the EQ on the ./audio/NotAlone/KIn_CONS.wav track"
+        },
+        {
+          "originalStatement": "bass well balanced with kick",
+          "sentiment": 1,
+          "instruction": "Please keep the bass well balanced with the kick",
+          "task": "Change the EQ on the ./audio/NotAlone/BassDI_CONS.wav track"
+        },
+        {
+          "originalStatement": "Good overall balance",
+          "sentiment": 1,
+          "instruction": "Please keep the overall balance",
+          "task": "Change the EQ on the ./audio/NotAlone/Stereo_Mix.wav track"
+        },
+        {
+          "originalStatement": "chorus vocals could blend better",
+          "sentiment": 0,
+          "instruction": "Please make the chorus vocals blend more",
+          "task": "Change the EQ on the ./audio/NotAlone/LdV3DH_CONS.wav track"
+        }
+      ]
+    },
+    {
+      "track-num-eval": 0.85,
+      "track-semantic-eval": "good bass and drums - lead voc good, bg vocs low? chorus bgs better, but gets bright...?",
+      "track-instructions": [
+        {
+          "originalStatement": "good bass and drums",
+          "sentiment": 1,
+          "instruction": "Please maintain the good bass and drums",
+          "task": "Change the EQ on the ./audio/NotAlone/BassDI_CONS.wav and ./audio/NotAlone/SnM_CONS.wav tracks"
+        },
+        {
+          "originalStatement": "lead voc good",
+          "sentiment": 1,
+          "instruction": "Please maintain the sound of the lead vocals",
+          "task": "Change the EQ on the ./audio/NotAlone/LdVC1_CONS.wav track"
+        },
+        {
+          "originalStatement": "bg vocs low?",
+          "sentiment": 0,
+          "instruction": "Please lower the volume of the background vocals",
+          "task": "Change the Gain on the ./audio/NotAlone/B3 C- CONS.wav and ./audio/NotAlone/B3 C- CONS2.wav tracks"
+        },
+        {
+          "originalStatement": "chorus bgs better, but gets bright...?",
+          "sentiment": 0,
+          "instruction": "Please adjust the chorus to sound better but not too bright",
+          "task": "Change the EQ on the ./audio/NotAlone/Chrs_B3.wav track"
+        }
+      ]
+    },
+    {
+      "track-num-eval": 0.84,
+      "track-semantic-eval": "good drums & bass, except for lack of Tomsgood piano; good organ balance 1st BG Vocal missing in V2..FAIL!!!",
+      "track-instructions": [
+        {
+          "originalStatement": "good drums & bass, except for lack of Toms",
+          "sentiment": 1,
+          "instruction": "Please ensure the drums and bass are good, but lack Toms",
+          "task": "Change the EQ on the ./audio/NotAlone/Drums_CONS.wav and ./audio/NotAlone/BassDI_CONS.wav tracks"
+        },
+        {
+          "originalStatement": "good piano; good organ balance",
+          "sentiment": 1,
+          "instruction": "Please ensure combined good balance of piano and organ",
+          "task": "Change the EQ on the ./audio/NotAlone/GrandPno_CONS.wav and ./audio/NotAlone/OrgODL_CONS.wav tracks"
+        },
+        {
+          "originalStatement": "1st BG Vocal missing in V2..FAIL!!!",
+          "sentiment": 0,
+          "instruction": "Please make the 1st background vocal absent in V2",
+          "task": "Change the Gain on the ./audio/NotAlone/BG1V_CONS.wav track"
+        }
+      ]
+    },
+    {
+      "track-num-eval": 0.89,
+      "track-semantic-eval": "N/A",
+      "track-instructions": [
+        {
+          "originalStatement": "N/A",
+          "sentiment": 0,
+          "instruction": "No changes are required",
+          "task": "No changes are required"
+        }
+      ]
+    },
+    {
+      "track-num-eval": 0.14,
+      "track-semantic-eval": "Snare is thin like everyone else. Eq pretty good, but voice thin. Could use a bit of verb on the back vocals. Levels out of wack, vocals need riding.",
+      "track-instructions": [
+        {
+          "originalStatement": "Snare is thin like everyone else",
+          "sentiment": 0,
+          "instruction": "Please make the snare sound thin",
+          "task": "Change the EQ on the ./audio/NotAlone/SnareB_CONS.wav track"
+        },
+        {
+          "originalStatement": "Eq pretty good",
+          "sentiment": 1,
+          "instruction": "Please preserve the good EQ",
+          "task": "Change the EQ on the ./audio/NotAlone/Stereo_Mix.wav track"
+        },
+        {
+          "originalStatement": "voice thin",
+          "sentiment": 0,
+          "instruction": "Please make the voice sound thin",
+          "task": "Change the EQ on the ./audio/NotAlone/LdVC2_CONS.wav, ./audio/NotAlone/LdV3D_CONS.wav, and ./audio/NotAlone/LdV3DH_CONS.wav tracks"
+        },
+        {
+          "originalStatement": "Could use a bit of verb on the back vocals",
+          "sentiment": 0,
+          "instruction": "Please reduce the reverb on the back vocals",
+          "task": "Change the Reverb on the ./audio/NotAlone/BGVcH1_CONS.wav and ./audio/NotAlone/BGVcH2_CONS.wav tracks"
+        },
+        {
+          "originalStatement": "Levels out of wack, vocals need riding",
+          "sentiment": 0,
+          "instruction": "Please adjust the levels of the vocals",
+          "task": "Change the Gain on the ./audio/NotAlone/LdVC2_CONS.wav, ./audio/NotAlone/LdV3D_CONS.wav, and ./audio/NotAlone/LdV3DH_CONS.wav tracks"
+        }
+      ]
+    },
+    {
+      "track-num-eval": 0.69,
+      "track-semantic-eval": "nice but hats a bit high",
+      "track-instructions": [
+        {
+          "originalStatement": "nice but hats a bit high",
+          "sentiment": 0,
+          "instruction": "Please make the hats a bit high",
+          "task": "Change the Gain on the ./audio/NotAlone/Hat_CONS.wav track"
+        }
+      ]
+    },
+    {
+      "track-num-eval": 0.72,
+      "track-semantic-eval": "The mix! Nice balance and sonically interesting. Punchy",
+      "track-instructions": [
+        {
+          "originalStatement": "The mix! Nice balance",
+          "sentiment": 1,
+          "instruction": "Please keep a nice balance in the mix",
+          "task": "Change the EQ on the ./audio/NotAlone/Stereo_Mix.wav track"
+        },
+        {
+          "originalStatement": "and sonically interesting",
+          "sentiment": 1,
+          "instruction": "Please make the mix sonically interesting",
+          "task": "Change the EQ on the ./audio/NotAlone/Stereo_Mix.wav track"
+        },
+        {
+          "originalStatement": "Punchy",
+          "sentiment": 1,
+          "instruction": "Please make the mix punchy",
+          "task": "Change the Compression on the ./audio/NotAlone/Stereo_Mix.wav track"
+        }
+      ]
+    },
+    {
+      "track-num-eval": 0.83,
+      "track-semantic-eval": "Maybe the electric guitar could use some panning or some psychoacoustic tricks to be heard better. Amazing mix",
+      "track-instructions": [
+        {
+          "originalStatement": "Maybe the electric guitar could use some panning or some psychoacoustic tricks to be heard better",
+          "sentiment": 0,
+          "instruction": "Please pan the electric guitar or use psychoacoustic tricks on it to improve audibility",
+          "task": "Change the Pan on the ./audio/NotAlone/GtrDIN_CONS.wav track"
+        },
+        {
+          "originalStatement": "Amazing mix",
+          "sentiment": 1,
+          "instruction": "Please maintain the high quality of the mix",
+          "task": "Change the EQ on the ./audio/NotAlone/Stereo_Mix.wav track"
+        }
+      ]
+    },
+    {
+      "track-num-eval": 0.82,
+      "track-semantic-eval": "Vocals are near perfect: clear and crisp. Guitar/synth during the chorus is perfectly balanced, would have more piano focus but that may be personal preference. And thank you for bringing up the organ! Drums good during the verse, but can be a bit quiet otherwise. Some odd drop in energy going in the chorus though!",
+      "track-instructions": [
+        {
+          "originalStatement": "Vocals are near perfect: clear and crisp",
+          "sentiment": 1,
+          "instruction": "Please maintain the clear and crisp vocals",
+          "task": "Change the EQ on the ./audio/NotAlone/LdVC2_CONS.wav, ./audio/NotAlone/LdV3D_CONS.wav, and ./audio/NotAlone/LdV3DH_CONS.wav tracks"
+        },
+        {
+          "originalStatement": "Guitar/synth during the chorus is perfectly balanced",
+          "sentiment": 1,
+          "instruction": "Please retain the perfect balance of guitar/synth during the chorus",
+          "task": "Change the EQ on the ./audio/NotAlone/Gtrs_CONS.wav and ./audio/NotAlone/Synths_CONS.wav tracks"
+        },
+        {
+          "originalStatement": "would have more piano focus but that may be personal preference",
+          "sentiment": 0,
+          "instruction": "Please lower the piano's presence",
+          "task": "Change the EQ on the ./audio/NotAlone/PnoRhds_CONS.wav track"
+        },
+        {
+          "originalStatement": "And thank you for bringing up the organ!",
+          "sentiment": 1,
+          "instruction": "Please maintain the organ's prominence",
+          "task": "Change the EQ on the ./audio/NotAlone/OrgODL_CONS.wav track"
+        },
+        {
+          "originalStatement": "Drums good during the verse, but can be a bit quiet otherwise",
+          "sentiment": 0,
+          "instruction": "Please increase the drum's volume during non-verse sections",
+          "task": "Change the Gain on the ./audio/NotAlone/Drums_CONS.wav track"
+        },
+        {
+          "originalStatement": "Some odd drop in energy going in the chorus though!",
+          "sentiment": 0,
+          "instruction": "Please minimize the energy drop going into the chorus",
+          "task": "Change the Compression on the ./audio/NotAlone/Stereo_Mix.wav track"
+        }
+      ]
+    },
+    {
+      "track-num-eval": 0.85,
+      "track-semantic-eval": "Similar to track 2.",
+      "track-instructions": [
+        {
+          "originalStatement": "Similar to track 2.",
+          "sentiment": 1,
+          "instruction": "Please keep the track similar to track 2",
+          "task": "Change the EQ on the ./audio/NotAlone/Track2.wav track"
+        }
+      ]
+    },
+    {
+      "track-num-eval": 0.72,
+      "track-semantic-eval": "The high mid and high end boost is a bit too dramatic, but the rest of the mix is good.",
+      "track-instructions": [
+        {
+          "originalStatement": "The high mid and high end boost is a bit too dramatic",
+          "sentiment": 0,
+          "instruction": "Please reduce the high mid and high end boost",
+          "task": "Change the EQ on the ./audio/NotAlone/Stereo_Mix.wav track"
+        },
+        {
+          "originalStatement": "but the rest of the mix is good",
+          "sentiment": 1,
+          "instruction": "Please keep the rest of the mix as is",
+          "task": "Do not change any other settings on the ./audio/NotAlone/Stereo_Mix.wav track"
+        }
+      ]
+    },
+    {
+      "track-num-eval": 0.75,
+      "track-semantic-eval": "nice tight mix.",
+      "track-instructions": [
+        {
+          "originalStatement": "nice tight mix",
+          "sentiment": 1,
+          "instruction": "Please maintain the nice tight mix",
+          "task": "Change the Gain on the ./audio/NotAlone/Stereo_Mix.wav track"
+        }
+      ]
+    },
+    {
+      "track-num-eval": 0,
+      "track-semantic-eval": "Feels a bit busy",
+      "track-instructions": [
+        {
+          "originalStatement": "Feels a bit busy",
+          "sentiment": 0,
+          "instruction": "Please make the track less busy",
+          "task": "Please change the Delay on the ./audio/NotAlone/Stereo_Mix.wav track"
+        }
+      ]
+    },
+    {
+      "track-num-eval": 0.34,
+      "track-semantic-eval": "too much energy without control",
+      "track-instructions": [
+        {
+          "originalStatement": "too much energy without control",
+          "sentiment": 0,
+          "instruction": "Please reduce the energy and increase the control in the mix",
+          "task": "Change the Compressor on the ./audio/NotAlone/Stereo_Mix.wav track"
+        }
+      ]
+    },
+    {
+      "track-num-eval": 0.66,
+      "track-semantic-eval": "Pretty similar to 6 and 3 just a tad better",
+      "track-instructions": [
+        {
+          "originalStatement": "Pretty similar to 6 and 3 just a tad better",
+          "sentiment": 1,
+          "instruction": "Please keep the mix similar to versions 6 and 3, but slightly improve",
+          "task": "Change the EQ on the ./audio/NotAlone/Stereo_Mix.wav track"
+        }
+      ]
+    },
+    {
+      "track-num-eval": 0.32,
+      "track-semantic-eval": "bad eq, lacks mids thus lacks some punch. drums sound dry, too far back. quite wide",
+      "track-instructions": [
+        {
+          "originalStatement": "bad eq, lacks mids thus lacks some punch",
+          "sentiment": 0,
+          "instruction": "Please decrease the mids to reduce punch",
+          "task": "Please change the EQ on the ./audio/NotAlone/Stereo_Mix.wav track"
+        },
+        {
+          "originalStatement": "drums sound dry, too far back",
+          "sentiment": 0,
+          "instruction": "Please shift the drums further back and increase their dryness",
+          "task": "Please change the Reverb on the ./audio/NotAlone/Drums_CONS.wav track"
+        },
+        {
+          "originalStatement": "quite wide",
+          "sentiment": 1,
+          "instruction": "Please maintain the wide stereo image",
+          "task": "Change the Panning on the ./audio/NotAlone/Stereo_Mix.wav track"
+        }
+      ]
+    },
+    {
+      "track-num-eval": 0.52,
+      "track-semantic-eval": "some as track 4",
+      "track-instructions": [
+        {
+          "originalStatement": "some as track 4",
+          "sentiment": 0,
+          "instruction": "Please apply the same changes as track 4",
+          "task": "Change the EQ on the ./audio/NotAlone/Track4.wav track"
+        }
+      ]
+    },
+    {
+      "track-num-eval": 0.48,
+      "track-semantic-eval": "Less fulness.",
+      "track-instructions": [
+        {
+          "originalStatement": "Less fulness.",
+          "sentiment": 0,
+          "instruction": "Please reduce the fullness of the sound",
+          "task": "Please change the EQ on the ./audio/NotAlone/Stereo_Mix.wav track"
+        }
+      ]
+    },
+    {
+      "track-num-eval": 0.81,
+      "track-semantic-eval": "I really liked this track. I found the vocals and the instruments well balanced. It feels like listening the band in a jam session in a small cafe, from a table at the back.",
+      "track-instructions": [
+        {
+          "originalStatement": "I really liked this track",
+          "sentiment": 1,
+          "instruction": "Please retain the quality of this track",
+          "task": "Change the EQ on the ./audio/NotAlone/Stereo_Mix.wav track"
+        },
+        {
+          "originalStatement": "I found the vocals and the instruments well balanced",
+          "sentiment": 1,
+          "instruction": "Please maintain the balance between the vocals and the instruments",
+          "task": "Change the EQ on the ./audio/NotAlone/Stereo_Mix.wav track"
+        },
+        {
+          "originalStatement": "It feels like listening the band in a jam session in a small cafe, from a table at the back",
+          "sentiment": 1,
+          "instruction": "Please maintain the intimate, live feeling of a jam session in a small cafe",
+          "task": "Change the Reverb on the ./audio/NotAlone/Stereo_Mix.wav track"
+        }
+      ]
+    },
+    {
+      "track-num-eval": 0.49,
+      "track-semantic-eval": "Vocals sound quite cold or inhuman, though very clear arrangement. Nice build up to chorus.",
+      "track-instructions": [
+        {
+          "originalStatement": "Vocals sound quite cold or inhuman",
+          "sentiment": 0,
+          "instruction": "Please make the vocals sound quite cold or inhuman",
+          "task": "Change the EQ on the ./audio/NotAlone/LdVC2_CONS.wav, ./audio/NotAlone/LdV3D_CONS.wav, and ./audio/NotAlone/LdV3DH_CONS.wav tracks"
+        },
+        {
+          "originalStatement": "though very clear arrangement",
+          "sentiment": 1,
+          "instruction": "Please maintain the clear arrangement",
+          "task": "Change the Panning on the ./audio/NotAlone/Stereo_Mix.wav track"
+        },
+        {
+          "originalStatement": "Nice build up to chorus",
+          "sentiment": 1,
+          "instruction": "Please maintain the nice build up to chorus",
+          "task": "Change the Compressor on the ./audio/NotAlone/Stereo_Mix.wav track"
+        }
+      ]
+    },
+    {
+      "track-num-eval": 0.43,
+      "track-semantic-eval": "Too much high end. Not enough reverb",
+      "track-instructions": [
+        {
+          "originalStatement": "Too much high end",
+          "sentiment": 0,
+          "instruction": "Please reduce the high end",
+          "task": "Change the EQ on the ./audio/NotAlone/Stereo_Mix.wav track"
+        },
+        {
+          "originalStatement": "Not enough reverb",
+          "sentiment": 0,
+          "instruction": "Please increase the reverb",
+          "task": "Change the Reverb on the ./audio/NotAlone/Stereo_Mix.wav track"
+        }
+      ]
+    }
+  ],
+  "tracks": [
+    {
+      "track-name": "KIn",
+      "track-description": "Kick In",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-audio-path": "./audio/NotAlone/KIn_CONS.wav",
+      "parameters": {
+        "gain": -11.4,
+        "pan": [0]
+      }
+    },
+    {
+      "track-name": "KOut",
+      "track-description": "Kick Out",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-audio-path": "./audio/NotAlone/KOut_CONS.wav",
+      "parameters": {
+        "gain": -6.2,
+        "pan": [0],
+        "eq": [
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 54.7,
+              "q": 1,
+              "gain": 4.9
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 170.8,
+              "q": 1,
+              "gain": 3
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 1800,
+              "q": 0.61,
+              "gain": -7.4
+            }
+          }
+        ],
+        "compression": [
+          {
+            "name": "Compressor/Limiter",
+            "attack": 5.1,
+            "release": 752.1,
+            "thres": -23.7,
+            "gain": 5.6,
+            "ratio": "3.6:1",
+            "knee": 0
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "HH",
+      "track-description": "High Hat",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-audio-path": "./audio/NotAlone/HH_CONS.wav",
+      "parameters": {
+        "gain": -20.1,
+        "pan": [54],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 871.6,
+              "q": 0,
+              "gain": 12
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 9170,
+              "q": 1,
+              "gain": 2.5
+            }
+          },
+          {
+            "type": "LP",
+            "value": {
+              "freq": 14710,
+              "q": 0,
+              "gain": 24
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "Sn",
+      "track-description": "Snare",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-audio-path": "./audio/NotAlone/Sn_CONS.wav",
+      "parameters": {
+        "gain": -3.5,
+        "pan": [0],
+        "eq": [
+          {
+            "type": "HS",
+            "value": {
+              "freq": 2760,
+              "q": 0.64,
+              "gain": 5.8
+            }
+          }
+        ],
+        "compression": [
+          {
+            "name": "Compressor/Limiter",
+            "attack": 12.9,
+            "release": 18.1,
+            "thres": -23.4,
+            "gain": 0,
+            "ratio": "4.2:1",
+            "knee": 0
+          },
+          {
+            "name": "Compressor/Limiter",
+            "attack": 10,
+            "release": 80,
+            "thres": -24,
+            "gain": 0,
+            "ratio": "3.0:1",
+            "knee": 0
+          }
+        ],
+        "reverb": [
+          {
+            "name": "D-Verb",
+            "type": "PLATE",
+            "gain": -10.9,
+            "pre-delay": 8,
+            "length": 2500,
+            "mix": 1,
+            "pan": [0],
+            "send": "True"
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "OH St (Stereo)",
+      "track-description": "Overhead Drum Mic",
+      "track-type": "AUDIO",
+      "channel-mode": "STEREO",
+      "track-audio-path": "./audio/NotAlone/OH St_CONS.L.wav",
+      "parameters": {
+        "gain": -1.9,
+        "pan": [84, -100],
+        "eq": [
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 570.4,
+              "q": 3.02,
+              "gain": -4.6
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 952.9,
+              "q": 10,
+              "gain": -15.7
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 3080,
+              "q": 0.99,
+              "gain": 1.1
+            }
+          }
+        ],
+        "reverb": [
+          {
+            "name": "D-Verb",
+            "type": "PLATE",
+            "gain": -10.9,
+            "pre-delay": 0,
+            "length": 1600,
+            "mix": 1,
+            "pan": [-100, 100],
+            "send": "True"
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "BassDI",
+      "track-description": "Bass Direct Input",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-audio-path": "./audio/NotAlone/BassDI_CONS.wav",
+      "parameters": {
+        "gain": -6.2,
+        "pan": [0],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 20,
+              "q": 0,
+              "gain": 12
+            }
+          },
+          {
+            "type": "LS",
+            "value": {
+              "freq": 59.7,
+              "q": 0.81,
+              "gain": 3.3
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 200,
+              "q": 1.19,
+              "gain": 1.8
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 50.9,
+              "q": 1.4,
+              "gain": 3.3
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 130.6,
+              "q": 1.07,
+              "gain": 2
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 535.9,
+              "q": 3.39,
+              "gain": -7.2
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 187.5,
+              "q": 4.62,
+              "gain": -3
+            }
+          },
+          {
+            "type": "HP",
+            "value": {
+              "freq": 1130,
+              "q": 0,
+              "gain": 6
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 3800,
+              "q": 1,
+              "gain": 1.5
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 5960,
+              "q": 1,
+              "gain": 1.2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "EGtr1a",
+      "track-description": "Electric Guitar",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-audio-path": "./audio/NotAlone/EGtr1a_CONS.wav",
+      "parameters": {
+        "gain": -7.7,
+        "pan": [-41],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 134,
+              "q": 0,
+              "gain": 12
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 220.3,
+              "q": 1,
+              "gain": -4.1
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 3800,
+              "q": 1,
+              "gain": 1.5
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 5960,
+              "q": 1,
+              "gain": 1.2
+            }
+          }
+        ],
+        "reverb": [
+          {
+            "name": "LexRoom",
+            "type": "ROOM"
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "EGtr1b",
+      "track-description": "Electric Guitar",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-audio-path": "./audio/NotAlone/EGtr1b_CONS.wav",
+      "parameters": {
+        "gain": -1.9,
+        "pan": [25],
+        "eq": [
+          {
+            "type": "HS",
+            "value": {
+              "freq": 2690,
+              "q": 1,
+              "gain": 3.1
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 200,
+              "q": 1.3,
+              "gain": -6.4
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 3800,
+              "q": 1,
+              "gain": 1.5
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 5960,
+              "q": 1,
+              "gain": 1.2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "EKeys1a",
+      "track-description": "Keyboard",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-audio-path": "./audio/NotAlone/EKeys1a_CONS.wav",
+      "parameters": {
+        "gain": 2.5,
+        "pan": [-100],
+        "eq": [
+          {
+            "type": "HS",
+            "value": {
+              "freq": 2100,
+              "q": 0.46,
+              "gain": 5.3
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 3800,
+              "q": 1,
+              "gain": 1.5
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 5960,
+              "q": 1,
+              "gain": 1.2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "EKeys1b",
+      "track-description": "Keyboard",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-audio-path": "./audio/NotAlone/EKeys1b_CONS.wav",
+      "parameters": {
+        "gain": -6.2,
+        "pan": [100],
+        "eq": [
+          {
+            "type": "HS",
+            "value": {
+              "freq": 2100,
+              "q": 0.46,
+              "gain": 5.3
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 3800,
+              "q": 1,
+              "gain": 1.5
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 5960,
+              "q": 1,
+              "gain": 1.2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "OrgODL",
+      "track-description": "Organ",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-audio-path": "./audio/NotAlone/OrgODL_CONS.wav",
+      "parameters": {
+        "gain": -10.1,
+        "pan": [-100],
+        "eq": [
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 203.8,
+              "q": 1,
+              "gain": -3.6
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 2000,
+              "q": 0.78,
+              "gain": 3.9
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 3800,
+              "q": 1,
+              "gain": 1.5
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 5960,
+              "q": 1,
+              "gain": 1.2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "OrgODR",
+      "track-description": "Organ",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-audio-path": "./audio/NotAlone/OrgODR_CONS.wav",
+      "parameters": {
+        "gain": -2.8,
+        "pan": [100],
+        "eq": [
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 203.8,
+              "q": 1,
+              "gain": -3.6
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 2000,
+              "q": 0.78,
+              "gain": 3.9
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 3800,
+              "q": 1,
+              "gain": 1.5
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 5960,
+              "q": 1,
+              "gain": 1.2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "LdVC2",
+      "track-description": "Lead Vocal",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-audio-path": "./audio/NotAlone/LdVC2_CONS.wav",
+      "parameters": {
+        "gain": -3.7,
+        "pan": [0],
+        "eq": [
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 2770,
+              "q": 1.08,
+              "gain": 1.9
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 2320,
+              "q": 3.24,
+              "gain": -1.5
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 3320,
+              "q": 0.97,
+              "gain": -1
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 5550,
+              "q": 0.64,
+              "gain": 0.6
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 3800,
+              "q": 1,
+              "gain": 1.5
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 5960,
+              "q": 1,
+              "gain": 1.2
+            }
+          }
+        ],
+        "compression": [
+          {
+            "name": "Compressor/Limiter",
+            "attack": 14,
+            "release": 25,
+            "thres": -15.7,
+            "gain": 3.6,
+            "ratio": "3.0:1",
+            "knee": 30
+          }
+        ],
+        "reverb": [
+          {
+            "name": "LexPlate",
+            "type": "PLATE",
+            "gain": 0,
+            "pan": [0],
+            "send": "True"
+          },
+          {
+            "name": "LexVintagePlate",
+            "type": "PLATE",
+            "gain": 0,
+            "pan": [0],
+            "send": "True"
+          },
+          {
+            "name": "LexRoom",
+            "type": "ROOM",
+            "gain": -7.9,
+            "pan": [0],
+            "send": "True"
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "LdV3D",
+      "track-description": "Lead Vocal",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-audio-path": "./audio/NotAlone/LdV3D_CONS.wav",
+      "parameters": {
+        "gain": 0,
+        "pan": [0],
+        "eq": [
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 3800,
+              "q": 1,
+              "gain": 1.5
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 5960,
+              "q": 1,
+              "gain": 1.2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "LdV3DH",
+      "track-description": "Lead Vocal",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-audio-path": "./audio/NotAlone/LdV3DH_CONS.wav",
+      "parameters": {
+        "gain": 0,
+        "pan": [-45],
+        "eq": [
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 3800,
+              "q": 1,
+              "gain": 1.5
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 5960,
+              "q": 1,
+              "gain": 1.2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "BkV1",
+      "track-description": "Backing Vocal",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-audio-path": "./audio/NotAlone/BkV1_CONS.wav",
+      "parameters": {
+        "gain": 0,
+        "pan": [37],
+        "eq": [
+          {
+            "type": "LS",
+            "value": {
+              "freq": 100,
+              "q": 0.68,
+              "gain": -6.4
+            }
+          },
+          {
+            "type": "LS",
+            "value": {
+              "freq": 291.6,
+              "q": 1,
+              "gain": -3.5
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 2520,
+              "q": 1,
+              "gain": 1.1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "BkV1D",
+      "track-description": "Backing Vocal",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-audio-path": "./audio/NotAlone/BkV1D_CONS.wav",
+      "parameters": {
+        "gain": -5.1,
+        "pan": [-49],
+        "eq": [
+          {
+            "type": "LS",
+            "value": {
+              "freq": 100,
+              "q": 0.68,
+              "gain": -6.4
+            }
+          },
+          {
+            "type": "LS",
+            "value": {
+              "freq": 291.6,
+              "q": 1,
+              "gain": -3.5
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 2520,
+              "q": 1,
+              "gain": 1.1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "BkV2",
+      "track-description": "Backing Vocal",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-audio-path": "./audio/NotAlone/BkV2_CONS.wav",
+      "parameters": {
+        "gain": -4.8,
+        "pan": [50],
+        "eq": [
+          {
+            "type": "LS",
+            "value": {
+              "freq": 291.6,
+              "q": 1,
+              "gain": -3.5
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 2520,
+              "q": 1,
+              "gain": 1.1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "BkV2D",
+      "track-description": "Backing Vocal",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-audio-path": "./audio/NotAlone/BkV2D_CONS.wav",
+      "parameters": {
+        "gain": -8.1,
+        "pan": [61],
+        "eq": [
+          {
+            "type": "LS",
+            "value": {
+              "freq": 291.6,
+              "q": 1,
+              "gain": -3.5
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 2520,
+              "q": 1,
+              "gain": 1.1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "BkV3",
+      "track-description": "Backing Vocal",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-audio-path": "./audio/NotAlone/BkV3_CONS.wav",
+      "parameters": {
+        "gain": -8.0,
+        "pan": [0],
+        "eq": [
+          {
+            "type": "LS",
+            "value": {
+              "freq": 291.6,
+              "q": 1,
+              "gain": -3.5
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 2520,
+              "q": 1,
+              "gain": 1.1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "BkV3D",
+      "track-description": "Backing Vocal",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-audio-path": "./audio/NotAlone/BkV3D_CONS.wav",
+      "parameters": {
+        "gain": -8.7,
+        "pan": [100],
+        "eq": [
+          {
+            "type": "LS",
+            "value": {
+              "freq": 291.6,
+              "q": 1,
+              "gain": -3.5
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 2520,
+              "q": 1,
+              "gain": 1.1
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

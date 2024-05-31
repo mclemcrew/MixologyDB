@@ -1,0 +1,7 @@
+[
+  "The bass has too much sub. The drums are relatively soft. The vocals sound good but could use a bit more compression and be a bit brighter. Too much hi-hat in the drums. Guitars sound good but could perhaps come forward a bit more (brighter/less reverb).",
+  "The voice is very distant when the accompaniment comes in. Compression makes the mix more audible. The percussion is well done.",
+  "i think this mix is better.",
+  "Punchy track. Very nice in chorus. Well balanced. Guitars need to be stronger. Drums are tinny. Everything coming from centre apart from spaced guitars, sounds dead at times when guitars get lost.",
+  "Rhythm sensation is strong but BGM sounds a little segregate."
+]

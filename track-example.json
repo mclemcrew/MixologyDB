@@ -1,260 +1,280 @@
 {
-  "mix-name": "McG-A",
-  "song-name": "Lead Me",
-  "artist-name": "The DoneFors",
-  "genre": "COUNTRY",
-  "mix evaluation": [
+  "mix-name": "PXL-L1",
+  "song-name": "Vermont",
+  "artist-name": "The Districts",
+  "genre": "POP ROCK",
+  "mix-evaluation": [
     {
-      "track-num-eval": 0.35,
-      "track-semantic-eval": "less snaps; more space on the vocal"
+      "track-num-eval": 0.76,
+      "track-semantic-eval": "Great mix, but it bothers me a bit in the vocals, something in the low-mid. Otherwise, very well done. In terms of effects and spatiality, this is really good. In my opinion, the drums could be a bit more present."
     },
     {
-      "track-num-eval": 0.65,
-      "track-semantic-eval": "Clear vocals, but lacking space. snaps panning a little weird. general clear. Toms forward."
+      "track-num-eval": 0.47,
+      "track-semantic-eval": "It's very disturbing that the backing track of the lead is running along. They are not in sync. In terms of balance, it's not a bad mix overall, but I just can't listen to it. It irritates me immensely."
     },
     {
-      "track-num-eval": 0.44,
-      "track-semantic-eval": "Stereo width is wide. Vocal is disattached from the rest of the mix."
+      "track-num-eval": 0.87,
+      "track-semantic-eval": "Very nice mix and balance. Unfortunately, no real comments :)"
     },
     {
-      "track-num-eval": 0.49,
-      "track-semantic-eval": "Vocal is bizzarely filtered sounding - no highs, too much mids; good vox level vs ensemble though; nice hard panning on snaps - though too loud and present - dominates vox; nice snare drum sound; bold panning ++ but faliure to compensate for it with appropriate levels and EQ -- meager amt of bass freq"
-    },
-    {
-      "track-num-eval": 0.34,
-      "track-semantic-eval": "Vocals very close, very dry. Need a bit of a sense of space around them. They are also too loud. Stick out."
-    },
-    { "track-num-eval": 0.66, "track-semantic-eval": "Super Dry" },
-    {
-      "track-num-eval": 0.45,
-      "track-semantic-eval": "No blend of instruments at all"
-    },
-    {
-      "track-num-eval": 0.64,
-      "track-semantic-eval": "good balance kick bass. overall could be more reverb. good balance"
-    },
-    { "track-num-eval": 0.43, "track-semantic-eval": "voc too low" },
-    {
-      "track-num-eval": 0.19,
-      "track-semantic-eval": "too dry; clicks panned too far left, not enough ambience; bad comp on e piano"
-    },
-    {
-      "track-num-eval": 0.43,
-      "track-semantic-eval": "male vox way up front (uncomfortably)"
-    },
-    { "track-num-eval": 0.37, "track-semantic-eval": "0" },
-    { "track-num-eval": 0.49, "track-semantic-eval": "/" },
-    {
-      "track-num-eval": 0.59,
-      "track-semantic-eval": "good sounds, whoa fingersnaps! and dry"
-    },
-    {
-      "track-num-eval": 0.31,
-      "track-semantic-eval": "Spectral balance is bad, EQ is not bad"
-    },
-    {
-      "track-num-eval": 0.25,
-      "track-semantic-eval": "vocals sound wierd and super dry. reverb problem?"
-    },
-    { "track-num-eval": 0.38, "track-semantic-eval": "sounds one dimensional" },
-    { "track-num-eval": 0.49, "track-semantic-eval": "/" },
-    { "track-num-eval": 0.58, "track-semantic-eval": "/" },
-    {
-      "track-num-eval": 0,
-      "track-semantic-eval": "3rd: Panning sounds interesting, toms unreasonably loud. Vocals are cutting well through the mix without being too loud. The finger snaps to one side stand out a bit too much (not in loudness but position). Better than (McG-H)"
-    },
-    {
-      "track-num-eval": 0.73,
-      "track-semantic-eval": "Great percussive levels and eq, and balanced wide panning. B.vox pan to one side and lacking beef. Dry vox"
-    },
-    {
-      "track-num-eval": 0.82,
-      "track-semantic-eval": "better 3D perception, but maybe too much..."
-    },
-    { "track-num-eval": 0.61, "track-semantic-eval": "good but dry" },
-    {
-      "track-num-eval": 0.39,
-      "track-semantic-eval": "Finger clicks sound unnatural, heavily panned. The accordion is lacking the high frequencies"
-    },
-    {
-      "track-num-eval": 0.43,
-      "track-semantic-eval": "Too trebly, not enough depth"
-    },
-    {
-      "track-num-eval": 0.29,
-      "track-semantic-eval": "instruments sound more separated than mixed"
-    },
-    {
-      "track-num-eval": 0.09,
-      "track-semantic-eval": "Vocals are completely unprocessed and dry, along with the finger clicks which completely ruins the second half. The dry-ness works a bit in the beginning but just feels unfinished."
-    },
-    {
-      "track-num-eval": 0.61,
-      "track-semantic-eval": "Sounds dry compared to other mixes."
-    },
-    {
-      "track-num-eval": 0.98,
-      "track-semantic-eval": "Vocals have lots of space."
-    },
-    {
-      "track-num-eval": 0.33,
-      "track-semantic-eval": "too dry and sharp and aggressive sound, it seems like radio. Nice organ/synth."
+      "track-num-eval": 0.5,
+      "track-semantic-eval": "Too much drums/vocals, too few guitars, especially the melodic guitar."
     },
     {
       "track-num-eval": 0.54,
-      "track-semantic-eval": "Vocals a bit flat and dry sounding"
+      "track-semantic-eval": "Not the best but certainly not bad."
     },
     {
-      "track-num-eval": 0.12,
-      "track-semantic-eval": "vocals dry, rhodes too present"
+      "track-num-eval": 0.49,
+      "track-semantic-eval": "The mix lacks presence in the vocals. Due to the loud cymbals, you would expect the vocals to be EQed to sound 'fresher.' In mono, the mix loses some of its strength, and the uncontrolled vocals are particularly noticeable."
     },
     {
-      "track-num-eval": 0.32,
-      "track-semantic-eval": "Lead voice is too loud. Now it happens the contrary to many of the previous tracks: there is a lot of panning in order to achieve separation between instruments, but the result is poor and chaotic."
+      "track-num-eval": 0.48,
+      "track-semantic-eval": "Beautiful balance, good EQ, not excessive with reverb, but lacks a bit of freshness."
     },
     {
-      "track-num-eval": 0.24,
-      "track-semantic-eval": "instruments‘ sound too loud and vocal’s sound. Not enough integration."
+      "track-num-eval": 0.64,
+      "track-semantic-eval": "The vocals come in quite abruptly during the chorus but are better in terms of balance. Reverb on the snare sounds nice. This mix sounds more open than mix 1 and 4 and is better in terms of balance. Toms are well balanced compared to the rest of the drums."
     },
     {
       "track-num-eval": 0.51,
-      "track-semantic-eval": "the voice lacks sense of space."
+      "track-semantic-eval": "The mix sounds quite empty. Perhaps make more room through EQ?"
     },
     {
-      "track-num-eval": 0.52,
-      "track-semantic-eval": "Track 4 is not interesting. It sounds like the singer have experienced many vicissitudes of life, and timbre is kind of weak. So stronger instruments sound is needed to support the singers voice, especially multiple instruments are played. If it is a personal concert only with one Folk Guitar, this kind of show way can be concerned."
+      "track-num-eval": 0.14,
+      "track-semantic-eval": "Mix sounds right. Nice spatial image but the snare is a bit small. Sounds quite distant."
+    },
+    {
+      "track-num-eval": 0.59,
+      "track-semantic-eval": "I would personally use less reverb, and especially a different patch. It could also use a bit more brightness and less muddiness; it doesn't necessarily sound open."
+    },
+    {
+      "track-num-eval": 0.42,
+      "track-semantic-eval": "The vocals have good effects but are slightly too loud at some moments. The EQ on the vocals is also well done. Maybe add a bit more compression on the vocals. The song itself lacks a bit of power. Drums are also relatively quiet."
+    },
+    {
+      "track-num-eval": 0.38,
+      "track-semantic-eval": "-The vocals sit well in the mix, but there seems to be a very dull delay on the lead, and it doesn't sound good. -Instruments in this mix seem heavily EQ'd just to cut through the mix, but they don't sound pleasant. I miss definition. -The chorus has a strange balance, it's almost only drums, vocals, and keys, while there is much more in it."
+    },
+    {
+      "track-num-eval": 0.29,
+      "track-semantic-eval": "vocals get lost in places"
+    },
+    {
+      "track-num-eval": 0.56,
+      "track-semantic-eval": "Very narrow stereo width, vocals are too prominent"
+    },
+    {
+      "track-num-eval": 0.56,
+      "track-semantic-eval": "0"
+    },
+    {
+      "track-num-eval": 0.69,
+      "track-semantic-eval": "Nice but some panning should be added to all the instruments (very similar to track 3)"
+    },
+    {
+      "track-num-eval": 0.6,
+      "track-semantic-eval": "A bit too much reverb for my taste. Quite punchy and clear mix though. Vocals dominate too much over the instruments. Good build up to the chorus which sounds more energetic than the verse as it should be. A bit more guitar would be welcome."
+    },
+    {
+      "track-num-eval": 0.56,
+      "track-semantic-eval": "Well balanced and spread out. Vocals clear and with nice space from the reverb. Could have more energy in build-up to chorus."
+    },
+    {
+      "track-num-eval": 0.68,
+      "track-semantic-eval": "good, but compared to others less rich . voice very over the rest"
+    },
+    {
+      "track-num-eval": 0.33,
+      "track-semantic-eval": "barely can hear drums. voice it too present and not improved."
+    },
+    {
+      "track-num-eval": 0.41,
+      "track-semantic-eval": "Too much rev, where have the vocals gone?"
+    },
+    {
+      "track-num-eval": 0.86,
+      "track-semantic-eval": "Hard to make out the lyrics. Vocals should be louder. Nice balance otherwise"
+    },
+    {
+      "track-num-eval": 0.73,
+      "track-semantic-eval": "the voice stands a bit too much"
+    },
+    {
+      "track-num-eval": 0.53,
+      "track-semantic-eval": "there is a high cut here but I can't pin point the main characteristic of this mix. In the beginning vocals are not very well mixed but it gets better in the second section of the mix. Fair mix but lacks excitement"
+    },
+    {
+      "track-num-eval": 0.71,
+      "track-semantic-eval": "maybe the EQ balance affected and mixed all these sound sources together, not bad"
+    },
+    {
+      "track-num-eval": 0.43,
+      "track-semantic-eval": "This lacks punch as well, although I find it better than the first two. The whole mix is not very loud and the guitar is not distinctive enough"
+    },
+    {
+      "track-num-eval": 0.58,
+      "track-semantic-eval": "Background vocals very prominent, Vocals overall a bit too prominent in comparison to remaining instruments. A very interesting mix"
+    },
+    {
+      "track-num-eval": 0.28,
+      "track-semantic-eval": "some delay effect"
     }
   ],
   "tracks": [
     {
-      "track-name": "KOut",
+      "track-name": "Kick In",
       "track-type": "AUDIO",
-      "track-audio-path": "/audio/Kout.wav",
+      "track-instrument": "KICK",
+      "track-instrument-type": "DRUMS",
+      "track-audio-path": "./audio/Vermont/01 K in.wav",
       "channel-mode": "MONO",
       "parameters": {
-        "gain": 0.7,
+        "gain": -5.9,
         "pan": [0],
-        "eq": [
+        "compression": [
           {
-            "type": "HP",
-            "value": { "freq": 31.3, "q": 18 }
-          },
-          {
-            "type": "NOTCH",
-            "value": { "freq": 80, "q": 1.44, "gain": 5.1 }
-          },
-          {
-            "type": "NOTCH",
-            "value": { "freq": 514.6, "q": 3.97, "gain": -6.6 }
-          },
-          {
-            "type": "NOTCH",
-            "value": { "freq": 2860, "q": 1, "gain": 2.3 }
+            "name": "Gate",
+            "attack": 10,
+            "hold": 80,
+            "release": 26,
+            "thresh": -11,
+            "gain": 0,
+            "reduction": -100
           }
         ]
       }
     },
     {
-      "track-name": "SnT2",
+      "track-name": "Kick Out",
       "track-type": "AUDIO",
-      "track-audio-path": "/audio/SnT2.wav",
+      "track-instrument": "KICK",
+      "track-instrument-type": "DRUMS",
+      "track-audio-path": "./audio/Vermont/02 K out.wav",
       "channel-mode": "MONO",
       "parameters": {
-        "gain": -5.2,
+        "gain": -5.9,
+        "pan": [0],
+        "compression": [
+          {
+            "name": "Gate",
+            "attack": 3,
+            "hold": 230,
+            "release": 46.3,
+            "thresh": -14,
+            "gain": 0,
+            "reduction": -100
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "Snare Top",
+      "track-type": "AUDIO",
+      "track-instrument": "SNARE",
+      "track-instrument-type": "DRUMS",
+      "track-audio-path": "./audio/Vermont/03 S top.wav",
+      "channel-mode": "MONO",
+      "parameters": {
+        "gain": -9.9,
         "pan": [0],
         "eq": [
           {
             "type": "HP",
-            "value": { "freq": 20, "q": 6 }
+            "value": {
+              "freq": 114,
+              "q": 0.71
+            }
           },
           {
             "type": "NOTCH",
-            "value": { "freq": 200, "q": 1.17, "gain": 3.1 }
-          },
-          {
-            "type": "NOTCH",
-            "value": { "freq": 732.4, "q": 5.87, "gain": -7.9 }
-          },
-          {
-            "type": "NOTCH",
-            "value": { "freq": 7010, "q": 0.89, "gain": 8.3 }
+            "value": {
+              "freq": 128,
+              "q": 0.41,
+              "gain": 3
+            }
           }
         ],
         "reverb": [
           {
-            "name": "LexRoom",
-            "type": "ROOM",
-            "gain": -11.1,
+            "name": "Space Designer",
+            "type": "PLATE",
+            "gain": -2.7,
             "pan": [0]
           }
         ]
       }
     },
     {
-      "track-name": "StOH",
+      "track-name": "Snare Bott",
       "track-type": "AUDIO",
-      "track-audio-path-left": "/audio/StOH.L.wav",
-      "track-audio-path-right": "/audio/StOH.R.wav",
-      "channel-mode": "STEREO",
-      "parameters": {
-        "gain": 3.2,
-        "pan": [-100, 100]
-      }
-    },
-    {
-      "track-name": "Hat",
-      "track-type": "AUDIO",
-      "track-audio-path": "/audio/Hat.wav",
+      "track-instrument": "SNARE",
+      "track-instrument-type": "DRUMS",
+      "track-audio-path": "./audio/Vermont/04 S bot.wav",
       "channel-mode": "MONO",
       "parameters": {
-        "gain": -1.2,
-        "pan": [100],
+        "gain": -9.5,
+        "pan": [0],
         "eq": [
           {
             "type": "HP",
-            "value": { "freq": 791.8, "q": 18 }
+            "value": {
+              "freq": 114,
+              "q": 0.71
+            }
           }
-        ]
-      }
-    },
-    {
-      "track-name": "Tom1",
-      "track-type": "AUDIO",
-      "track-audio-path": "/audio/Tom1.wav",
-      "channel-mode": "MONO",
-      "parameters": {
-        "gain": -4.9,
-        "pan": [100],
-        "eq": [
-          {
-            "type": "NOTCH",
-            "value": { "freq": 97, "q": 1, "gain": 5.4 }
-          },
-          {
-            "type": "NOTCH",
-            "value": { "freq": 602, "q": 2.79, "gain": -12.1 }
-          },
-          {
-            "type": "NOTCH",
-            "value": { "freq": 8000, "q": 1, "gain": 8.8 }
-          }
-        ]
-      }
-    },
-    {
-      "track-name": "Snaps1",
-      "track-type": "AUDIO",
-      "track-audio-path": "/audio/Snaps1.wav",
-      "channel-mode": "MONO",
-      "parameters": {
-        "gain": -14.5,
-        "pan": [-83],
+        ],
         "reverb": [
           {
-            "name": "LexHall",
-            "type": "HALL",
-            "gain": -11.7,
-            "pan": [100]
+            "name": "Space Designer",
+            "type": "PLATE",
+            "gain": -2,
+            "pan": [0]
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "Rack_15",
+      "track-type": "AUDIO",
+      "track-instrument": "TOM",
+      "track-instrument-type": "DRUMS",
+      "track-audio-path": "./audio/Vermont/05 R tom.wav",
+      "channel-mode": "MONO",
+      "parameters": {
+        "gain": -2.3,
+        "pan": [26],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 114,
+              "q": 0.71
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 580,
+              "q": 1.6,
+              "gain": -4.5
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 6900,
+              "q": 2.6,
+              "gain": 7.5
+            }
+          }
+        ],
+        "reverb": [
+          {
+            "name": "Space Designer",
+            "type": "PLATE",
+            "gain": -0.9,
+            "pan": [0]
           }
         ]
       }
@@ -262,398 +282,630 @@
     {
       "track-name": "Floor",
       "track-type": "AUDIO",
-      "track-audio-path": "/audio/Floor.wav",
-      "track-group": "DRUMS",
+      "track-instrument": "TOM",
+      "track-instrument-type": "DRUMS",
+      "track-audio-path": "./audio/Vermont/06 Fl tom.wav",
       "channel-mode": "MONO",
       "parameters": {
-        "gain": -8.0,
-        "pan": [-100],
+        "gain": -2.5,
+        "pan": [-26],
         "eq": [
           {
             "type": "NOTCH",
-            "value": { "freq": 200, "q": 1, "gain": 2.1 }
+            "value": {
+              "freq": 266,
+              "q": 2,
+              "gain": -5.5
+            }
           },
           {
             "type": "NOTCH",
-            "value": { "freq": 920.3, "q": 3.38, "gain": -8.5 }
-          },
-          {
-            "type": "NOTCH",
-            "value": { "freq": 6880, "q": 0.58, "gain": 5.0 }
-          }
-        ]
-      }
-    },
-    {
-      "track-name": "Act Guit",
-      "track-type": "AUDIO",
-      "track-audio-path-left": "/audio/Act Guit.L.wav",
-      "track-audio-path-right": "/audio/Act Guit.R.wav",
-      "channel-mode": "STEREO",
-      "parameters": {
-        "gain": 0,
-        "pan": [-100, 100],
-        "eq": [
-          {
-            "type": "HP",
-            "value": { "freq": 104.6, "q": 6 }
-          },
-          {
-            "type": "NOTCH",
-            "value": { "freq": 9820, "q": 1, "gain": -0.4 }
-          }
-        ]
-      }
-    },
-    {
-      "track-name": "Paul GTR",
-      "track-type": "AUDIO",
-      "track-audio-path": "/audio/Paul GTR.wav",
-      "channel-mode": "MONO",
-      "parameters": {
-        "gain": -7.0,
-        "pan": [66],
-        "eq": [
-          {
-            "type": "NOTCH",
-            "value": { "freq": 154, "q": 1, "gain": -2.2 }
-          },
-          {
-            "type": "NOTCH",
-            "value": { "freq": 1300, "q": 1, "gain": 5.1 }
-          },
-          {
-            "type": "NOTCH",
-            "value": { "freq": 4270, "q": 1, "gain": 0.9 }
+            "value": {
+              "freq": 5600,
+              "q": 1.1,
+              "gain": 5.5
+            }
           }
         ],
         "reverb": [
           {
-            "name": "LexRoom",
-            "type": "ROOM",
-            "gain": -10.7,
-            "pan": [-99]
+            "name": "Space Designer",
+            "type": "PLATE",
+            "gain": -1,
+            "pan": [0]
           }
         ]
       }
     },
     {
-      "track-name": "Paul GTR.double",
+      "track-name": "OH Ride_15",
       "track-type": "AUDIO",
-      "track-audio-path": "/audio/Paul GTR.double.wav",
+      "track-instrument": "RIDE",
+      "track-instrument-type": "DRUMS",
+      "track-audio-path": "./audio/Vermont/08 OH ride.wav",
       "channel-mode": "MONO",
       "parameters": {
-        "gain": -6.4,
-        "pan": [-100]
+        "gain": -17.5,
+        "pan": [0],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 114,
+              "q": 0.71
+            }
+          }
+        ]
       }
     },
     {
-      "track-name": "Keys2 (edit)",
+      "track-name": "OH Coles_15",
       "track-type": "AUDIO",
-      "track-audio-path": "/audio/Keys2 (edit).wav",
+      "track-instrument": "HI-HAT",
+      "track-instrument-type": "DRUMS",
+      "track-audio-path": "./audio/Vermont/09 OH c.wav",
       "channel-mode": "MONO",
       "parameters": {
-        "gain": 2.1,
-        "pan": [-100],
+        "gain": -17.5,
+        "pan": [-64],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 114,
+              "q": 0.71
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "OH_15 S",
+      "track-type": "AUDIO",
+      "track-instrument": "OVERHEAD",
+      "track-instrument-type": "DRUMS",
+      "track-audio-path": "./audio/Vermont/07 OH hh.wav",
+      "channel-mode": "MONO",
+      "parameters": {
+        "gain": -17.5,
+        "pan": [63],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 114,
+              "q": 0.71
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "Room",
+      "track-type": "AUDIO",
+      "track-instrument": "OVERHEAD",
+      "track-instrument-type": "DRUMS",
+      "track-audio-path": "./audio/Vermont/10 Rm hh.wav",
+      "channel-mode": "MONO",
+      "parameters": {
+        "gain": -17.1,
+        "pan": [-64],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 114,
+              "q": 0.71
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "Rm Ride_15",
+      "track-type": "AUDIO",
+      "track-instrument": "RIDE",
+      "track-instrument-type": "DRUMS",
+      "track-audio-path": "./audio/Vermont/11 Rm ride.wav",
+      "channel-mode": "MONO",
+      "parameters": {
+        "gain": -17.1,
+        "pan": [63],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 114,
+              "q": 0.71
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "tmb2_02",
+      "track-type": "AUDIO",
+      "track-instrument": "TAMBOURINE",
+      "track-instrument-type": "DRUMS",
+      "track-audio-path": "./audio/Vermont/12 Tmbo.wav",
+      "channel-mode": "MONO",
+      "parameters": {
+        "gain": -9.5,
+        "pan": [0],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 114,
+              "q": 0.71
+            }
+          }
+        ],
+        "reverb": [
+          {
+            "name": "Space Designer",
+            "type": "HALL",
+            "gain": 0.4,
+            "pan": [0]
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "tmb_04",
+      "track-type": "AUDIO",
+      "track-instrument": "TAMBOURINE",
+      "track-instrument-type": "DRUMS",
+      "track-audio-path": "./audio/Vermont/Tmbo 2x.wav",
+      "channel-mode": "MONO",
+      "parameters": {
+        "gain": -7.5,
+        "pan": [0],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 114,
+              "q": 0.71
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 1120,
+              "q": 2.8,
+              "gain": -5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "BassDI_14",
+      "track-type": "AUDIO",
+      "track-instrument": "BASS",
+      "track-instrument-type": "BASS",
+      "track-audio-path": "./audio/Vermont/14 B di.wav",
+      "channel-mode": "MONO",
+      "parameters": {
+        "gain": -4.2,
+        "pan": [0],
         "eq": [
           {
             "type": "NOTCH",
-            "value": { "freq": 1000, "q": 1, "gain": 2.0 }
+            "value": {
+              "freq": 400,
+              "q": 1.9,
+              "gain": 9
+            }
           },
           {
             "type": "NOTCH",
-            "value": { "freq": 2800, "q": 0.62, "gain": 4.9 }
-          },
+            "value": {
+              "freq": 810,
+              "q": 3.8,
+              "gain": 9
+            }
+          }
+        ],
+        "compression": [
           {
-            "type": "NOTCH",
-            "value": { "freq": 6000, "q": 1, "gain": 4.5 }
+            "name": "Compressor",
+            "attack": 10,
+            "release": 48,
+            "thresh": -14.5,
+            "gain": 0,
+            "ratio": "1.5:1"
           }
         ]
       }
     },
     {
-      "track-name": "Accordian (edit)",
+      "track-name": "MGtr1TB_09",
       "track-type": "AUDIO",
-      "track-audio-path": "/audio/Accordian (edit).wav",
+      "track-instrument": "LEAD",
+      "track-instrument-type": "GUITARS",
+      "track-audio-path": "./audio/Vermont/18 mGtr1.wav",
       "channel-mode": "MONO",
       "parameters": {
         "gain": -2.8,
-        "pan": [40],
+        "pan": [-26],
         "eq": [
           {
-            "type": "NOTCH",
-            "value": { "freq": 1250, "q": 0.85, "gain": 1.6 }
+            "type": "HP",
+            "value": {
+              "freq": 114,
+              "q": 0.71
+            }
           },
           {
             "type": "NOTCH",
-            "value": { "freq": 9810, "q": 1.0, "gain": 1.6 }
-          }
-        ],
-        "compression": {
-          "name": "BF-76",
-          "attack": 3.1,
-          "release": 7.0,
-          "input": 24.5,
-          "output": 21.5,
-          "ratio": "4:1"
-        },
-        "reverb": [
-          {
-            "name": "LexPlate",
-            "type": "PLATE",
-            "gain": -9.8,
-            "pan": [89]
-          }
-        ]
-      }
-    },
-    {
-      "track-name": "JanineVoc",
-      "track-type": "AUDIO",
-      "track-audio-path": "/audio/JanineVoc.wav",
-      "channel-mode": "MONO",
-      "parameters": {
-        "gain": -3.1,
-        "pan": [-44],
-        "reverb": [
-          {
-            "name": "LexRoom",
-            "type": "ROOM",
-            "gain": -12.9,
-            "pan": [-44]
-          }
-        ]
-      }
-    },
-    {
-      "track-name": "GangM1",
-      "track-type": "AUDIO",
-      "track-audio-path": "/audio/GangM1.wav",
-      "channel-mode": "MONO",
-      "parameters": {
-        "gain": -0,
-        "pan": [-87],
-        "eq": [
-          {
-            "type": "HP",
-            "value": { "freq": 113.3, "q": 18 }
-          }
-        ]
-      }
-    },
-    {
-      "track-name": "GangM2",
-      "track-type": "AUDIO",
-      "track-audio-path": "/audio/GangM2.wav",
-      "channel-mode": "MONO",
-      "parameters": {
-        "gain": -0,
-        "pan": [83],
-        "eq": [
-          {
-            "type": "HP",
-            "value": { "freq": 113.3, "q": 18 }
-          }
-        ]
-      }
-    },
-    {
-      "track-name": "GangM3",
-      "track-type": "AUDIO",
-      "track-audio-path": "/audio/GangM3.wav",
-      "channel-mode": "MONO",
-      "parameters": {
-        "gain": -0,
-        "pan": [-70],
-        "eq": [
-          {
-            "type": "HP",
-            "value": { "freq": 113.3, "q": 18 }
+            "value": {
+              "freq": 850,
+              "q": 1.2,
+              "gain": -6.5
+            }
           },
           {
             "type": "NOTCH",
-            "value": { "freq": 4530, "q": 0.7, "gain": 4.9 }
+            "value": {
+              "freq": 2300,
+              "q": 1.4,
+              "gain": -6
+            }
           }
         ]
       }
     },
     {
-      "track-name": "GangM4",
+      "track-name": "Mgtr1_09",
       "track-type": "AUDIO",
-      "track-audio-path": "/audio/GangM4.wav",
+      "track-instrument": "LEAD",
+      "track-instrument-type": "GUITARS",
+      "track-audio-path": "./audio/Vermont/20 mGtr rm.wav",
       "channel-mode": "MONO",
       "parameters": {
-        "gain": -0,
-        "pan": [65],
-        "eq": [
-          {
-            "type": "HP",
-            "value": { "freq": 113.3, "q": 18 }
-          },
-          {
-            "type": "NOTCH",
-            "value": { "freq": 4510, "q": 0.7, "gain": 4.9 }
-          }
-        ]
-      }
-    },
-    {
-      "track-name": "BACKIN",
-      "track-type": "AUX",
-      "channel-mode": "STEREO",
-      "parameters": {
-        "gain": 3.9,
-        "pan": [-100, 100],
-        "eq": [
-          {
-            "type": "HP",
-            "value": { "freq": 113.3, "q": 18 }
-          },
-          {
-            "type": "NOTCH",
-            "value": { "freq": 4510, "q": 0.7, "gain": 4.9 }
-          }
-        ],
-        "reverb": [
-          {
-            "name": "LexRoom",
-            "type": "ROOM",
-            "gain": -15.4,
-            "pan": [-100, 100]
-          }
-        ]
-      }
-    },
-    {
-      "track-name": "LeadVoc",
-      "track-type": "AUDIO",
-      "channel-mode": "MONO",
-      "parameters": {
-        "gain": -3.4,
+        "gain": -7,
         "pan": [0],
         "eq": [
           {
-            "type": "NOTCH",
-            "value": { "freq": 234.9, "q": 0.85, "gain": 1.6 }
-          },
-          {
-            "type": "NOTCH",
-            "value": { "freq": 1220, "q": 1, "gain": 0.9 }
-          },
-          {
-            "type": "NOTCH",
-            "value": { "freq": 3140, "q": 0.56, "gain": 2.5 }
-          }
-        ],
-        "reverb": [
-          {
-            "name": "LexRoom",
-            "type": "ROOM",
-            "gain": -12.9,
-            "pan": [0]
-          },
-          {
-            "name": "LexHall",
-            "type": "HALL",
-            "gain": -23.0,
-            "pan": [0]
-          },
-          {
-            "name": "LexPlate",
-            "type": "ROOM",
-            "gain": -12.3,
-            "pan": [0]
+            "type": "HP",
+            "value": {
+              "freq": 114,
+              "q": 0.71
+            }
           }
         ]
       }
     },
     {
-      "track-name": "VOCALS",
-      "track-type": "AUX",
-      "channel-mode": "STEREO",
-      "parameters": {
-        "gain": 0,
-        "pan": [-100, 100]
-      }
-    },
-    {
-      "track-name": "DRUMS",
-      "track-type": "AUX",
-      "track-group": "INST",
-      "channel-mode": "STEREO",
-      "parameters": {
-        "gain": 0,
-        "pan": [-100, 100],
-        "compression": {
-          "name": "D3 CL",
-          "attack": 20.6,
-          "release": 119.4,
-          "knee": 0,
-          "thres": -12.9,
-          "gain": 3.0,
-          "ratio": "4:1"
-        }
-      }
-    },
-    {
-      "track-name": "Bass DI",
+      "track-name": "RGtr Cleaner",
       "track-type": "AUDIO",
-      "track-group": "INST",
+      "track-instrument": "RHYTHM",
+      "track-instrument-type": "GUITARS",
+      "track-audio-path": "./audio/Vermont/21 rGtr1.wav",
       "channel-mode": "MONO",
       "parameters": {
-        "gain": -3.2,
+        "gain": -5.8,
         "pan": [0],
         "eq": [
           {
-            "type": "NOTCH",
-            "value": { "freq": 40, "q": 1, "gain": 3.1 }
+            "type": "HP",
+            "value": {
+              "freq": 114,
+              "q": 0.71
+            }
           },
           {
             "type": "NOTCH",
-            "value": { "freq": 99, "q": 0.63, "gain": 1.8 }
-          },
-          {
-            "type": "NOTCH",
-            "value": { "freq": 514, "q": 1, "gain": 1.3 }
+            "value": {
+              "freq": 670,
+              "q": 0.79,
+              "gain": -5
+            }
           }
         ]
       }
     },
     {
-      "track-name": "ACGT",
-      "track-type": "AUX",
-      "channel-mode": "STEREO",
+      "track-name": "RobGtr2 Dist",
+      "track-type": "AUDIO",
+      "track-instrument": "RHYTHM",
+      "track-instrument-type": "GUITARS",
+      "track-audio-path": "./audio/Vermont/22 rGtr2 rm.wav",
+      "channel-mode": "MONO",
       "parameters": {
-        "gain": -0.6,
-        "pan": [-100, 100]
+        "gain": -10.5,
+        "pan": [0],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 114,
+              "q": 0.71
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 770,
+              "q": 1.5,
+              "gain": -4.5
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 1800,
+              "q": 1.5,
+              "gain": -2.5
+            }
+          }
+        ]
       }
     },
     {
-      "track-name": "ELECGT",
-      "track-type": "AUX",
-      "channel-mode": "STEREO",
+      "track-name": "RobGtr2 Room",
+      "track-type": "AUDIO",
+      "track-instrument": "RHYTHM",
+      "track-instrument-type": "GUITARS",
+      "track-audio-path": "./audio/Vermont/22 rGtr2 rm.wav",
+      "channel-mode": "MONO",
+      "parameters": {
+        "gain": -10.5,
+        "pan": [31],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 114,
+              "q": 0.71
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 850,
+              "q": 1.1,
+              "gain": -4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "RobGtr3.02_01",
+      "track-type": "AUDIO",
+      "track-instrument": "RHYTHM",
+      "track-instrument-type": "GUITARS",
+      "track-audio-path": "./audio/Vermont/23 rGtr3.wav",
+      "channel-mode": "MONO",
+      "parameters": {
+        "gain": -9.7,
+        "pan": [-36],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 114,
+              "q": 0.71
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "RobGtr3TB .02_01",
+      "track-type": "AUDIO",
+      "track-instrument": "RHYTHM",
+      "track-instrument-type": "GUITARS",
+      "track-audio-path": "./audio/Vermont/23 rGtr3 rm.wav",
+      "channel-mode": "MONO",
+      "parameters": {
+        "gain": -9.5,
+        "pan": [63],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 114,
+              "q": 0.71
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "mV1_09",
+      "track-type": "AUDIO",
+      "track-instrument": "LEAD",
+      "track-instrument-type": "VOCALS",
+      "track-audio-path": "./audio/Vermont/26 mVHmy1.wav",
+      "channel-mode": "MONO",
+      "parameters": {
+        "gain": -7,
+        "pan": [0],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 114,
+              "q": 0.71
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "rVh_07",
+      "track-type": "AUDIO",
+      "track-instrument": "BACKGROUND",
+      "track-instrument-type": "VOCALS",
+      "track-audio-path": "./audio/Vermont/27 rVHmy1.wav",
+      "channel-mode": "MONO",
+      "parameters": {
+        "gain": -7,
+        "pan": [0],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 114,
+              "q": 0.71
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "wrlz hi_10",
+      "track-type": "AUDIO",
+      "track-instrument": "ELECTRIC",
+      "track-instrument-type": "KEYS",
+      "track-audio-path": "./audio/Vermont/16 Wrlz hi.wav",
+      "channel-mode": "MONO",
       "parameters": {
         "gain": -10.1,
-        "pan": [-100, 100],
+        "pan": [-20],
         "eq": [
           {
-            "type": "NOTCH",
-            "value": { "freq": 2110, "q": 1, "gain": 3.2 }
-          },
-          {
-            "type": "NOTCH",
-            "value": { "freq": 4800, "q": 0.79, "gain": 1.3 }
+            "type": "HP",
+            "value": {
+              "freq": 114,
+              "q": 0.71
+            }
           }
         ]
       }
     },
     {
-      "track-name": "KEYS",
-      "track-type": "AUX",
-      "channel-mode": "STEREO",
+      "track-name": "wrlz lo_09",
+      "track-type": "AUDIO",
+      "track-instrument": "ELECTRIC",
+      "track-instrument-type": "KEYS",
+      "track-audio-path": "./audio/Vermont/17 Wrlz lo.wav",
+      "channel-mode": "MONO",
       "parameters": {
-        "gain": 2.5,
-        "pan": [-100, 100]
+        "gain": -10.1,
+        "pan": [0]
+      }
+    },
+    {
+      "track-name": "LdVox.cmp_01",
+      "track-type": "AUDIO",
+      "track-instrument": "LEAD",
+      "track-instrument-type": "VOCALS",
+      "track-audio-path": "./audio/Vermont/24 rV1.wav",
+      "channel-mode": "MONO",
+      "parameters": {
+        "gain": -3.5,
+        "pan": [0],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 114,
+              "q": 0.71
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 980,
+              "q": 0.6,
+              "gain": -8
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 2700,
+              "q": 0.88,
+              "gain": -5
+            }
+          }
+        ],
+        "reverb": [
+          {
+            "name": "Space Designer",
+            "type": "HALL",
+            "gain": 0.1,
+            "pan": [0],
+            "pre-delay": 0,
+            "length": 3890,
+            "size": 1,
+            "send": "True"
+          }
+        ],
+        "compression": [
+          {
+            "name": "Compressor",
+            "attack": 19,
+            "release": 310,
+            "thresh": -14.5,
+            "gain": 0,
+            "ratio": "2.4:1",
+            "knee": 1
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "Aux 1",
+      "track-type": "AUX",
+      "channel-mode": "MONO",
+      "parameters": {
+        "gain": -2.5,
+        "pan": [0],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 150,
+              "q": 0.71
+            }
+          }
+        ],
+        "reverb": [
+          {
+            "name": "Space Designer",
+            "type": "HALL",
+            "gain": -2.5,
+            "pan": [0],
+            "pre-delay": 0,
+            "length": 3890,
+            "size": 1
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "Aux 2",
+      "track-type": "AUX",
+      "channel-mode": "MONO",
+      "parameters": {
+        "gain": -6.9,
+        "pan": [0],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 206,
+              "q": 0.71
+            }
+          }
+        ],
+        "reverb": [
+          {
+            "name": "Space Designer",
+            "type": "PLATE",
+            "gain": -6.9,
+            "pan": [0],
+            "pre-delay": 0,
+            "length": 1320,
+            "size": 1
+          }
+        ]
       }
     }
   ]

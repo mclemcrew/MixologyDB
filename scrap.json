@@ -1,0 +1,1464 @@
+{
+  "tracks": [
+    {
+      "track-name": "Kick_02",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "KICK",
+      "track-instrument-type": "DRUMS",
+      "track-audio-path": "./audio/IdLikeToKnow/Kick_02",
+      "parameters": {
+        "gain": -3.1,
+        "pan": [0],
+        "eq": [
+          {
+            "type": "LS",
+            "value": {
+              "freq": 71,
+              "q": 2,
+              "gain": 7
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 136,
+              "q": 11,
+              "gain": -10.5
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 1360,
+              "q": 7,
+              "gain": 8
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "KickBatter_16",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "KICK",
+      "track-instrument-type": "DRUMS",
+      "track-audio-path": "./audio/IdLikeToKnow/KickBatter_16.wav",
+      "parameters": {
+        "gain": -11.9,
+        "pan": [0]
+      }
+    },
+    {
+      "track-name": "SN_02",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "SNARE",
+      "track-instrument-type": "DRUMS",
+      "track-audio-path": "./audio/IdLikeToKnow/SN_02.wav",
+      "parameters": {
+        "gain": -11.5,
+        "pan": [0],
+        "eq": [
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 3560,
+              "q": 3.8,
+              "gain": 8
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 7300,
+              "q": 1,
+              "gain": 7
+            }
+          }
+        ],
+        "reverb": [
+          {
+            "name": "Space Designer",
+            "type": "SPRING",
+            "gain": 0,
+            "pan": [0],
+            "pre-delay": 0,
+            "length": 2150,
+            "size": 1,
+            "send": "True"
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "SNBot_02",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "SNARE",
+      "track-instrument-type": "DRUMS",
+      "track-audio-path": "./audio/IdLikeToKnow/SNBot_02.wav",
+      "parameters": {
+        "gain": -13.5,
+        "pan": [0]
+      }
+    },
+    {
+      "track-name": "T1_16",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "TOM",
+      "track-instrument-type": "DRUMS",
+      "track-audio-path": "./audio/IdLikeToKnow/T1_16.wav",
+      "parameters": {
+        "gain": -14,
+        "pan": [-45],
+        "eq": [
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 1500,
+              "q": 4.5,
+              "gain": 6.5
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 150,
+              "q": 0.71,
+              "gain": 5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "T2_16",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "TOM",
+      "track-instrument-type": "DRUMS",
+      "track-audio-path": "./audio/IdLikeToKnow/T2_16.wav",
+      "parameters": {
+        "gain": -10,
+        "pan": [47],
+        "eq": [
+          {
+            "type": "LS",
+            "value": {
+              "freq": 75,
+              "q": 1,
+              "gain": 6
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 320,
+              "q": 0.43,
+              "gain": 5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "OHL_02",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "OVERHEADS",
+      "track-instrument-type": "DRUMS",
+      "track-audio-path": "./audio/IdLikeToKnow/OHL_02.wav",
+      "parameters": {
+        "gain": -14.9,
+        "pan": [-64],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 150,
+              "q": 0.67,
+              "gain": 24
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 800,
+              "q": 2.5,
+              "gain": 10
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 10400,
+              "q": 2,
+              "gain": 9
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "OHR_02",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "OVERHEADS",
+      "track-instrument-type": "DRUMS",
+      "track-audio-path": "./audio/IdLikeToKnow/OHR_02.wav",
+      "parameters": {
+        "gain": -14.9,
+        "pan": [63],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 150,
+              "q": 0.67,
+              "gain": 24
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 800,
+              "q": 2.5,
+              "gain": 10
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 10400,
+              "q": 2,
+              "gain": 9
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "Coles_16",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "OVERHEADS",
+      "track-instrument-type": "DRUMS",
+      "track-audio-path": "./audio/IdLikeToKnow/Coles_16.wav",
+      "parameters": {
+        "gain": -4.3,
+        "pan": [0]
+      }
+    },
+    {
+      "track-name": "Tmb.01_03",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "TAMBOURINE",
+      "track-instrument-type": "DRUMS",
+      "track-audio-path": "./audio/IdLikeToKnow/Tmb.01_03.wav",
+      "parameters": {
+        "gain": -13.2,
+        "pan": [0],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 200,
+              "q": 0.1,
+              "gain": 24
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 580,
+              "q": 0.3,
+              "gain": -13
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 7200,
+              "q": 1,
+              "gain": 2
+            }
+          }
+        ],
+        "compression": [
+          {
+            "name": "Compressor",
+            "attack": 10,
+            "release": 48,
+            "thresh": -30,
+            "gain": -6,
+            "ratio": "3.1:1",
+            "knee": 0.7
+          }
+        ],
+        "reverb": [
+          {
+            "name": "Space Designer",
+            "type": "SPRING",
+            "gain": 3.5,
+            "pan": [0],
+            "pre-delay": 0,
+            "length": 2150,
+            "size": 1,
+            "send": "True"
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "Tmb_03",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "TAMBOURINE",
+      "track-instrument-type": "DRUMS",
+      "track-audio-path": "./audio/IdLikeToKnow/Tmb_03.wav",
+      "parameters": {
+        "gain": -9,
+        "pan": [24]
+      }
+    },
+    {
+      "track-name": "BassAMP_16",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "ELECTRIC",
+      "track-instrument-type": "BASS",
+      "track-audio-path": "./audio/IdLikeToKnow/BassAMP_16.wav",
+      "parameters": {
+        "gain": -9.8,
+        "pan": [0],
+        "eq": [
+          {
+            "type": "LS",
+            "value": {
+              "freq": 41,
+              "q": 1,
+              "gain": -9.5
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 106,
+              "q": 0.6,
+              "gain": 3
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 326,
+              "q": 0.79,
+              "gain": 6
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 1000,
+              "q": 0.6,
+              "gain": 2.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "BassDI_16",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "ELECTRIC",
+      "track-instrument-type": "BASS",
+      "track-audio-path": "./audio/IdLikeToKnow/BassDI_16.wav",
+      "parameters": {
+        "gain": -11.5,
+        "pan": [0],
+        "eq": [
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 87,
+              "q": 0.6,
+              "gain": 4
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 336,
+              "q": 0.3,
+              "gain": 4.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "AcGtr_05",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "ACOUSTIC",
+      "track-instrument-type": "GUITARS",
+      "track-audio-path": "./audio/IdLikeToKnow/AcGtr_05.wav",
+      "parameters": {
+        "gain": -19,
+        "pan": [-34],
+        "eq": [
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 336,
+              "q": 0.6,
+              "gain": 5
+            }
+          }
+        ],
+        "compression": [
+          {
+            "name": "Compressor",
+            "attack": 10,
+            "release": 48,
+            "thresh": -30,
+            "gain": 0,
+            "ratio": "2:1",
+            "knee": 0.7
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "Gtr1.02_02",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "ELECTRIC",
+      "track-instrument-type": "GUITARS",
+      "track-audio-path": "./audio/IdLikeToKnow/Gtr1.02_02.wav",
+      "parameters": {
+        "gain": -7.8,
+        "pan": [38],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 98,
+              "q": 0.71,
+              "gain": 24
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 182,
+              "q": 0.6,
+              "gain": 7
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 630,
+              "q": 1.4,
+              "gain": -6
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 4800,
+              "q": 2.8,
+              "gain": 6
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 8200,
+              "q": 1,
+              "gain": -8
+            }
+          }
+        ],
+        "reverb": [
+          {
+            "name": "Space Designer",
+            "type": "SPRING",
+            "gain": 2,
+            "pan": [0],
+            "pre-delay": 0,
+            "length": 2150,
+            "size": 1,
+            "send": "True"
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "Gtr2.08_02.1",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "ELECTRIC",
+      "track-instrument-type": "GUITARS",
+      "track-audio-path": "./audio/IdLikeToKnow/Gtr2.08_02.wav",
+      "parameters": {
+        "gain": -6.4,
+        "pan": [-50],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 81,
+              "q": 0.71,
+              "gain": 24
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 142,
+              "q": 0.6,
+              "gain": -9
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 3660,
+              "q": 5.3,
+              "gain": 10
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 340,
+              "q": 0.35,
+              "gain": -0.5
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 1400,
+              "q": 1.5,
+              "gain": 7
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 6100,
+              "q": 2,
+              "gain": 8
+            }
+          }
+        ],
+        "reverb": [
+          {
+            "name": "Space Designer",
+            "type": "SPRING",
+            "gain": 1.5,
+            "pan": [0],
+            "pre-delay": 0,
+            "length": 2150,
+            "size": 1,
+            "send": "True"
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "Gtr2Rm.08_02.1",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "ELECTRIC",
+      "track-instrument-type": "GUITARS",
+      "track-audio-path": "./audio/IdLikeToKnow/Gtr2Rm.08_02.wav",
+      "parameters": {
+        "gain": -8.4,
+        "pan": [-28],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 81,
+              "q": 0.71,
+              "gain": 24
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 170,
+              "q": 0.6,
+              "gain": -11.5
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 346,
+              "q": 0.37,
+              "gain": -5.5
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 6100,
+              "q": 2,
+              "gain": 8
+            }
+          }
+        ],
+        "reverb": [
+          {
+            "name": "Space Designer",
+            "type": "SPRING",
+            "gain": 0,
+            "pan": [0],
+            "pre-delay": 0,
+            "length": 2150,
+            "size": 1,
+            "send": "True"
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "Gtr2.dup1.08_02",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "ELECTRIC",
+      "track-instrument-type": "GUITARS",
+      "track-audio-path": "./audio/IdLikeToKnow/Gtr2.dup1.08_02.wav",
+      "parameters": {
+        "gain": -5.3,
+        "pan": [-50],
+        "eq": [
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 490,
+              "q": 0.93,
+              "gain": 5
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 1500,
+              "q": 4,
+              "gain": 10
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 3560,
+              "q": 1.6,
+              "gain": 4.5
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 5100,
+              "q": 1,
+              "gain": 4.5
+            }
+          }
+        ],
+        "reverb": [
+          {
+            "name": "Space Designer",
+            "type": "SPRING",
+            "gain": 0,
+            "pan": [0],
+            "pre-delay": 0,
+            "length": 2150,
+            "size": 1,
+            "send": "True"
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "Gtr3_02",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "ELECTRIC",
+      "track-instrument-type": "GUITARS",
+      "track-audio-path": "./audio/IdLikeToKnow/Gtr3_02.wav",
+      "parameters": {
+        "gain": -3,
+        "pan": [0]
+      }
+    },
+    {
+      "track-name": "Gtr4_02",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "ELECTRIC",
+      "track-instrument-type": "GUITARS",
+      "track-audio-path": "./audio/IdLikeToKnow/Gtr4_02.wav",
+      "parameters": {
+        "gain": -4.6,
+        "pan": [0],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 124,
+              "q": 0.71,
+              "gain": 24
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 326,
+              "q": 0.3,
+              "gain": -7
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 6300,
+              "q": 1.9,
+              "gain": 1.9
+            }
+          }
+        ],
+        "reverb": [
+          {
+            "name": "Space Designer",
+            "type": "SPRING",
+            "gain": 6,
+            "pan": [0],
+            "pre-delay": 0,
+            "length": 2500,
+            "size": 1,
+            "send": "True"
+          }
+        ],
+        "phaser": [
+          {
+            "name": "Phaser",
+            "rate1": 0.38,
+            "rate2": 0.58,
+            "phase": -0.6,
+            "level": 0.41,
+            "low cut": 300,
+            "high cut": 20000,
+            "mix": 0.5
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "Gtr4Rm_02",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "ELECTRIC",
+      "track-instrument-type": "GUITARS",
+      "track-audio-path": "./audio/IdLikeToKnow/Gtr4Rm_02.wav",
+      "parameters": {
+        "gain": -11.1,
+        "pan": [0],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 124,
+              "q": 0.71,
+              "gain": 24
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 326,
+              "q": 0.3,
+              "gain": -7
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 6300,
+              "q": 1.9,
+              "gain": 1.9
+            }
+          }
+        ],
+        "phaser": [
+          {
+            "name": "Phaser",
+            "rate1": 0.38,
+            "rate2": 0.58,
+            "phase": -0.6,
+            "level": 0.41,
+            "low cut": 300,
+            "high cut": 20000,
+            "mix": 0.5
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "LdVoxTape.cmp_02",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "LEAD",
+      "track-instrument-type": "VOCALS",
+      "track-audio-path": "./audio/IdLikeToKnow/LdVoxTape.cmp_02.wav",
+      "parameters": {
+        "gain": -5.2,
+        "pan": [0],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 100,
+              "q": 0.71,
+              "gain": 24
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 446,
+              "q": 4.5,
+              "gain": -8
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 366,
+              "q": 1,
+              "gain": -7
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 1560,
+              "q": 0.93,
+              "gain": 4
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 7000,
+              "q": 2,
+              "gain": 10.5
+            }
+          }
+        ],
+        "compression": [
+          {
+            "name": "Compressor",
+            "attack": 19,
+            "release": 310,
+            "thresh": -17,
+            "gain": 0,
+            "ratio": "2.4:1",
+            "knee": 1
+          }
+        ],
+        "reverb": [
+          {
+            "name": "Space Designer",
+            "type": "SPRING",
+            "gain": 0,
+            "pan": [0],
+            "pre-delay": 0,
+            "length": 2500,
+            "size": 1,
+            "send": "True"
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "LdVoxTape2x_10",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "LEAD",
+      "track-instrument-type": "VOCALS",
+      "track-audio-path": "./audio/IdLikeToKnow/LdVoxTape2x_10.wav",
+      "parameters": {
+        "gain": -9.6,
+        "pan": [0],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 100,
+              "q": 0.71,
+              "gain": 24
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 446,
+              "q": 4.5,
+              "gain": -8
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 366,
+              "q": 1,
+              "gain": -7
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 1560,
+              "q": 0.93,
+              "gain": 4
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 7000,
+              "q": 2,
+              "gain": 10.5
+            }
+          }
+        ],
+        "compression": [
+          {
+            "name": "Compressor",
+            "attack": 19,
+            "release": 310,
+            "thresh": -17,
+            "gain": 0,
+            "ratio": "2.4:1",
+            "knee": 1
+          }
+        ],
+        "reverb": [
+          {
+            "name": "Space Designer",
+            "type": "SPRING",
+            "gain": 0,
+            "pan": [0],
+            "pre-delay": 0,
+            "length": 2500,
+            "size": 1,
+            "send": "True"
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "BckVox1.03_02",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "BACKGROUND",
+      "track-instrument-type": "VOCALS",
+      "track-audio-path": "./audio/IdLikeToKnow/BckVox1.03_02.wav",
+      "parameters": {
+        "gain": -13.2,
+        "pan": [-64],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 104,
+              "q": 0.75,
+              "gain": 24
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 310,
+              "q": 0.3,
+              "gain": 2
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 1420,
+              "q": 5.6,
+              "gain": 6
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 2960,
+              "q": 2,
+              "gain": 5
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 8500,
+              "q": 2,
+              "gain": 11
+            }
+          }
+        ],
+        "compression": [
+          {
+            "name": "Compressor",
+            "attack": 10,
+            "release": 48,
+            "thresh": -10.5,
+            "gain": -1,
+            "ratio": "1.9:1"
+          }
+        ],
+        "reverb": [
+          {
+            "name": "Space Designer",
+            "type": "SPRING",
+            "gain": 0,
+            "pan": [0],
+            "pre-delay": 0,
+            "length": 2500,
+            "size": 1,
+            "send": "True"
+          }
+        ],
+        "delay": [
+          {
+            "name": "Tape Delay",
+            "delay-time": 750,
+            "note": "1/4",
+            "rate": 0.2,
+            "gain": -4.1,
+            "pan": [0],
+            "output-mix": 1,
+            "send": "True"
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "BckVox2_03",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "BACKGROUND",
+      "track-instrument-type": "VOCALS",
+      "track-audio-path": "./audio/IdLikeToKnow/BckVox2_03.wav",
+      "parameters": {
+        "gain": -13.2,
+        "pan": [0],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 104,
+              "q": 0.75,
+              "gain": 24
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 310,
+              "q": 0.3,
+              "gain": 2
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 1420,
+              "q": 5.6,
+              "gain": 6
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 2960,
+              "q": 2,
+              "gain": 5
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 8500,
+              "q": 2,
+              "gain": 11
+            }
+          }
+        ],
+        "compression": [
+          {
+            "name": "Compressor",
+            "attack": 10,
+            "release": 48,
+            "thresh": -10.5,
+            "gain": -1,
+            "ratio": "1.9:1"
+          }
+        ],
+        "reverb": [
+          {
+            "name": "Space Designer",
+            "type": "SPRING",
+            "gain": 0,
+            "pan": [0],
+            "pre-delay": 0,
+            "length": 2500,
+            "size": 1,
+            "send": "True"
+          }
+        ],
+        "delay": [
+          {
+            "name": "Tape Delay",
+            "delay-time": 750,
+            "note": "1/4",
+            "rate": 0.2,
+            "gain": -4.1,
+            "pan": [0],
+            "output-mix": 1,
+            "send": "True"
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "BckVox3_03",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "BACKGROUND",
+      "track-instrument-type": "VOCALS",
+      "track-audio-path": "./audio/IdLikeToKnow/BckVox3_03.wav",
+      "parameters": {
+        "gain": -13.2,
+        "pan": [63],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 104,
+              "q": 0.75,
+              "gain": 24
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 310,
+              "q": 0.3,
+              "gain": 2
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 1420,
+              "q": 5.6,
+              "gain": 6
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 2960,
+              "q": 2,
+              "gain": 5
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 8500,
+              "q": 2,
+              "gain": 11
+            }
+          }
+        ],
+        "compression": [
+          {
+            "name": "Compressor",
+            "attack": 10,
+            "release": 48,
+            "thresh": -10.5,
+            "gain": -1,
+            "ratio": "1.9:1"
+          }
+        ],
+        "reverb": [
+          {
+            "name": "Space Designer",
+            "type": "SPRING",
+            "gain": 0,
+            "pan": [0],
+            "pre-delay": 0,
+            "length": 2500,
+            "size": 1,
+            "send": "True"
+          }
+        ],
+        "delay": [
+          {
+            "name": "Tape Delay",
+            "delay-time": 750,
+            "note": "1/4",
+            "rate": 0.2,
+            "gain": -4.1,
+            "pan": [0],
+            "output-mix": 1,
+            "send": "True"
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "BckVox4.03_02",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "BACKGROUND",
+      "track-instrument-type": "VOCALS",
+      "track-audio-path": "./audio/IdLikeToKnow/BckVox4.03_02.wav",
+      "parameters": {
+        "gain": -13.6,
+        "pan": [-64],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 100,
+              "q": 0.71,
+              "gain": 24
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 320,
+              "q": 0.3,
+              "gain": -4
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 2000,
+              "q": 0.39,
+              "gain": 7.5
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 8200,
+              "q": 2,
+              "gain": 14
+            }
+          }
+        ],
+        "compression": [
+          {
+            "name": "Compressor",
+            "attack": 10,
+            "release": 48,
+            "thresh": -20,
+            "gain": -1,
+            "ratio": "1.5:1",
+            "knee": 0.7
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "BckVox5_03",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "BACKGROUND",
+      "track-instrument-type": "VOCALS",
+      "track-audio-path": "./audio/IdLikeToKnow/BckVox5_03.wav",
+      "parameters": {
+        "gain": -13.6,
+        "pan": [63],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 100,
+              "q": 0.71,
+              "gain": 24
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 320,
+              "q": 0.3,
+              "gain": -4
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 2000,
+              "q": 0.39,
+              "gain": 7.5
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 8200,
+              "q": 2,
+              "gain": 14
+            }
+          }
+        ],
+        "compression": [
+          {
+            "name": "Compressor",
+            "attack": 10,
+            "release": 48,
+            "thresh": -20,
+            "gain": -1,
+            "ratio": "1.5:1",
+            "knee": 0.7
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "BckVox6_03",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "BACKGROUND",
+      "track-instrument-type": "VOCALS",
+      "track-audio-path": "./audio/IdLikeToKnow/BckVox6_03.wav",
+      "parameters": {
+        "gain": -12.6,
+        "pan": [-64],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 102,
+              "q": 0.71,
+              "gain": 24
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 376,
+              "q": 0.57,
+              "gain": -12
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 2060,
+              "q": 0.2,
+              "gain": 4.5
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 7000,
+              "q": 1.3,
+              "gain": 13.5
+            }
+          }
+        ],
+        "compression": [
+          {
+            "name": "Compressor",
+            "attack": 10,
+            "release": 48,
+            "thresh": 0,
+            "gain": -1,
+            "ratio": "1.5:1",
+            "knee": 0.7
+          }
+        ]
+      }
+    },
+    {
+      "track-name": "BckVox7_05",
+      "track-type": "AUDIO",
+      "channel-mode": "MONO",
+      "track-instrument-subtype": "BACKGROUND",
+      "track-instrument-type": "VOCALS",
+      "track-audio-path": "./audio/IdLikeToKnow/BckVox7_05.wav",
+      "parameters": {
+        "gain": -12.6,
+        "pan": [63],
+        "eq": [
+          {
+            "type": "HP",
+            "value": {
+              "freq": 102,
+              "q": 0.71,
+              "gain": 24
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 376,
+              "q": 0.57,
+              "gain": -12
+            }
+          },
+          {
+            "type": "NOTCH",
+            "value": {
+              "freq": 2060,
+              "q": 0.2,
+              "gain": 4.5
+            }
+          },
+          {
+            "type": "HS",
+            "value": {
+              "freq": 7000,
+              "q": 1.3,
+              "gain": 13.5
+            }
+          }
+        ],
+        "compression": [
+          {
+            "name": "Compressor",
+            "attack": 10,
+            "release": 48,
+            "thresh": 0,
+            "gain": -1,
+            "ratio": "1.5:1",
+            "knee": 0.7
+          }
+        ]
+      }
+    }
+  ]
+}

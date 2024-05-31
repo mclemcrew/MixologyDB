@@ -1,0 +1,122 @@
+[
+  {
+    "track-num-eval": "Not balanced. Vocals are lost, some words are not heard. Backing synths/guitars are too strong. Drums are far too strong and are too dry given the reverb on everything else.",
+    "track-instructions": "Succinct: Lower the gain on the Drums track.\n\nVerbose: Lower the gain on the Drums track to make the Vocals and other instruments stand out more. At the same time, this will help balance the overall mix and prevent the Drums from overshadowing the rest of the elements."
+  },
+  {
+    "track-num-eval": "Sounds like it was recorded in a cathedral",
+    "track-instructions": "Succinct: Reduce the reverb on the master track.\n\nVerbose: Try to reduce the amount of reverb on the master track. The cathedral-like experience is probably due to too much reverb, which creates a sense of vast space. Reducing the effect would make the track sound less distant and more intimate."
+  },
+  {
+    "track-num-eval": "vocal boxy, reverb decent, spread is alright. very scooped, could do with a bit more body.",
+    "track-instructions": "Succinct: Update the EQ on the vocal track. Verbose: Change the EQ on the vocal track by boosting the mid frequencies. This will help to remove the boxiness and add more body to the vocals, enhancing their presence in the mix."
+  },
+  {
+    "track-num-eval": "drums too dark; lead voc needs more comp or better rides; clicks too far back for the ambience",
+    "track-instructions": "Succinct: Adjust the EQ on the drum track. Verbose: Lift the high frequencies in the EQ on the drum track to brighten them up. This will provide a contrast to the lower frequencies of the other instruments, and allow them to more effectively cut through the mix."
+  },
+  {
+    "track-num-eval": "nice drums, background vocals a little dry",
+    "track-instructions": "Succinct: \"Add reverb to the background vocal track.\" \n\nVerbose: \"Add some reverb to the background vocal track. This will help fill up space in the track and make the vocals blend better with the rest of the mix. Be subtle with the amount of reverb to avoid muddying up the track and maintain clarity.\""
+  },
+  {
+    "track-num-eval": "Vocals feel muted and muddy, some clarity missing, more highs needed. Guitars feel nice. Drums are punchy and clean, but sometimes need more power to drive the song.",
+    "track-instructions": "Succinct: \"Update the EQ on the Vocals track.\"\n\nVerbose: \"Adjust the EQ on the Vocals track and boost the high frequencies. This will help bring some clarity to the vocals and make them less muddy and more prominent in the mix.\""
+  },
+  {
+    "track-num-eval": "The singer's voice is kind of stuffy, warm and wet. The instruments is the secondary but supersedes the primary (vocality).",
+    "track-instructions": "Succinct: \"Reduce reverb on the vocal track.\" \n\nVerbose: \"Reduce the amount of reverb on the vocal track. The singer's voice will begin to sound clearer and less muffled. This will help to enhance the intelligibility of the lyrics and reposition the vocals to the front of the mix, making them the primary focus again.\""
+  },
+  {
+    "track-num-eval": "lots o voc reverb...voc way too far out front. kick too roomy needs more kick and less OHs. bass light. bg vocs too soft. snare good",
+    "track-instructions": "Succinct: Reduce the reverb on the Vocal track.\nVerbose: Reduce the amount of reverb on the Vocal track. This would help in pushing the vocals back in the mix, it would feel less prominent and help balance the entire mix."
+  },
+  {
+    "track-num-eval": "Good drums. Good vocals. Good lead guitar fills and rhythm guitar levels. Chorus hits hard, fucken eh! Easy on the tambo there tho",
+    "track-instructions": "Succinct: Reduce the gain on the tambourine track. \n\nVerbose: Lower the gain on the tambourine track as it appears to be too prominent in your mix. This will ensure the tambourine doesn't overpower the other components of the mix, resulting in a well-balanced track."
+  },
+  {
+    "track-num-eval": "Missing low frequencies! The overall equalization is really bizarre; there was no openness; however, this mix takes this song in a new direction, very interesting. The vocals are very well done, as well as the drums. The guitar sounds very good.",
+    "track-instructions": "Succinct: Boost the low end of the EQ on the master track. Verbose: Update the EQ on the master by boosting the low end. This will not only provide the missing lower frequencies but also open up the mix a little bit. The vocals, drums and guitar are well mixed so focusing on the overall tonality would give the most significant improvement."
+  },
+  {
+    "track-num-eval": "Within the not so pleasant mixes I just heard, this one seemed to be the best. Despite the low volume of the drums, there is a good relationship between the drums and the bass. The vocals need treatment. The guitars need more emphasis.",
+    "track-instructions": "Succinct: \"Increase the gain on the guitar track.\"\n\nVerbose: \"Increase the gain on the guitar track. This will make the guitars stand out more in the mix, providing needed emphasis without overly challenging the relationship between drums and bass or overshadowing the vocals.\""
+  },
+  {
+    "track-num-eval": "I love this track. Effect is great",
+    "track-instructions": "Succinct: No action is needed Verbose: Since you love this track and think the effect is great, there is no need to make any modifications. The current mix settings are delivering the desired effect. Enjoy the music as it is!"
+  },
+  {
+    "track-num-eval": "In this mix, there's quite a lot of vocals, and they're quite loud. I sometimes miss some guitar. The tambourine is quite loud compared to the rest of the drums. I miss energy in the drums and the whole song. It doesn't come together well in my opinion. I like the sound of the little guitar in the chorus. I appreciate that the vocals are not too dry, but it's a bit too much.",
+    "track-instructions": "Succinct: Lower the gain on the Vocal track.\n\nVerbose: You should lower the gain on the Vocal track slightly. Doing this will help balance the mix without compromising the vocal's presence. It will also allow the guitar and the drums to come through more clearly and add more energy to the overall song. Control the volume level to ensure the mix is well balanced and that no single element is overpowering the others.\n"
+  },
+  {
+    "track-num-eval": "Guitar loses impact due to compression, but creates a nice subtle mix.",
+    "track-instructions": "Succinct: Lower compression on the Guitar track.\n\nVerbose: If you lower the compression on the Guitar track, it can help regain its impact in the mix. While a heavily compressed guitar can create a subtle, consistent signal, it might cut off its dynamic range which provides impact. By reducing the compression, you can manage to maintain both the subtleness of the mix, and the guitar's engaging character."
+  },
+  {
+    "track-num-eval": "Beautiful balance, good EQ, not excessive with reverb, but lacks a bit of freshness.",
+    "track-instructions": "Succinct: Apply chorus effect on the master track. Verbose: Applying a touch of chorus effect on the master track can help adding some freshness to the mix. Chorus effect can give it a slightly modulated, more complex sound that might be interpreted as \"fresh\". Be careful, though, not to overdo it so the song doesn't sound unnatural."
+  },
+  {
+    "track-num-eval": "better 3D perception, but maybe too much...",
+    "track-instructions": "Succinct: Reduce the depth of the reverb on the master track. Verbose: The depth of the reverb on the master track can be reduced to give a less exaggerated sense of space. By balancing the early reflections and the tail of the reverb, the mix can sound less overwhelming but still retain a solid 3D perception."
+  },
+  {
+    "track-num-eval": "Very narrow stereo width, vocals are too prominent",
+    "track-instructions": "Succinct: Update the panning on the vocal track. Verbose: Update the panning on the vocal track and try to spread it wide. This will help in creating a wider stereo image and would also balance out the prominence of the vocals in the overall mix."
+  },
+  {
+    "track-num-eval": "The definition of the vocals is slightly better than the others.",
+    "track-instructions": "Succinct: Decrease gain on the Vocal track. Verbose: Decrease the gain on the Vocal track slightly to allow other instruments to come through more clearly.  This will even out the overall mix making all components more balanced."
+  },
+  {
+    "track-num-eval": "Like the low end punch, need more pop from the snare.",
+    "track-instructions": "Succinct: Boost the upper mids on the Snare track. Verbose: By boosting the upper mids frequencies on the snare track, you can help it cut through the mix more and provide a more defined sound. This will add more \"pop\" to the snare, ensuring it stands out in the mix."
+  },
+  {
+    "track-num-eval": "clear voice, more shiny overall",
+    "track-instructions": "Succinct: Update the EQ on the master track. Verbose: Updating the EQ on the master track by carefully boosting the high frequencies can help to give a 'shiny' or brighter quality to the mix. Make sure not to overdo it to avoid harshness."
+  },
+  {
+    "track-num-eval": "Great mix, but it bothers me a bit in the vocals, something in the low-mid. Otherwise, very well done. In terms of effects and spatiality, this is really good. In my opinion, the drums could be a bit more present.",
+    "track-instructions": "Succinct: \"Adjust the EQ on the Vocal track.\" \nVerbose: \"Adjust the EQ on the Vocal track by reducing the low-mid frequencies. This will fit better the vocals into the mix and remove those frequencies that are causing bother. Moreover, consider slight compression on the drum tracks to make them more present in the mix without overpowering the vocals.\""
+  },
+  {
+    "track-num-eval": "good",
+    "track-instructions": "Succinct: Increase the gain on the master track. Verbose: Increasing the gain on the master track will make the overall mix louder and perceived as better. Just ensure it doesn't clip or distort."
+  },
+  {
+    "track-num-eval": "The guitars are a bit too prominent in my opinion, they are quite forward. It seems like the vocals sometimes have to compete with the guitars, as if they are working against each other. It makes it a bit tiring to listen to.",
+    "track-instructions": "Succinct: Lower the gain on the guitar track. Verbose: Lowering the gain on the guitar track will make it less forward in the mix. This will allow the vocals to stand out more and reduce the feeling of competition between the two tracks, helping to create a more balanced and less tiring listening experience."
+  },
+  {
+    "track-num-eval": "A bit too quiet. The backing vocals are too loud (very close to the main vocals).",
+    "track-instructions": "Succinct: Reduce gain on the backing vocals track. \n\nVerbose: Lower the gain on the backing vocals track. This will help give the main vocal more prominence in the mix and make sure the backing vocals aren't overwhelming them."
+  },
+  {
+    "track-num-eval": "Enjoyed the split guitar on L and R. However, I find it too loud in relation to the rest of the instrumentation.",
+    "track-instructions": "Succinct: Lower the gain on the guitar tracks. Verbose: Lowering the gain on your left and right guitar tracks could help balance out the mix to ensure they don't overpower the rest of your instrumentation."
+  },
+  {
+    "track-num-eval": "Vox too quiet. drums sound swag but are too loud; good amount of bass freqencies (bgtr & kik); reasonable person's panning of the 2&4 gtr ++; sounds like a record. too much sub bass.",
+    "track-instructions": "Succinct: Reduce the gain on the Drum track. \n\nVerbose: Reduce the gain on the Drum track to help make the vocals more audible. Reducing the volume on the drums will help balance the track, making sure the guitar and the vocals aren't drowned out. Remember that a balanced mix is key to a well produced song."
+  },
+  {
+    "track-num-eval": "The beginning mix of the instruments are fantastic.",
+    "track-instructions": "Succinct: Adjust the EQ on the instrument tracks. Verbose: Adjust the EQ on the instruments during the mix. This will make the sounds of the instruments even better, making the music richer and more enjoyable."
+  },
+  {
+    "track-num-eval": "GTR verb is over done. Good snare. not enough kick at all. good GTR levels and freq balance. Lead vox too harshly compressed.",
+    "track-instructions": "Succinct: \"Modify compression on the lead vocal track.\"\n\nVerbose: \"Dial back the compression on the lead vocal track slightly. This harshness in the compression could be causing the vocals to lose dynamics, making them sound overly consistent and unnatural.\""
+  },
+  {
+    "track-num-eval": "Strong bass guitar presence",
+    "track-instructions": "Succinct: Boost the EQ on the bass guitar track.\n\nVerbose: Adjust the equalization on the bass guitar track by boosting the low-end frequencies. This will help to increase the bass guitar's presence and give it a fuller sound in the mix."
+  },
+  {
+    "track-num-eval": "I like that this mix is really different from the other ones. Vocals are too loud. Bass is there but feels distant.I rated it high because it is interesting, not because it's good",
+    "track-instructions": "Succinct: \"Lower the gain on the vocal track.\"\n\nVerbose: \"Lower the gain on the vocal track slightly as the vocals are currently overpowering the rest of the mix. This adjustment allows for better balancing in the mix and ensures that the vocals don't drown out the other elements.\""
+  }
+]

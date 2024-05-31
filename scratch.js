@@ -82,7 +82,7 @@
     },
     {
         "name": "LexPlate",
-        "type": "ROOM",
+        "type": "PLATE",
         "gain": -12.3,
         "pan": [0]
     },
@@ -162,16 +162,16 @@
     }
 ],
 
-"compression": [{
-    "name": "Channel Strip",
-    "attack": 60.3,
-    "release": 10.7,
-    "thres": -32.7,
-    "depth": -36,
-    "gain": 2.1,
-    "ratio": "3.7:1",
-    "knee": 0
-}]
+    "compression": [{
+        "name": "Channel Strip",
+        "attack": 60.3,
+        "release": 10.7,
+        "thres": -32.7,
+        "depth": -36,
+        "gain": 2.1,
+        "ratio": "3.7:1",
+        "knee": 0
+    }]
 
 "gate": [{
     "name": "Channel Strip",
@@ -262,6 +262,17 @@
     }
 ]
 
+"chorus": [
+    {
+        "name": "AIR Chorus",
+        "rate": 0.48,
+        "depth": 2.02,
+        "feedback": 0,
+        "pre-delay": 6,
+        "mix": 34
+    }
+]
+
 
 "delay": [{
     "name": "Mod Delay III",
@@ -270,21 +281,22 @@
     "left-rate": 0.74,
     "left-depth": 0.44,
     "left-output-mix": 0.3,
+    "left-gain": 0,
     "right-delay-time": 238.1,
     "right-note": "1/4",
     "right-rate": 0.74,
     "right-depth": 0.44,
     "right-output-mix": 0.2,
-		“gain”: 0
-              }]
+    "right-gain": 0,
+}]
 
 "eq": [
     {
         "type": "NOTCH",
         "value": {
             "freq": 200,
-            "q": 1,
-            "gain": -3.2
+            "q": 0.71,
+            "gain": 18
         }
     },
     {
@@ -326,7 +338,8 @@
             "name": "LexRoom",
             "type": "ROOM",
             "gain": -11.1,
-            "pan": [0]
+            "pan": [0],
+            "send": "True"
         }
     ]
 
@@ -377,3 +390,69 @@
         "mix": 0.17
     }
 ]
+
+
+"reverb": [
+    {
+        "name": "D-Verb",
+        "type": "HALL",
+        "gain": 0,
+        "pre-delay": 8,
+        "length": 400,
+        "mix": 1,
+        "pan": [0],
+        "send": "True"
+    },
+    {
+        "name": "D-Verb",
+        "type": "ROOM",
+        "gain": 0,
+        "pre-delay": 11,
+        "length": 208,
+        "mix": 1,
+        "pan": [0],
+        "send": "True"
+    },
+    {
+        "name": "D-Verb",
+        "type": "PLATE",
+        "gain": 0,
+        "pre-delay": 0,
+        "length": 1300,
+        "mix": 1,
+        "pan": [0],
+        "send": "True"
+    }
+]
+
+"delay": [{
+    "name": "AIR Dynamic Delay",
+    "feedback": 0.1,
+    "note": "1/8 dotted",
+    "mix": 1,
+    "gain": 0,
+    "pan": [0],
+    "send": "True"
+}]
+
+"phaser": [
+    {
+        "name": "AIR Phaser",
+        "rate": 1,
+        "depth": 0.5,
+        "feedback": 0.15,
+        "mix": 0.1
+    }
+]
+
+
+
+"name": "Mod Delay III",
+    "gain": -7.0,
+        "pan": [0],
+            "delay-time": 9.4,
+                "note": "N/A",
+                    "rate": 1.14,
+                        "depth": 0.4,
+                            "output-mix": 1
+
