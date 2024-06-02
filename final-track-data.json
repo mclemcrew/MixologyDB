@@ -271,7 +271,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -2.3,
-            "pan": [26],
+            "pan": [41],
             "eq": [
               {
                 "type": "HP",
@@ -325,7 +325,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -2.5,
-            "pan": [-26],
+            "pan": [-41],
             "eq": [
               {
                 "type": "NOTCH",
@@ -397,7 +397,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -17.5,
-            "pan": [-64],
+            "pan": [-100],
             "eq": [
               {
                 "type": "HP",
@@ -423,7 +423,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -17.5,
-            "pan": [63],
+            "pan": [100],
             "eq": [
               {
                 "type": "HP",
@@ -449,7 +449,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -17.1,
-            "pan": [-64],
+            "pan": [-100],
             "eq": [
               {
                 "type": "HP",
@@ -475,7 +475,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -17.1,
-            "pan": [63],
+            "pan": [100],
             "eq": [
               {
                 "type": "HP",
@@ -617,7 +617,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -2.8,
-            "pan": [-26],
+            "pan": [-41],
             "eq": [
               {
                 "type": "HP",
@@ -761,7 +761,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -10.5,
-            "pan": [31],
+            "pan": [49],
             "eq": [
               {
                 "type": "HP",
@@ -795,7 +795,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -9.7,
-            "pan": [-36],
+            "pan": [-56],
             "eq": [
               {
                 "type": "HP",
@@ -821,7 +821,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -9.5,
-            "pan": [63],
+            "pan": [100],
             "eq": [
               {
                 "type": "HP",
@@ -899,7 +899,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -10.1,
-            "pan": [-20],
+            "pan": [-31],
             "eq": [
               {
                 "type": "HP",
@@ -1006,7 +1006,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -8.2,
-            "pan": [35],
+            "pan": [55],
             "eq": [
               {
                 "type": "HP",
@@ -1048,7 +1048,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -8.2,
-            "pan": [-35],
+            "pan": [-55],
             "eq": [
               {
                 "type": "HP",
@@ -1132,7 +1132,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -3.9,
-            "pan": [20],
+            "pan": [32],
             "eq": [
               {
                 "type": "HP",
@@ -1552,7 +1552,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -4.4,
-            "pan": [27],
+            "pan": [43],
             "eq": [
               {
                 "type": "HP",
@@ -1630,7 +1630,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -7.4,
-            "pan": [-26],
+            "pan": [-41],
             "eq": [
               {
                 "type": "HP",
@@ -1700,7 +1700,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -8,
-            "pan": [-64],
+            "pan": [-100],
             "eq": [
               {
                 "type": "HP",
@@ -1750,7 +1750,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -8,
-            "pan": [63],
+            "pan": [100],
             "eq": [
               {
                 "type": "HP",
@@ -1800,7 +1800,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -13.6,
-            "pan": [63]
+            "pan": [100]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Vermont/11 Rm ride.wav",
@@ -1816,7 +1816,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -13.6,
-            "pan": [-64]
+            "pan": [-100]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Vermont/10 Rm hh.wav",
@@ -1832,7 +1832,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -6,
-            "pan": [-17],
+            "pan": [-26],
             "eq": [
               {
                 "type": "LP",
@@ -1980,7 +1980,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -3,
-            "pan": [-14],
+            "pan": [-22],
             "eq": [
               {
                 "type": "HP",
@@ -2040,7 +2040,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -4.6,
-            "pan": [15],
+            "pan": [24],
             "eq": [
               {
                 "type": "HP",
@@ -2090,7 +2090,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -11.6,
-            "pan": [-15],
+            "pan": [-23],
             "eq": [
               {
                 "type": "HP",
@@ -2190,7 +2190,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -10,
-            "pan": [-7],
+            "pan": [-11],
             "eq": [
               {
                 "type": "HP",
@@ -2232,7 +2232,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -10.4,
-            "pan": [40],
+            "pan": [63],
             "eq": [
               {
                 "type": "HP",
@@ -2274,7 +2274,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -10.2,
-            "pan": [-41],
+            "pan": [-64],
             "eq": [
               {
                 "type": "HP",
@@ -2316,7 +2316,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -11,
-            "pan": [40],
+            "pan": [63],
             "eq": [
               {
                 "type": "HP",
@@ -2358,7 +2358,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -15.2,
-            "pan": [-18],
+            "pan": [-28],
             "compression": [
               {
                 "name": "Compressor",
@@ -2406,7 +2406,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -14.8,
-            "pan": [18],
+            "pan": [29],
             "compression": [
               {
                 "name": "Compressor",
@@ -3260,7 +3260,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -14,
-            "pan": [20],
+            "pan": [32],
             "eq": [
               {
                 "type": "HP",
@@ -3314,7 +3314,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -14,
-            "pan": [-29],
+            "pan": [-45],
             "eq": [
               {
                 "type": "HP",
@@ -3429,7 +3429,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -18,
-            "pan": [-64],
+            "pan": [-100],
             "eq": [
               {
                 "type": "HP",
@@ -3463,7 +3463,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -18,
-            "pan": [-63],
+            "pan": [-99],
             "eq": [
               {
                 "type": "HP",
@@ -3497,7 +3497,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -18,
-            "pan": [-23],
+            "pan": [-36],
             "eq": [
               {
                 "type": "HP",
@@ -3543,7 +3543,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -18,
-            "pan": [-15],
+            "pan": [-23],
             "eq": [
               {
                 "type": "HP",
@@ -3611,7 +3611,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -30,
-            "pan": [-64],
+            "pan": [-100],
             "eq": [
               {
                 "type": "HP",
@@ -3645,7 +3645,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -24,
-            "pan": [63],
+            "pan": [100],
             "eq": [
               {
                 "type": "HP",
@@ -3679,7 +3679,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -18,
-            "pan": [-18]
+            "pan": [-28]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Vermont/18 mGtr1.wav",
@@ -3695,7 +3695,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -15,
-            "pan": [19]
+            "pan": [30]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Vermont/21 rGtr1.wav",
@@ -3711,7 +3711,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -15,
-            "pan": [-19],
+            "pan": [-30],
             "eq": [
               {
                 "type": "HP",
@@ -3745,7 +3745,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -15,
-            "pan": [19],
+            "pan": [30],
             "eq": [
               {
                 "type": "HP",
@@ -3779,7 +3779,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -18,
-            "pan": [63],
+            "pan": [100],
             "reverb": [
               {
                 "name": "Space Designer",
@@ -3806,7 +3806,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -18,
-            "pan": [-64],
+            "pan": [-100],
             "reverb": [
               {
                 "name": "Space Designer",
@@ -3904,7 +3904,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -12,
-            "pan": [-11],
+            "pan": [-17],
             "eq": [
               {
                 "type": "HP",
@@ -3930,7 +3930,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -6,
-            "pan": [11],
+            "pan": [18],
             "eq": [
               {
                 "type": "HP",
@@ -4349,7 +4349,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -2.3,
-            "pan": [-9],
+            "pan": [-14],
             "eq": [
               {
                 "type": "HP",
@@ -4414,7 +4414,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -2.3,
-            "pan": [-30],
+            "pan": [-47],
             "eq": [
               {
                 "type": "HP",
@@ -4497,7 +4497,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -7,
-            "pan": [-30],
+            "pan": [-47],
             "compression": [
               {
                 "name": "Compressor",
@@ -4524,7 +4524,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -7,
-            "pan": [30],
+            "pan": [48],
             "compression": [
               {
                 "name": "Compressor",
@@ -4649,7 +4649,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -4,
-            "pan": [20],
+            "pan": [32],
             "eq": [
               {
                 "type": "HP",
@@ -4702,7 +4702,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -6.6,
-            "pan": [-35],
+            "pan": [-55],
             "eq": [
               {
                 "type": "HP",
@@ -4747,7 +4747,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -6.6,
-            "pan": [30],
+            "pan": [48],
             "eq": [
               {
                 "type": "HP",
@@ -4800,7 +4800,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -4,
-            "pan": [-60],
+            "pan": [-94],
             "eq": [
               {
                 "type": "HP",
@@ -4853,7 +4853,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -4,
-            "pan": [60],
+            "pan": [95],
             "eq": [
               {
                 "type": "HP",
@@ -4906,7 +4906,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -9.4,
-            "pan": [30],
+            "pan": [48],
             "eq": [
               {
                 "type": "HP",
@@ -4962,7 +4962,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -9.4,
-            "pan": [-30],
+            "pan": [-47],
             "eq": [
               {
                 "type": "HP",
@@ -5177,7 +5177,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": 5.9,
-            "pan": [-39],
+            "pan": [-61],
             "eq": [
               {
                 "type": "HP",
@@ -5249,7 +5249,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": 5.9,
-            "pan": [38],
+            "pan": [60],
             "eq": [
               {
                 "type": "HP",
@@ -5321,7 +5321,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -3.9,
-            "pan": [-30],
+            "pan": [-47],
             "eq": [
               {
                 "type": "HP",
@@ -5374,7 +5374,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -6.8,
-            "pan": [30],
+            "pan": [48],
             "eq": [
               {
                 "type": "HP",
@@ -5911,7 +5911,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -12.5,
-            "pan": [-42],
+            "pan": [-66],
             "eq": [
               {
                 "type": "HP",
@@ -5963,7 +5963,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -12.3,
-            "pan": [42],
+            "pan": [66],
             "eq": [
               {
                 "type": "HP",
@@ -5989,7 +5989,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -17.3,
-            "pan": [-64],
+            "pan": [-100],
             "eq": [
               {
                 "type": "HP",
@@ -6015,7 +6015,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -17.3,
-            "pan": [63],
+            "pan": [100],
             "eq": [
               {
                 "type": "HP",
@@ -6112,7 +6112,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -5.7,
-            "pan": [-30]
+            "pan": [-47]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Vermont/22 rGtr2.wav",
@@ -6128,7 +6128,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -5.2,
-            "pan": [30]
+            "pan": [48]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Vermont/22 rGtr2 rm.wav",
@@ -6160,7 +6160,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": 1.2,
-            "pan": [8]
+            "pan": [13]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Vermont/18 mGtr1.wav",
@@ -6176,7 +6176,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -2.6,
-            "pan": [-17]
+            "pan": [-26]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Vermont/12 Tmbo.wav",
@@ -6192,7 +6192,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -2.6,
-            "pan": [18]
+            "pan": [29]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Vermont/13 Tmbo 2x.wav",
@@ -6208,7 +6208,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -5.8,
-            "pan": [-36]
+            "pan": [-56]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Vermont/17 Wrlz lo.wav",
@@ -6224,7 +6224,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": -5.8,
-            "pan": [36]
+            "pan": [57]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Vermont/16 Wrlz hi.wav",
@@ -6343,7 +6343,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": 0,
-            "pan": [-26],
+            "pan": [-41],
             "compression": [
               {
                 "name": "Compressor",
@@ -6382,7 +6382,7 @@
           "channel-mode": "MONO",
           "parameters": {
             "gain": 0,
-            "pan": [26],
+            "pan": [41],
             "compression": [
               {
                 "name": "Compressor",
@@ -18761,7 +18761,35 @@
           "parameters": {
             "gain": 0,
             "pan": [0],
-            "plug-ins": ["Dyn3 Compressor/Limiter (mono)", "EQ3 7-Band (mono)"]
+            "eq": [
+              {
+                "type": "LS",
+                "value": {
+                  "freq": 102.5,
+                  "q": 0.76,
+                  "gain": -12
+                }
+              },
+              {
+                "type": "NOTCH",
+                "value": {
+                  "freq": 10000,
+                  "q": 0.3,
+                  "gain": 3
+                }
+              }
+            ],
+            "compression": [
+              {
+                "name": "Compressor/Limiter",
+                "attack": 30,
+                "release": 12,
+                "thresh": -30,
+                "gain": 10.6,
+                "ratio": "4.5:1",
+                "knee": 30
+              }
+            ]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Lolita/OHL_07.wav",
@@ -19739,8 +19767,7 @@
           "track-instrument-type": "BASS",
           "parameters": {
             "gain": 0,
-            "pan": [0],
-            "plug-ins": []
+            "pan": [0]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Lolita/BassAmp.01_01.wav",
@@ -19756,8 +19783,7 @@
           "track-instrument-type": "BASS",
           "parameters": {
             "gain": 0,
-            "pan": [0],
-            "plug-ins": []
+            "pan": [0]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Lolita/BassDI_06.wav",
@@ -19773,8 +19799,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": 0,
-            "pan": [0],
-            "plug-ins": []
+            "pan": [0]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Lolita/Gtr2 M160.01_01.wav",
@@ -19790,8 +19815,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": 0,
-            "pan": [0],
-            "plug-ins": []
+            "pan": [0]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Lolita/Gtr2 M81.01_01.wav",
@@ -19807,8 +19831,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": 0,
-            "pan": [0],
-            "plug-ins": []
+            "pan": [0]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Lolita/Gtr2 Supro Coles.01_01.wav",
@@ -19824,8 +19847,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": 0,
-            "pan": [0],
-            "plug-ins": []
+            "pan": [0]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Lolita/Gtr2TB.01_03.wav",
@@ -19841,8 +19863,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": 0,
-            "pan": [0],
-            "plug-ins": []
+            "pan": [0]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Lolita/Gtr3 Coles.01_01.wav",
@@ -19858,8 +19879,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": 0,
-            "pan": [0],
-            "plug-ins": []
+            "pan": [0]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Lolita/Gtr3 Rm.01_01.wav",
@@ -19875,8 +19895,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": 0,
-            "pan": [0],
-            "plug-ins": []
+            "pan": [0]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Lolita/Gtr3M81.01_01.wav",
@@ -19893,7 +19912,33 @@
           "parameters": {
             "gain": 0,
             "pan": [0],
-            "plug-ins": ["EQ3 7-Band (mono)", "Maxim (mono)"]
+            "eq": [
+              {
+                "type": "HP",
+                "value": {
+                  "freq": 126.2,
+                  "q": 0,
+                  "gain": 6
+                }
+              },
+              {
+                "type": "NOTCH",
+                "value": {
+                  "freq": 3100,
+                  "q": 1,
+                  "gain": 4.6
+                }
+              }
+            ],
+            "compression": [
+              {
+                "name": "Maxim",
+                "thres": -10,
+                "ceiling": 0,
+                "release": 1,
+                "mix": 1
+              }
+            ]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Lolita/GtrAmp_06.wav",
@@ -19909,8 +19954,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": 0,
-            "pan": [0],
-            "plug-ins": []
+            "pan": [0]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Lolita/GtrDI_06.wav",
@@ -19926,8 +19970,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": 0,
-            "pan": [0],
-            "plug-ins": []
+            "pan": [0]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Lolita/Coles_07.wav",
@@ -19943,8 +19986,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": 0,
-            "pan": [0],
-            "plug-ins": []
+            "pan": [0]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Lolita/DrRmHH_07.wav",
@@ -19960,8 +20002,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": 0,
-            "pan": [0],
-            "plug-ins": []
+            "pan": [0]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Lolita/DrRmRide_07.wav",
@@ -19978,7 +20019,34 @@
           "parameters": {
             "gain": 0,
             "pan": [0],
-            "plug-ins": ["EQ3 7-Band (mono)"]
+            "eq": [
+              {
+                "type": "LP",
+                "value": {
+                  "freq": 817.3,
+                  "q": 0,
+                  "gain": 6
+                }
+              },
+              {
+                "type": "NOTCH",
+                "value": {
+                  "freq": 671.3,
+                  "q": 1,
+                  "gain": 3.2
+                }
+              }
+            ],
+            "compression": [
+              {
+                "name": "Maxim",
+                "thres": -15.6,
+                "ceiling": -3,
+                "release": 33,
+                "mix": 1,
+                "send": "True"
+              }
+            ]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Lolita/Kick_07.wav",
@@ -19995,7 +20063,24 @@
           "parameters": {
             "gain": 0,
             "pan": [0],
-            "plug-ins": ["EQ3 7-Band (mono)"]
+            "eq": [
+              {
+                "type": "NOTCH",
+                "value": {
+                  "freq": 684.7,
+                  "q": 1,
+                  "gain": 4
+                }
+              },
+              {
+                "type": "HS",
+                "value": {
+                  "freq": 4420,
+                  "q": 1,
+                  "gain": -6.5
+                }
+              }
+            ]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Lolita/SnBot_07.wav",
@@ -20012,7 +20097,16 @@
           "parameters": {
             "gain": 0,
             "pan": [0],
-            "plug-ins": ["EQ3 7-Band (mono)"]
+            "eq": [
+              {
+                "type": "HP",
+                "value": {
+                  "freq": 240.4,
+                  "q": 0,
+                  "gain": 18
+                }
+              }
+            ]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Lolita/Sn_07.wav",
@@ -20028,8 +20122,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": 0,
-            "pan": [0],
-            "plug-ins": []
+            "pan": [0]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Lolita/OHL_07.wav",
@@ -20045,8 +20138,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": 0,
-            "pan": [0],
-            "plug-ins": []
+            "pan": [0]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Lolita/OHR_07.wav",
@@ -20063,7 +20155,27 @@
           "parameters": {
             "gain": 0,
             "pan": [0],
-            "plug-ins": ["EQ3 7-Band (mono)", "Dyn3 Expander/Gate (mono)"]
+            "eq": [
+              {
+                "type": "NOTCH",
+                "value": {
+                  "freq": 157.1,
+                  "q": 8.32,
+                  "gain": -11.2
+                }
+              }
+            ],
+            "gate": [
+              {
+                "name": "Expander/Gate",
+                "attack": 0.4423,
+                "release": 80,
+                "thres": -7.2,
+                "hold": 50,
+                "ratio": "6.6:1",
+                "range": -69.9
+              }
+            ]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Lolita/T1.01_01.wav",
@@ -20080,7 +20192,27 @@
           "parameters": {
             "gain": 0,
             "pan": [0],
-            "plug-ins": ["EQ3 7-Band (mono)", "Dyn3 Expander/Gate (mono)"]
+            "eq": [
+              {
+                "type": "NOTCH",
+                "value": {
+                  "freq": 122.4,
+                  "q": 10,
+                  "gain": -10.2
+                }
+              }
+            ],
+            "gate": [
+              {
+                "name": "Expander/Gate",
+                "attack": 0.4423,
+                "release": 80,
+                "thres": -7.2,
+                "hold": 50,
+                "ratio": "6.6:1",
+                "range": -69.9
+              }
+            ]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Lolita/T2.01_01.wav",
@@ -20096,8 +20228,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": 0,
-            "pan": [0],
-            "plug-ins": []
+            "pan": [0]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Lolita/Tambo 2_03.wav",
@@ -20113,8 +20244,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": 0,
-            "pan": [0],
-            "plug-ins": []
+            "pan": [0]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Lolita/Tambo.01_01.wav",
@@ -20131,7 +20261,47 @@
           "parameters": {
             "gain": 0,
             "pan": [0],
-            "plug-ins": ["EQ3 7-Band (mono)"]
+            "eq": [
+              {
+                "type": "HP",
+                "value": {
+                  "freq": 229.8,
+                  "q": 0,
+                  "gain": 12
+                }
+              },
+              {
+                "type": "NOTCH",
+                "value": {
+                  "freq": 4510,
+                  "q": 2.2,
+                  "gain": 3.6
+                }
+              }
+            ],
+            "reverb": [
+              {
+                "name": "AIR Reverb",
+                "type": "ROOM",
+                "pre-delay": 0,
+                "length": 600,
+                "room-size": 1,
+                "mix": 1,
+                "pan": [0],
+                "gain": -3.4,
+                "send": "True"
+              },
+              {
+                "name": "AIR Spring Reberb",
+                "type": "ROOM",
+                "pre-delay": 2,
+                "length": 2200,
+                "mix": 1,
+                "pan": [0],
+                "gain": -3.4,
+                "send": "True"
+              }
+            ]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Lolita/LdVox.05_01.wav",
@@ -20148,7 +20318,47 @@
           "parameters": {
             "gain": 0,
             "pan": [0],
-            "plug-ins": ["EQ3 7-Band (mono)"]
+            "eq": [
+              {
+                "type": "HP",
+                "value": {
+                  "freq": 112,
+                  "q": 0,
+                  "gain": 12
+                }
+              },
+              {
+                "type": "NOTCH",
+                "value": {
+                  "freq": 2510,
+                  "q": 1,
+                  "gain": 6.3
+                }
+              }
+            ],
+            "reverb": [
+              {
+                "name": "AIR Reverb",
+                "type": "ROOM",
+                "pre-delay": 0,
+                "length": 600,
+                "room-size": 1,
+                "mix": 1,
+                "pan": [0],
+                "gain": 0,
+                "send": "True"
+              },
+              {
+                "name": "AIR Spring Reberb",
+                "type": "ROOM",
+                "pre-delay": 2,
+                "length": 2200,
+                "mix": 1,
+                "pan": [0],
+                "gain": 0,
+                "send": "True"
+              }
+            ]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/Lolita/LdVox.doub.02_01.wav",
@@ -33103,7 +33313,6 @@
           "parameters": {
             "gain": -26.3,
             "pan": [-20],
-            "plug-ins": ["EQ 3 4-Band (mono)", "EQ3 7-Band (mono)"],
             "eq": [
               {
                 "type": "HP",
@@ -36084,8 +36293,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -21.2,
-            "pan": [0],
-            "plug-ins": []
+            "pan": [0]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/YouAndMeAndTheRadio/DRUMS - Hat 260_01.wav",
@@ -50541,8 +50749,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -11.4,
-            "pan": [100],
-            "plug-ins": []
+            "pan": [100]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/UnderACoveredSky/LDVocVmpDbl1-58 CONS.wav",
@@ -50558,8 +50765,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -9.3,
-            "pan": [100],
-            "plug-ins": []
+            "pan": [100]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/UnderACoveredSky/LDVocVmpDbl1-147 CONS.wav",
@@ -50597,8 +50803,7 @@
                 "ratio": "2.0:1",
                 "knee": 0
               }
-            ],
-            "plug-ins": ["EQ3 7-Band (mono)"]
+            ]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/UnderACoveredSky/Kin CONS.wav",
@@ -51117,8 +51322,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -15.4,
-            "pan": [-100],
-            "plug-ins": []
+            "pan": [-100]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/UnderACoveredSky/HGtr1-201 CONS.wav",
@@ -51134,8 +51338,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -15.8,
-            "pan": [5],
-            "plug-ins": []
+            "pan": [5]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/UnderACoveredSky/HGtr1-84 CONS.wav",
@@ -51151,8 +51354,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -14.8,
-            "pan": [-1],
-            "plug-ins": []
+            "pan": [-1]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/UnderACoveredSky/HGtr2-201 CONS.wav",
@@ -51168,8 +51370,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -14.1,
-            "pan": [100],
-            "plug-ins": []
+            "pan": [100]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/UnderACoveredSky/HGtr2-84 CONS.wav",
@@ -51185,8 +51386,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -12.8,
-            "pan": [-54],
-            "plug-ins": []
+            "pan": [-54]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/UnderACoveredSky/HGtr3-201 CONS.wav",
@@ -51202,8 +51402,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -8.3,
-            "pan": [53],
-            "plug-ins": []
+            "pan": [53]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/UnderACoveredSky/HGtr3-84 CONS.wav",
@@ -51219,8 +51418,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -12.8,
-            "pan": [3],
-            "plug-ins": []
+            "pan": [3]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/UnderACoveredSky/HGtr4-201 CONS.wav",
@@ -51236,8 +51434,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -12.8,
-            "pan": [6],
-            "plug-ins": []
+            "pan": [6]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/UnderACoveredSky/HGtr4-84 CONS.wav",
@@ -116835,7 +117032,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -0.1,
-            "pan": [-38],
+            "pan": [-60],
             "eq": [
               {
                 "type": "NOTCH",
@@ -116869,7 +117066,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -0.1,
-            "pan": [38],
+            "pan": [60],
             "eq": [
               {
                 "type": "NOTCH",
@@ -116903,7 +117100,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -8.2,
-            "pan": [-64],
+            "pan": [-100],
             "eq": [
               {
                 "type": "HP",
@@ -116947,7 +117144,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -8.2,
-            "pan": [63],
+            "pan": [100],
             "eq": [
               {
                 "type": "HP",
@@ -117035,7 +117232,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -16,
-            "pan": [-25],
+            "pan": [-39],
             "eq": [
               {
                 "type": "NOTCH",
@@ -117071,7 +117268,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -13.2,
-            "pan": [-59],
+            "pan": [-93],
             "eq": [
               {
                 "type": "NOTCH",
@@ -117107,7 +117304,7 @@
           "track-instrument-type": "BASS",
           "parameters": {
             "gain": -7.2,
-            "pan": [-2],
+            "pan": [-3],
             "eq": [
               {
                 "type": "HS",
@@ -117144,7 +117341,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -1.3,
-            "pan": [16],
+            "pan": [25],
             "eq": [
               {
                 "type": "HP",
@@ -117194,7 +117391,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -13.2,
-            "pan": [-47],
+            "pan": [-74],
             "eq": [
               {
                 "type": "HP",
@@ -117262,7 +117459,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -5.9,
-            "pan": [63],
+            "pan": [100],
             "eq": [
               {
                 "type": "HP",
@@ -117330,7 +117527,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -4.1,
-            "pan": [63],
+            "pan": [100],
             "eq": [
               {
                 "type": "HP",
@@ -117364,7 +117561,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -0.6,
-            "pan": [-64],
+            "pan": [-100],
             "eq": [
               {
                 "type": "HP",
@@ -117398,7 +117595,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": 0,
-            "pan": [63],
+            "pan": [100],
             "eq": [
               {
                 "type": "HP",
@@ -117519,7 +117716,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -15.2,
-            "pan": [5],
+            "pan": [8],
             "eq": [
               {
                 "type": "HP",
@@ -117616,7 +117813,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -7.6,
-            "pan": [-39],
+            "pan": [-61],
             "eq": [
               {
                 "type": "NOTCH",
@@ -117650,7 +117847,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -7.8,
-            "pan": [31],
+            "pan": [49],
             "eq": [
               {
                 "type": "NOTCH",
@@ -117684,7 +117881,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -8.8,
-            "pan": [-64],
+            "pan": [-100],
             "eq": [
               {
                 "type": "HP",
@@ -117739,7 +117936,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -8.0,
-            "pan": [63],
+            "pan": [100],
             "eq": [
               {
                 "type": "HP",
@@ -117794,7 +117991,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -8.0,
-            "pan": [-64],
+            "pan": [-100],
             "eq": [
               {
                 "type": "HP",
@@ -117849,7 +118046,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -8.0,
-            "pan": [63],
+            "pan": [100],
             "eq": [
               {
                 "type": "HP",
@@ -118219,7 +118416,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -8.4,
-            "pan": [-16],
+            "pan": [-25],
             "eq": [
               {
                 "type": "NOTCH",
@@ -118267,7 +118464,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -14.4,
-            "pan": [17],
+            "pan": [27],
             "reverb": [
               {
                 "name": "SilverVerb",
@@ -118294,7 +118491,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -19,
-            "pan": [-64],
+            "pan": [-100],
             "eq": [
               {
                 "type": "HS",
@@ -118331,7 +118528,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -18.6,
-            "pan": [63],
+            "pan": [100],
             "eq": [
               {
                 "type": "HS",
@@ -118453,7 +118650,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -22.9,
-            "pan": [-50]
+            "pan": [-78]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/IdLikeToKnow/Tmb.01_03.wav",
@@ -118469,7 +118666,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -12.2,
-            "pan": [-50]
+            "pan": [-78]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/IdLikeToKnow/Tmb_03.wav",
@@ -118617,7 +118814,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -19,
-            "pan": [-64],
+            "pan": [-100],
             "eq": [
               {
                 "type": "LS",
@@ -118662,7 +118859,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -17.8,
-            "pan": [-64],
+            "pan": [-100],
             "eq": [
               {
                 "type": "LS",
@@ -118707,7 +118904,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -15.2,
-            "pan": [63]
+            "pan": [100]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/IdLikeToKnow/Gtr2.08_02.wav",
@@ -118723,7 +118920,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -8.4,
-            "pan": [21],
+            "pan": [33],
             "eq": [
               {
                 "type": "LS",
@@ -118768,7 +118965,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -8.6,
-            "pan": [21],
+            "pan": [33],
             "eq": [
               {
                 "type": "LS",
@@ -118847,7 +119044,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -10.2,
-            "pan": [38]
+            "pan": [60]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/IdLikeToKnow/Gtr3_02.wav",
@@ -118863,7 +119060,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -10.8,
-            "pan": [38]
+            "pan": [60]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/IdLikeToKnow/Gtr3Rm_02.wav",
@@ -118879,7 +119076,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -16.6,
-            "pan": [-64]
+            "pan": [-100]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/IdLikeToKnow/Gtr4_02.wav",
@@ -118895,7 +119092,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -11.4,
-            "pan": [63]
+            "pan": [100]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/IdLikeToKnow/Gtr4Rm_02.wav",
@@ -119023,7 +119220,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -16.4,
-            "pan": [-13],
+            "pan": [-20],
             "eq": [
               {
                 "type": "LS",
@@ -119068,7 +119265,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -15.6,
-            "pan": [13],
+            "pan": [21],
             "eq": [
               {
                 "type": "LS",
@@ -119158,7 +119355,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -17.4,
-            "pan": [-41],
+            "pan": [-64],
             "eq": [
               {
                 "type": "LS",
@@ -119270,7 +119467,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -16.4,
-            "pan": [41],
+            "pan": [65],
             "eq": [
               {
                 "type": "LS",
@@ -119326,7 +119523,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -14.8,
-            "pan": [25],
+            "pan": [40],
             "eq": [
               {
                 "type": "LS",
@@ -119512,7 +119709,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -17,
-            "pan": [-49],
+            "pan": [-77],
             "eq": [
               {
                 "type": "HP",
@@ -119662,7 +119859,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -11,
-            "pan": [50]
+            "pan": [79]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/IdLikeToKnow/T2_16.wav",
@@ -119678,7 +119875,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -11,
-            "pan": [-40]
+            "pan": [-63]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/IdLikeToKnow/T1_16.wav",
@@ -119694,7 +119891,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -7.4,
-            "pan": [-64],
+            "pan": [-100],
             "eq": [
               {
                 "type": "HP",
@@ -119728,7 +119925,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": 7.4,
-            "pan": [63],
+            "pan": [100],
             "eq": [
               {
                 "type": "HP",
@@ -119925,7 +120122,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -11.6,
-            "pan": [63],
+            "pan": [100],
             "eq": [
               {
                 "type": "HP",
@@ -119951,7 +120148,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -28,
-            "pan": [63],
+            "pan": [100],
             "eq": [
               {
                 "type": "HP",
@@ -120005,7 +120202,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -12.8,
-            "pan": [-40],
+            "pan": [-63],
             "eq": [
               {
                 "type": "HP",
@@ -120070,7 +120267,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -14.6,
-            "pan": [-35],
+            "pan": [-55],
             "eq": [
               {
                 "type": "HP",
@@ -120112,7 +120309,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -9,
-            "pan": [63],
+            "pan": [100],
             "eq": [
               {
                 "type": "HP",
@@ -120154,7 +120351,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -8.8,
-            "pan": [40]
+            "pan": [63]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/IdLikeToKnow/Gtr2.dup1.08_02.wav",
@@ -120348,7 +120545,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -19.5,
-            "pan": [63],
+            "pan": [100],
             "eq": [
               {
                 "type": "HP",
@@ -120425,7 +120622,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -18,
-            "pan": [-64],
+            "pan": [-100],
             "eq": [
               {
                 "type": "HP",
@@ -120502,7 +120699,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -17.6,
-            "pan": [-25],
+            "pan": [-39],
             "eq": [
               {
                 "type": "HP",
@@ -120767,7 +120964,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -8.8,
-            "pan": [-17]
+            "pan": [-26]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/IdLikeToKnow/Coles_16.wav",
@@ -120783,7 +120980,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -12.6,
-            "pan": [17]
+            "pan": [27]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/IdLikeToKnow/DrRm_16.wav",
@@ -120799,7 +120996,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -13.4,
-            "pan": [-64]
+            "pan": [-100]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/IdLikeToKnow/OHL_02.wav",
@@ -120815,7 +121012,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -13.4,
-            "pan": [63]
+            "pan": [100]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/IdLikeToKnow/OHR_02.wav",
@@ -120865,7 +121062,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -5.9,
-            "pan": [-8]
+            "pan": [-12]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/IdLikeToKnow/T1_16.wav",
@@ -120881,7 +121078,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -12.6,
-            "pan": [-19]
+            "pan": [-30]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/IdLikeToKnow/T2_16.wav",
@@ -120897,7 +121094,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -17.6,
-            "pan": [-3],
+            "pan": [-4],
             "eq": [
               {
                 "type": "HP",
@@ -120997,7 +121194,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -12.2,
-            "pan": [-64],
+            "pan": [-100],
             "eq": [
               {
                 "type": "HP",
@@ -121051,7 +121248,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -6.6,
-            "pan": [63],
+            "pan": [100],
             "eq": [
               {
                 "type": "HP",
@@ -121105,7 +121302,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -13,
-            "pan": [-25],
+            "pan": [-39],
             "eq": [
               {
                 "type": "HP",
@@ -121162,7 +121359,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -13,
-            "pan": [25],
+            "pan": [40],
             "eq": [
               {
                 "type": "HP",
@@ -121219,7 +121416,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -16.2,
-            "pan": [-31],
+            "pan": [-49],
             "eq": [
               {
                 "type": "HP",
@@ -121253,7 +121450,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -16.2,
-            "pan": [31],
+            "pan": [49],
             "eq": [
               {
                 "type": "HP",
@@ -121399,7 +121596,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -9.8,
-            "pan": [-64],
+            "pan": [-100],
             "eq": [
               {
                 "type": "HP",
@@ -121437,7 +121634,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -9.2,
-            "pan": [63],
+            "pan": [100],
             "eq": [
               {
                 "type": "HP",
@@ -121475,7 +121672,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -7.4,
-            "pan": [-64],
+            "pan": [-100],
             "reverb": [
               {
                 "name": "Space Designer",
@@ -121503,7 +121700,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -8.2,
-            "pan": [63],
+            "pan": [100],
             "reverb": [
               {
                 "name": "Space Designer",
@@ -121531,7 +121728,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -7.8,
-            "pan": [27]
+            "pan": [43]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/IdLikeToKnow/BckVox6_03.wav",
@@ -121547,7 +121744,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -8.8,
-            "pan": [-27]
+            "pan": [-42]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/IdLikeToKnow/BckVox7_05.wav",
@@ -122072,7 +122269,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -13.3,
-            "pan": [-64],
+            "pan": [-100],
             "eq": [
               {
                 "type": "NOTCH",
@@ -122118,7 +122315,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -13.3,
-            "pan": [63],
+            "pan": [100],
             "eq": [
               {
                 "type": "NOTCH",
@@ -122219,7 +122416,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -15.1,
-            "pan": [-37]
+            "pan": [-58]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/IdLikeToKnow/Tmb.01_03.wav",
@@ -122235,7 +122432,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -22.6,
-            "pan": [33],
+            "pan": [52],
             "eq": [
               {
                 "type": "HS",
@@ -122261,7 +122458,7 @@
           "track-instrument-type": "BASS",
           "parameters": {
             "gain": -10.6,
-            "pan": [-3],
+            "pan": [-4],
             "eq": [
               {
                 "type": "LS",
@@ -122303,7 +122500,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -16.1,
-            "pan": [-47],
+            "pan": [-74],
             "eq": [
               {
                 "type": "HP",
@@ -122373,7 +122570,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -9.9,
-            "pan": [29],
+            "pan": [46],
             "eq": [
               {
                 "type": "HP",
@@ -122431,7 +122628,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -23.4,
-            "pan": [63],
+            "pan": [100],
             "eq": [
               {
                 "type": "HP",
@@ -122465,7 +122662,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -6.1,
-            "pan": [-28],
+            "pan": [-44],
             "eq": [
               {
                 "type": "LS",
@@ -122609,7 +122806,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -12.5,
-            "pan": [31],
+            "pan": [49],
             "eq": [
               {
                 "type": "HP",
@@ -122659,7 +122856,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -14.2,
-            "pan": [-44],
+            "pan": [-69],
             "eq": [
               {
                 "type": "HP",
@@ -122709,7 +122906,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -13.7,
-            "pan": [8],
+            "pan": [13],
             "eq": [
               {
                 "type": "HP",
@@ -122824,7 +123021,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -15.1,
-            "pan": [1],
+            "pan": [2],
             "eq": [
               {
                 "type": "HP",
@@ -122889,7 +123086,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -8.8,
-            "pan": [-6],
+            "pan": [-9],
             "reverb": [
               {
                 "name": "Space Designer",
@@ -122917,7 +123114,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -8.8,
-            "pan": [-42],
+            "pan": [-66],
             "reverb": [
               {
                 "name": "Space Designer",
@@ -122945,7 +123142,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -8.8,
-            "pan": [42],
+            "pan": [66],
             "reverb": [
               {
                 "name": "Space Designer",
@@ -122973,7 +123170,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -6.7,
-            "pan": [-40]
+            "pan": [-63]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/IdLikeToKnow/BckVox4.03_02.wav",
@@ -122989,7 +123186,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -7,
-            "pan": [38]
+            "pan": [60]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/IdLikeToKnow/BckVox5_03.wav",
@@ -123005,7 +123202,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -6.7,
-            "pan": [-64]
+            "pan": [-100]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/IdLikeToKnow/BckVox6_03.wav",
@@ -123021,7 +123218,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -7,
-            "pan": [63]
+            "pan": [100]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/IdLikeToKnow/BckVox7_05.wav",
@@ -123287,7 +123484,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -14,
-            "pan": [-45],
+            "pan": [-71],
             "eq": [
               {
                 "type": "NOTCH",
@@ -123321,7 +123518,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -10,
-            "pan": [47],
+            "pan": [74],
             "eq": [
               {
                 "type": "LS",
@@ -123355,7 +123552,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -14.9,
-            "pan": [-64],
+            "pan": [-100],
             "eq": [
               {
                 "type": "HP",
@@ -123397,7 +123594,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -14.9,
-            "pan": [63],
+            "pan": [100],
             "eq": [
               {
                 "type": "HP",
@@ -123520,7 +123717,7 @@
           "track-instrument-type": "DRUMS",
           "parameters": {
             "gain": -9,
-            "pan": [24]
+            "pan": [38]
           },
           "track-audio-features": {
             "track-audio-path": "./audio/IdLikeToKnow/Tmb_03.wav",
@@ -123620,7 +123817,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -19,
-            "pan": [-34],
+            "pan": [-53],
             "eq": [
               {
                 "type": "NOTCH",
@@ -123657,7 +123854,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -7.8,
-            "pan": [38],
+            "pan": [60],
             "eq": [
               {
                 "type": "HP",
@@ -123727,7 +123924,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -6.4,
-            "pan": [-50],
+            "pan": [-78],
             "eq": [
               {
                 "type": "HP",
@@ -123805,7 +124002,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -8.4,
-            "pan": [-28],
+            "pan": [-44],
             "eq": [
               {
                 "type": "HP",
@@ -123867,7 +124064,7 @@
           "track-instrument-type": "GUITARS",
           "parameters": {
             "gain": -5.3,
-            "pan": [-50],
+            "pan": [-78],
             "eq": [
               {
                 "type": "NOTCH",
@@ -124227,7 +124424,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -13.2,
-            "pan": [-64],
+            "pan": [-100],
             "eq": [
               {
                 "type": "HP",
@@ -124411,7 +124608,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -13.2,
-            "pan": [63],
+            "pan": [100],
             "eq": [
               {
                 "type": "HP",
@@ -124503,7 +124700,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -13.6,
-            "pan": [-64],
+            "pan": [-100],
             "eq": [
               {
                 "type": "HP",
@@ -124564,7 +124761,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -13.6,
-            "pan": [63],
+            "pan": [100],
             "eq": [
               {
                 "type": "HP",
@@ -124625,7 +124822,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -12.6,
-            "pan": [-64],
+            "pan": [-100],
             "eq": [
               {
                 "type": "HP",
@@ -124686,7 +124883,7 @@
           "track-instrument-type": "VOCALS",
           "parameters": {
             "gain": -12.6,
-            "pan": [63],
+            "pan": [100],
             "eq": [
               {
                 "type": "HP",

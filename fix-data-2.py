@@ -36,6 +36,7 @@ def logic_pan_to_pro_tools(logic_pan):
 
     # Check if the Logic pan value is within the valid range
     if logic_pan < -64 or logic_pan > 63:
+        print(logic_pan)
         raise ValueError("Invalid Logic Pro X pan value. Must be between -64 and 63.")
 
     # Map the Logic pan range to the Pro Tools range using linear interpolation
@@ -46,24 +47,29 @@ def logic_pan_to_pro_tools(logic_pan):
 import json
 
 # Load your data (replace with your actual file path)
-with open("./modified_data.json", "r") as file:
+with open("./modified_data-fix.json", "r") as file:
     data = json.load(file)
 
 # Iterate through the mixes
 for mix in data["mixes"]:
-    if "song-name" in mix["tracks"] == "I'd Like To Know":
-    
-        for track in mix["tracks"]:
-            if "track-audio-features" in track:
-                if "channel-mode" == "MONO":
-                    logic_pan = track["parameters"]["pan"][0]
-                    pro_tools_pan = logic_pan_to_pro_tools(logic_pan)
-                    track["parameters"]["pan"][0] = pro_tools_pan
-                else:
-                    for i in range(2):  # Update both left and right pan values
-                        logic_pan = track["parameters"]["pan"][i]
+    if mix["song-name"] == "Vermont":
+        if mix["mix-name"] == "DU-P2" or mix["mix-name"] == "DU-O2":
+            continue
+        else:
+            # print(mix["tracks"])
+            for track in mix["tracks"]:
+                print(track)
+                if "track-audio-features" in track:
+                    if track["channel-mode"] == "MONO":
+                        logic_pan = track["parameters"]["pan"][0]
+                        print(track["track-name"])
                         pro_tools_pan = logic_pan_to_pro_tools(logic_pan)
-                        track["parameters"]["pan"][i] = pro_tools_pan
+                        track["parameters"]["pan"][0] = pro_tools_pan
+                    elif track["channel-mode"] == "STEREO":
+                        for i in range(2):  # Update both left and right pan values
+                            logic_pan = track["parameters"]["pan"][i]
+                            pro_tools_pan = logic_pan_to_pro_tools(logic_pan)
+                            track["parameters"]["pan"][i] = pro_tools_pan
                      
         # if "track-audio-data" in track["track-audio-features"]:
         #     del track["track-audio-features"]["track-audio-data"]
@@ -71,5 +77,5 @@ for mix in data["mixes"]:
     # break
 
 # Save the modified data (optional, replace with your desired file path)
-with open("modified_data-fix.json", "w") as file:
+with open("modified_data-fix-fix.json", "w") as file:
     json.dump(data, file, indent=2)
