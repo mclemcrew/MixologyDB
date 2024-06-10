@@ -1,6 +1,4 @@
 {
-  "database-version": 1.5,
-  "database-name": "MixologyDB",
   "mixes": [
     {
       "mix-name": "PXL-L1",
@@ -17286,7 +17284,7 @@
       "mix-name": "UCP-A1",
       "song-name": "Lolita",
       "artist-name": "Purling Hiss",
-      "genre": "Hard Rock",
+      "genre": "HARD ROCK",
       "mix-evaluation": [
         {
           "track-num-eval": 0.1,
@@ -18412,7 +18410,7 @@
       "mix-name": "UCP-A2",
       "song-name": "Lolita",
       "artist-name": "Purling Hiss",
-      "genre": "Hard Rock",
+      "genre": "HARD ROCK",
       "mix-evaluation": [
         {
           "track-num-eval": 0.06,
@@ -19735,7 +19733,7 @@
       "mix-name": "UCP-A3",
       "song-name": "Lolita",
       "artist-name": "Purling Hiss",
-      "genre": "Hard Rock",
+      "genre": "HARD ROCK",
       "mix-evaluation": [
         {
           "track-num-eval": 0.16,
@@ -20372,7 +20370,7 @@
       "mix-name": "UCP-A4",
       "song-name": "Lolita",
       "artist-name": "Purling Hiss",
-      "genre": "Hard Rock",
+      "genre": "HARD ROCK",
       "mix-evaluation": [
         {
           "track-num-eval": 0.2,
@@ -21902,7 +21900,7 @@
       "mix-name": "UCP-A5",
       "song-name": "Lolita",
       "artist-name": "Purling Hiss",
-      "genre": "Hard Rock",
+      "genre": "HARD ROCK",
       "mix-evaluation": [
         {
           "track-num-eval": 0.32,
@@ -22860,7 +22858,7 @@
       "mix-name": "UCP-A1",
       "song-name": "Old Tree",
       "artist-name": "Creepoid",
-      "genre": "Indie Rock",
+      "genre": "INDIE ROCK",
       "mix-evaluation": [
         {
           "track-num-eval": 0.14,
@@ -24694,7 +24692,7 @@
       "mix-name": "UCP-A2",
       "song-name": "Old Tree",
       "artist-name": "Creepoid",
-      "genre": "Indie Rock",
+      "genre": "INDIE ROCK",
       "mix-evaluation": [
         {
           "track-num-eval": 0.66,
@@ -26140,7 +26138,7 @@
       "mix-name": "UCP-A3",
       "song-name": "Old Tree",
       "artist-name": "Creepoid",
-      "genre": "Indie Rock",
+      "genre": "INDIE ROCK",
       "mix-evaluation": [
         {
           "track-num-eval": 0.31,
@@ -27102,7 +27100,7 @@
       "mix-name": "UCP-A4",
       "song-name": "Old Tree",
       "artist-name": "Creepoid",
-      "genre": "Indie Rock",
+      "genre": "INDIE ROCK",
       "mix-evaluation": [
         {
           "track-num-eval": 0.47,
@@ -29362,7 +29360,7 @@
       "mix-name": "UCP-A5",
       "song-name": "Old Tree",
       "artist-name": "Creepoid",
-      "genre": "Indie Rock",
+      "genre": "INDIE ROCK",
       "mix-evaluation": [
         {
           "track-num-eval": 0.2,

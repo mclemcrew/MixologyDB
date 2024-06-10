@@ -1,0 +1,38 @@
+[
+  [
+    {
+      "mix_name": "McG-B",
+      "song_name": "In The Meantime",
+      "artist_name": "Fredy V",
+      "genre": "FUNK",
+      "track_name": "Sn CONS",
+      "track_type": "AUDIO",
+      "track_instrument_subtype": "SNARE",
+      "track_instrument_type": "DRUMS",
+      "channel_mode": "MONO",
+      "track_audio_path": "./audio/InTheMeantime/Sn.wav",
+      "track_audio_sample_rate": 96000,
+      "track_audio_lufs": -24.40632367229912,
+      "parameters": "{\"gain\": -9.5, \"pan\": [0], \"eq\": [{\"type\": \"NOTCH\", \"value\": {\"freq\": 228, \"q\": 6.59, \"gain\": -9.4}}, {\"type\": \"NOTCH\", \"value\": {\"freq\": 413, \"q\": 9.32, \"gain\": -12.5}}, {\"type\": \"HS\", \"value\": {\"freq\": 5400, \"q\": 1, \"gain\": 2.8}}, {\"type\": \"LS\", \"value\": {\"freq\": 63.2, \"q\": 1, \"gain\": 2.2}}], \"compression\": [{\"name\": \"Compressor/Limiter\", \"attack\": 1.6, \"release\": 887.6, \"thresh\": -24, \"gain\": 7.1, \"ratio\": \"3.0:1\", \"knee\": 0}], \"reverb\": [{\"name\": \"LexRoom\", \"type\": \"ROOM\", \"gain\": -17.5, \"pan\": [0], \"send\": \"True\"}]}"
+    },
+    "EQ: TYPE - NOTCH, FREQ - 200 Hz, Q - 1.1, GAIN - -3 dB\nEQ: TYPE - HighPass (HP), FREQ - 100 Hz, Q - 0.8, GAIN - 0 dB\nCOMPRESSION: THRESHOLD - -15 dB, ATTACK - 2 ms, RELEASE - 80 ms, GAIN - 2 dB, RATIO - 6:1, KNEE - 1\nGAIN: 3 dB\nPAN: 0\nLIMITER: THRESHOLD - -6 dB, RELEASE - 50 ms, CEILING - -0.1 dB\nGATE: ATTACK - 2 ms, RELEASE - 50 ms, THRESH - -30 dB, DEPTH - 10 dB, RATIO - 4:1\nREVERB: TYPE - ROOM, GAIN - 1 dB, PREDELAY - 10 ms, LENGTH - 1.4 s, MIX - 0.15, SEND - 0\nPHASER: RATE - 0.2 Hz, DEPTH - 30%, FEEDBACK - 15%, MIX - 0.1\nFLANGER: PREDELAY - 2 ms, RATE - 0.1 Hz, DEPTH - 10%, FEEDBACK - 5%, MIX - 0.05\nDELAY: TIME - 100 ms, NOTE - Eighth, RATE - 1 Hz, DEPTH - 10%, GAIN - -2 dB, MIX - 0.1"
+  ],
+  [
+    {
+      "mix_name": "UCP-B2",
+      "song_name": "You & Me & the Radio",
+      "artist_name": "Human Radio",
+      "genre": "POP ROCK",
+      "track_name": "Gel 4",
+      "track_type": "AUDIO",
+      "track_instrument_subtype": "ELECTRIC",
+      "track_instrument_type": "GUITARS",
+      "channel_mode": "MONO",
+      "track_audio_path": "./audio/YouAndMeAndTheRadio/Guitar 4 AK_01.wav",
+      "track_audio_sample_rate": 44100,
+      "track_audio_lufs": -16.643494403777083,
+      "parameters": "{\"gain\": -26.3, \"pan\": [20], \"eq\": [{\"type\": \"HP\", \"value\": {\"freq\": 139.7, \"q\": 0, \"gain\": 6}}], \"reverb\": [{\"name\": \"AIR Vintage Filter\", \"type\": \"ROOM\", \"cutoff\": 3100, \"resonance\": 0.3, \"fat\": 2, \"output\": 0, \"gain\": -25.5}], \"delay\": [{\"name\": \"Mod Delay III\", \"left-delay-time\": 80.4, \"left-note\": \"N/A\", \"left-rate\": 0.13, \"left-depth\": 0.33, \"left-output-mix\": 1, \"right-delay-time\": 80.4, \"right-note\": \"N/A\", \"right-rate\": 2.89, \"right-depth\": 0, \"right-output-mix\": 1, \"gain\": -25.5}, {\"name\": \"Air Multi-Delay\", \"delay-time\": \"4.48/16th\", \"feedback\": 0, \"high-cut\": 1410, \"low-cut\": 209, \"mix\": 1, \"gain\": -7.4}]}"
+    },
+    "EQ: TYPE - HighPass (HP), FREQ - 100 Hz, Q - 0.7, GAIN - 0 dB  \nEQ: TYPE - LowShelf (LS), FREQ - 300 Hz, Q - 1.2, GAIN - -2 dB  \nEQ: TYPE - HighShelf (HS), FREQ - 3500 Hz, Q - 1.0, GAIN - 3 dB  \n\nCOMPRESSION: THRESHOLD - -12 dB, ATTACK - 15 ms, RELEASE - 180 ms, GAIN - 4 dB, RATIO - 6:1, KNEE - 1.5  \n\nGAIN: 2 dB  \n\nPAN: -15  \n\nLIMITER: THRESHOLD - -5 dB, RELEASE - 50 ms, CEILING - -0.1 dB  \n\nREVERB: TYPE - ROOM, GAIN - 0 dB, PREDELAY - 30 ms, LENGTH - 1.8 s, MIX - 0.25, SEND - 0  \n\nPHASER: RATE - 0.8 Hz, DEPTH - 70%, FEEDBACK - 40%, MIX - 0.3  \n\nFLANGER: PREDELAY - 2 ms, RATE - 0.6 Hz, DEPTH - 60%, FEEDBACK - 35%, MIX - 0.4  \n\nDELAY: TIME - 450 ms, NOTE - Quarter, RATE - 1.5 Hz, DEPTH - 30%, GAIN - 0 dB, MIX - 0.2  "
+  ]
+]

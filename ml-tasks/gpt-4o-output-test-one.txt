@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "mix_name": "McG-B",
+      "song_name": "In The Meantime",
+      "artist_name": "Fredy V",
+      "genre": "FUNK",
+      "track_name": "Sn CONS",
+      "track_type": "AUDIO",
+      "track_instrument_subtype": "SNARE",
+      "track_instrument_type": "DRUMS",
+      "channel_mode": "MONO",
+      "track_audio_path": "./audio/InTheMeantime/Sn.wav",
+      "track_audio_sample_rate": 96000,
+      "track_audio_lufs": -24.40632367229912,
+      "parameters": "{\"gain\": -9.5, \"pan\": [0], \"eq\": [{\"type\": \"NOTCH\", \"value\": {\"freq\": 228, \"q\": 6.59, \"gain\": -9.4}}, {\"type\": \"NOTCH\", \"value\": {\"freq\": 413, \"q\": 9.32, \"gain\": -12.5}}, {\"type\": \"HS\", \"value\": {\"freq\": 5400, \"q\": 1, \"gain\": 2.8}}, {\"type\": \"LS\", \"value\": {\"freq\": 63.2, \"q\": 1, \"gain\": 2.2}}], \"compression\": [{\"name\": \"Compressor/Limiter\", \"attack\": 1.6, \"release\": 887.6, \"thresh\": -24, \"gain\": 7.1, \"ratio\": \"3.0:1\", \"knee\": 0}], \"reverb\": [{\"name\": \"LexRoom\", \"type\": \"ROOM\", \"gain\": -17.5, \"pan\": [0], \"send\": \"True\"}]}"
+    },
+    "EQ: TYPE - HighPass (HP), FREQ - 80 Hz, Q - 0.7, GAIN - 0 dB\nEQ: TYPE - Notch, FREQ - 500 Hz, Q - 3, GAIN - -3 dB\nEQ: TYPE - HighShelf (HS), FREQ - 10 kHz, Q - 0.7, GAIN - 3 dB\nCOMPRESSION: THRESHOLD - -12 dB, ATTACK - 5 ms, RELEASE - 100 ms, GAIN - 4 dB, RATIO - 3:1, KNEE - 1\nGAIN: 2 dB\nPAN: 0\nLIMITER: THRESHOLD - -6 dB, RELEASE - 100 ms, CEILING - -0.3 dB\nREVERB: TYPE - PLATE, GAIN - 0 dB, PREDELAY - 10 ms, LENGTH - 1.5 s, MIX - 0.25, SEND - 0\nDELAY: TIME - 250 ms, NOTE - Quarter, RATE - 1.5 Hz, DEPTH - 25%, GAIN - 2 dB, MIX - 0.2\nCHORUS: RATE - 1 Hz, DEPTH - 40%, FEEDBACK - 15%, PREDELAY - 5 ms, MIX - 0.1, GAIN - 0 dB"
+  ]
+]

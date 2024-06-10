@@ -1,6 +1,4 @@
 {
-  "database-version": 1.5,
-  "database-name": "MixologyDB",
   "mixes": [
     {
       "mix-name": "PXL-L1",
