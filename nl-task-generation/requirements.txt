@@ -1,0 +1,6 @@
+openai
+python-dotenv
+jsonlines
+tf
+np
+librosa

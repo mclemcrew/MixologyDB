@@ -1,0 +1,1027 @@
+Speaker SPEAKER_01: 196.2s - 217.3s
+- All right, I think the first thing I'm gonna do,
+ I listened through to each track individually,
+ but I think maybe the first thing would
+ is to still listen through to the whole thing.
+ And I'm gonna try to put this at a volume
+ that's more comfortable for everybody.
+ If I adjust it, I'm hoping it will also adjust for you,
+ but if not, I can just bring the level of everything down.
+
+Speaker SPEAKER_01: 225.5s - 231.6s
+Actually, I just realized if I mute my myself on zoom. Can you still hear it? Yes. Okay.
+
+Speaker SPEAKER_06: 230.4s - 232.1s
+Yes. Okay. Yeah.
+
+Speaker SPEAKER_05: 272.5s - 283.4s
+(upbeat music)
+ ♪ Down in Hollywood ♪
+ ♪ Just wasting time ♪
+ ♪ I knew right then ♪
+
+Speaker SPEAKER_03: 432.6s - 434.0s
+(upbeat music)
+
+Speaker SPEAKER_03: 509.0s - 510.3s
+(upbeat music)
+
+Speaker SPEAKER_01: 516.5s - 516.9s
+
+
+Speaker SPEAKER_01: 518.5s - 525.4s
+I'm so curious where this track comes from. Did, did, um, was this Michael, did you make
+
+Speaker SPEAKER_00: 525.6s - 527.9s
+No, no, this is the Louis Cressy band.
+
+Speaker SPEAKER_01: 529.3s - 531.5s
+- Okay, I have not heard of them, but.
+
+Speaker SPEAKER_01: 532.3s - 534.7s
+- Me either.
+ Alright.
+
+Speaker SPEAKER_01: 536.2s - 574.5s
+I'm much more of a pop guy.
+ So it's gonna be a bit of a challenge for me
+ to not try to do pop stuff with this.
+ So I'm trying to think this is supposed to be rock.
+ So I'm thinking shorter on the reverbs,
+ more distortion, focus on the drums,
+ which I still want them quieter than they are.
+ We have to do a volume balance,
+ but I definitely would like to see this
+ sound as rock as possible, which will be cool.
+
+Speaker SPEAKER_01: 575.9s - 585.8s
+Jackie, I would love for this to just be like as conversational as possible.
+ I will voice every step that I'm doing as much as I can.
+ I wrote down notes.
+
+Speaker SPEAKER_06: 586.0s - 633.5s
+- Amazing, yeah, I loved your notes, I loved your ideas.
+ I was also thinking while listening,
+ trying a little bit of a distortion
+ or tiny, tiny reverb on the guitar,
+ or something interesting for the solo
+ and also kind of like panning the drums in a fun way.
+ I always try to do my like rock reference track
+ that I absolutely love that makes for,
+ I think is really interesting is the song Scarlet,
+ which the Rolling Stones came out with,
+ that they recorded with Jimmy Page in the '70s,
+ but didn't release it until like a couple of years ago.
+ So the mix is really new and modern
+ and the guitar is really like right front and center,
+ but kind of off to the right.
+ So it's like a weird thing to do,
+ but I was thinking that especially with like
+ the drum cymbals and to like space the drums out a bit.
+
+
+Speaker SPEAKER_01: 633.8s - 658.4s
+- Yeah, I think you make a great point
+ that I think is really important to keep in mind
+ with rock music too,
+ because for me when I think pop music,
+ like my two first thoughts are like
+ to have drums and vocal forward all the time,
+ but I think there are moments here
+ where that's not the case.
+ Like there are moments where the vocals
+ should probably be coming through the most,
+ but there are moments where we might want the drums
+ to pop more, or we might want the guitars
+
+Speaker SPEAKER_06: 658.8s - 664.5s
+- Yeah, there was like a lot of spaced out vocals.
+ It wasn't all singing all the time.
+
+Speaker SPEAKER_01: 663.9s - 698.6s
+Yeah. Yeah. There's a lot, there's a lot here. Like the guitar player,
+ I don't think would be happy if we centered the vocal like during the guitar parts.
+ Oh, definitely.
+ Yeah. But, um, I guess let's start with like a rough volume balance. Um, I guess my,
+ my first question to you would be, I'm noticing, like, it looks like there's some things that are
+ happening, um, that like are the same thing, but different frequencies, maybe different mic
+ positions. Would it be like for the purposes of workflow, would it be wise to group those
+ and process them together?
+
+Speaker SPEAKER_06: 698.7s - 700.3s
+I was thinking that too, yeah.
+
+Speaker SPEAKER_01: 701.6s - 708.0s
+- So yeah, I'm wondering maybe the three frequencies
+ of the kick.
+ Um.
+
+Speaker SPEAKER_01: 710.5s - 719.9s
+And so I don't know if I've, I don't think I've grouped tracks and I've done like a like stacks,
+ but is there do we want to use a stack or do we want to do like an audio group?
+
+Speaker SPEAKER_06: 719.9s - 725.2s
+I've only done stacks as well, so I'm not even as experienced with the groups.
+
+Speaker SPEAKER_01: 725.6s - 727.2s
+Yeah, I think...
+
+Speaker SPEAKER_01: 729.6s - 732.6s
+Let's see, you probably want to do summing stack.
+
+Speaker SPEAKER_01: 735.6s - 739.2s
+Cool kick. And then for this, what is happening here.
+
+Speaker SPEAKER_01: 752.8s - 760.5s
+- So is this also just two different mic positions here for this there?
+
+Speaker SPEAKER_06: 757.2s - 759.4s
+Yeah, one is a little bit higher up.
+
+Speaker SPEAKER_01: 764.8s - 771.3s
+This is picking up something different. So I think I'll stick with the two snares.
+
+Speaker SPEAKER_06: 770.5s - 775.4s
+Yeah, the farther away one that might be interesting to put some reverb
+
+Speaker SPEAKER_01: 776.6s - 778.6s
+the farther away one, the overheads.
+
+Speaker SPEAKER_06: 777.5s - 783.7s
+- Yeah, of the snare, I think it's snare down.
+ It's less loud one. might be interesting to like have an effect but have the other snare mic sort of more bright with it.
+
+
+Speaker SPEAKER_06: 792.8s - 797.3s
+- So those might be different volumes.
+ Maybe, yeah, maybe don't stack those.
+
+
+Speaker SPEAKER_01: 797.6s - 806.0s
+- Well, I think even if we stack them, we can still adjust the individual volume. So maybe, yeah, we'll stack them in case there's stuff we wanna do to both of them, but then we can do some more volume balancing.
+
+
+Speaker SPEAKER_01: 818.7s - 823.9s
+This is its own thing, we have two, okay, I'm glad we have two tom tracks.
+ This can make panning more fun.
+
+Speaker SPEAKER_06: 828.7s - 831.9s
+- Yeah, awesome.
+ - There's a third.
+
+Speaker SPEAKER_1: 831.5s - 833.2s
+- Oh, yeah, three.
+
+Speaker SPEAKER_01: 838.7s - 841.6s
+Yeah, again, we can probably group these, but we can process them differently.
+
+Speaker SPEAKER_06: 844.3s - 846.4s
+well-miked and panned.
+
+Speaker SPEAKER_01: 854.8s - 858.0s
+I feel like when it comes to miking, I've never used more than one.
+
+Speaker SPEAKER_06: 858.6s - 863.3s
+and overheads and ambiance tracks, what are those? I'm like, okay.
+
+Speaker SPEAKER_01: 864.0s - 866.6s
+Yeah, these are, these were interesting.
+
+Speaker SPEAKER_01: 867.2s - 869.2s
+I think those are a room.
+
+Speaker SPEAKER_01: 874.2s - 881.6s
+I'm really curious what the whole thing sounds like without them.
+ I'm not going to remove them, but I just want to hear what they're adding.
+
+
+Speaker SPEAKER_01: 895.1s - 897.8s
+They add a lot of natural reverb to the drums.
+
+Speaker SPEAKER_06: 897.2s - 904.5s
+Yes, giving that like more arena rock feel without them. It's definitely it's less 80s for sure. Yeah
+
+Speaker SPEAKER_01: 904.0s - 909.4s
+Yeah. So I think my first thought, and I'll just make a note of it so I don't forget it, is 
+to process like the dry stems and sort of leave the ambience for the most part as doing
+ what it's doing, providing a natural reverb, because I think it might start to feel 
+a little bit unnatural if we throw a bunch of processing on the different ambience tracks.
+
+Speaker SPEAKER_01: 940.7s - 943.1s
+We have the rain stick. This is this was cool.
+
+Speaker SPEAKER_01: 944.1s - 951.0s
+I like that I can actually hear this at times.
+ So I don't know if it needs to be super loud, but it's cool to have it in there.
+
+Speaker SPEAKER_06: 952.2s - 959.2s
+I am not a professional mixer at all, but I would put it like pan in the back one side.
+
+Speaker SPEAKER_01: 961.9s - 965.4s
+Then there's all these electric guitars.
+ Um.
+
+Speaker SPEAKER_01: 967.2s - 972.1s
+I may lead these separate for now and group them later, just because I think I'm going
+ to be wanting to play with these a lot.
+
+Speaker SPEAKER_06: 973.0s - 975.7s
+there's it's nice that the solo is separated and stuff.
+
+Speaker SPEAKER_01: 977.0s - 982.5s
+This was fun that this organ adds a very rock feel.
+
+Speaker SPEAKER_01: 984.2s - 999.4s
+we have the vocals. Yeah so for volume balancing I guess I'm gonna just start with that. I wrote
+ down what some of my like intentions are but if there's something specific that I'm doing I will
+
+Speaker SPEAKER_01: 1006.5s - 1009.0s
+I usually just sort of. find things as I go. Would you recommend trying to start from nothing and bring things up? 'Cause I know people have done it that way. 
+
+Speaker SPEAKER_06: 1020.2s - 1034.3s
+Yes, I would say like the best thing to do is to choose what your like most important instruments are at different it might be different at different with the song so that's kind of annoying but to build from like very basic, and then adding in, adding in more and more.
+
+Speaker SPEAKER_01: 1034.5s - 1048.4s
+Yeah, I think the reason I don't do it that way very often is because most of the time I'm working
+ on my own stuff so I'm sort of mixing as I'm going. So having all the tracks done and ready
+ that I think that might make the most sense.
+
+Speaker SPEAKER_06: 1047.8s - 1050.8s
+- It's something that never happens for me either.
+
+Speaker SPEAKER_01: 1052.4s - 1056.4s
+Um, but yeah, we have everything all the way down now.
+
+Speaker SPEAKER_01: 1062.2s - 1063.2s
+So I think.  the most important thing is probably gonna be the kick.
+
+Speaker SPEAKER_01: 1118.9s - 1145.9s
+So right now I'm just trying to get a rough volume balance between the most important
+ elements of the drums, which may have to be automated as the song goes on, but at least
+ for this opening, mostly so I can start processing the bass and the vocal, which I feel like
+ are the next most important things, because it's really important for me to be able to
+ hear that bass and vocal before I start adding in a ton of mid frequencies with the guitars.
+
+Speaker SPEAKER_06: 1146.3s - 1150.1s
+- Definitely, on the right track.
+
+Speaker SPEAKER_01: 1151.2s - 1152.4s
+OK.
+
+Speaker SPEAKER_01: 1157.9s - 1163.3s
+Doesn't seem to be very much Tom action going on right now, so I think I'll handle them later in the ambience.
+
+Speaker SPEAKER_01: 1178.6s - 1181.9s
+Those are also going to be a later thing. There's a lot of those.
+
+Speaker SPEAKER_01: 1183.6s - 1186.0s
+Let's group these two.
+
+Speaker SPEAKER_01: 1195.4s - 1196.5s
+Rain stick.
+
+Speaker SPEAKER_01: 1198.2s - 1199.8s
+Now let's bring our bass in
+
+Speaker SPEAKER_01: 1221.9s - 1230.6s
+I'm going to bring the bass a little bit louder than I feel like it needs to be because I know that my headphones tend to bias the low end, they're not as flat as they could be.
+
+Speaker SPEAKER_06: 1234.3s - 1242.4s
+It definitely sounds like it's going to need some sort of filter, something to bring it out in the mix.
+
+Speaker SPEAKER_01: 1242.5s - 1247.5s
+Because it's either going to have to be very, very loud, or we're going to lose the 
+lose the rhythm.
+ Let's bring up the vocal a little bit.
+
+Speaker SPEAKER_01: 1273.0s - 1287.1s
+All right, I'm gonna leave that like that for now.
+ If it's sounding way too forward and pop later on
+ when more stuff is in, then maybe we will revisit it.
+ But yeah, let's see, what else do we do?
+ - It's pop rock.
+
+Speaker SPEAKER_06: 1284.0s - 1285.2s
+Let's see.
+
+Speaker SPEAKER_01: 1288.2s - 1289.8s
+- We'll compromise.
+
+Speaker SPEAKER_01: 1295.5s - 1301.0s
+Yeah, so the hat itself is super dry without the ambience in there.
+
+Speaker SPEAKER_06: 1306.5s - 1315.2s
+And I just love the way the ambience tracks sound.
+ So I would, I might keep that pretty quiet, but that's just
+ cause I prefer the overhead sound.
+
+Speaker SPEAKER_01: 1315.6s - 1321.7s
+Yeah, I'm not loving the the dry signal as much so if we can just keep that relatively quiet, um
+even quieter.
+Yeah, now let's bring in the ambience at least a little bit.
+Okay, I shouldn't have grouped these while they were all at zero.
+Now we can.
+
+Speaker SPEAKER_06: 1364.0s - 1370.3s
+I feel like the first one should be the loudest and the other two
+ should kind of like quiet and spaced out in the back too.
+
+Speaker SPEAKER_01: 1370.2s - 1374.3s
+Yeah. How much low end does this have?
+
+Speaker SPEAKER_01: 1376.3s - 1387.3s
+I mean, this is just an idea, but if we keep this one as the most prominent, I wonder if
+ we could keep the other two very quiet and maybe pan them to give it some space if we
+ cut the cut the lower frequencies out of them.
+
+Speaker SPEAKER_06: 1387.5s - 1391.3s
+- Perfect.
+ That's perfect.
+ - Yeah.
+ - They sound good, but
+- Definitely need to just save them for their low.
+
+Speaker SPEAKER_01: 1407.9s - 1412.2s
+Okay, I like what that's doing. I'm going to come back and pan afterwards.
+
+Speaker SPEAKER_01: 1413.6s - 1416.2s
+Um, this is, oh, this is the top.
+
+Speaker SPEAKER_01: 1417.9s - 1421.0s
+I'm going to go to a place that has a little bit more going on with the toms so we can...
+
+Speaker SPEAKER_01: 1425.3s - 1430.5s
+It's interesting there really isn't very many places where they're all happening.
+
+Speaker SPEAKER_06: 1436.1s - 1442.0s
+One is I think maybe the middle one's gonna have to be slightly lower than the outer to create like a really cool
+
+Speaker SPEAKER_01: 1445.5s - 1448.5s
+Yeah, bring them up for now.
+
+Speaker SPEAKER_01: 1453.5s - 1454.7s
+So it's.
+
+Speaker SPEAKER_01: 1456.1s - 1458.8s
+That's because I grouped them afterwards, it's the issue.
+
+Speaker SPEAKER_01: 1472.8s - 1476.2s
+Well, there go my dogs. I don't know if you can hear those but
+
+Speaker SPEAKER_06: 1478.0s - 1479.5s
+- Have my dog with me too.
+
+Speaker SPEAKER_06: 1480.1s - 1481.5s
+A quiet dog.
+
+Speaker SPEAKER_01: 1486.1s - 1487.5s
+Yeah, um
+
+Speaker SPEAKER_01: 1491.5s - 1492.7s
+He's quieter for now.
+
+Speaker SPEAKER_01: 1507.8s - 1515.9s
+- What else are we missing?
+ - There's a guitar.
+ - Yeah, let's do the guitars.
+ We will save the rain stick for last.
+
+Speaker SPEAKER_03: 1510.1s - 1511.3s
+- There's a guitar.
+
+Speaker SPEAKER_01: 1518.1s - 1523.7s
+So this seems to be the main guitar that is happening throughout most of the track.
+
+Speaker SPEAKER_01: 1545.6s - 1547.6s
+So I'm going to just--
+I think because this one is going to need some automation because I don't think we're
+ going to want it always popping up, but I mean, it, it, it opens the track.
+ So it needs to have a little bit of it.
+ It needs to have its moment.
+
+Speaker SPEAKER_06: 1565.9s - 1568.3s
+- With space for the vocal, for sure.
+
+Speaker SPEAKER_01: 1568.8s - 1570.8s
+Mm-hmm. How is it with just this one?
+
+Speaker SPEAKER_01: 1576.8s - 1594.8s
+- Yeah, that masks so much of the vocal.
+ So we can try a couple of things.
+ We'll see when we process the vocal,
+ but we may even be able to like sort of side chain it
+ or something to see if that drops it a little bit.
+ If we're not getting enough from the vocal.
+ Bring this in.
+ This seems to not coincide with the vocal as much.
+
+
+Speaker SPEAKER_06: 1637.5s - 1645.8s
+That's a good volume for that track. And I would since it's
+ like an accent track, I might even put that like all the way
+ to one side. Like, yeah, yeah.
+
+Speaker SPEAKER_01: 1675.3s - 1677.6s
+So this is really, I think, just like beefing up.
+
+Speaker SPEAKER_01: 1679.0s - 1682.6s
+the main riff a little bit.
+ Um
+
+Speaker SPEAKER_01: 1689.8s - 1702.2s
+- Okay, I like this track.
+ I think it's adding a lot of power.
+ Like it's bringing in so much
+ that I feel like even the bass isn't achieving.
+ - Yeah.
+ - So I want this to be like a moment
+ when it comes in for the first time.
+
+Speaker SPEAKER_06: 1701.0s - 1702.9s
+for the first time. - Yeah, big reverb, maybe.
+
+Speaker SPEAKER_06: 1704.5s - 1707.4s
+like a big reverb on that yeah very like
+
+Speaker SPEAKER_01: 1719.4s - 1723.0s
+It honestly doesn't feel like it needs to be super loud to be able to achieve the power.
+
+Speaker SPEAKER_01: 1724.3s - 1728.1s
+And the more real estate I can leave for the vocal, the happier I will be.
+
+Speaker SPEAKER_01: 1736.6s - 1740.5s
+Okay, um, how does that sound over here?
+
+Speaker SPEAKER_01: 1745.7s - 1748.4s
+- Yeah, that adds so much, okay.
+
+Speaker SPEAKER_06: 1748.2s - 1749.7s
+- Beautiful, sounds amazing.
+
+Speaker SPEAKER_01: 1750.8s - 1751.9s
+So this is...
+
+Speaker SPEAKER_01: 1768.9s - 1771.2s
+And this one has our guitar solo, so...
+
+Speaker SPEAKER_01: 1772.8s - 1775.9s
+Yeah, this one's going to be an important one.
+ So.
+
+Speaker SPEAKER_01: 1783.4s - 1786.2s
+This one is very low, this one feels very bassy.
+
+Speaker SPEAKER_01: 1787.8s - 1789.0s
+Not here, though.
+
+Speaker SPEAKER_01: 1794.0s - 1800.2s
+I'm gonna leave that loud for now because I'm gonna want to know when that's right again so I can do stuff with it
+
+Speaker SPEAKER_06: 1799.6s - 1807.5s
+- It's got a lot of different parts
+ throughout the track too 'cause it gets a little bit lower
+ in that ending, it sounds like, but.
+
+
+Speaker SPEAKER_01: 1808.2s - 1814.4s
+Yeah, I think we're gonna have to handle parts of it differently, but yeah for the purposes of time we will leave that for now
+ - I was gonna say.
+
+Speaker SPEAKER_01: 1816.5s - 1822.3s
+- Okay.
+ - Okay, so I will try to get a little--
+ - Oregon, Oregon.
+ - You're fine.
+
+Speaker SPEAKER_01: 1837.0s - 1845.4s
+I like the rain stick.
+ I'm not missing it too much when it's quieter.
+ I think it's still achieving what it wants to achieve.
+ - Yeah.
+ - Let's bring in that organ.
+
+Speaker SPEAKER_01: 1875.9s - 1880.9s
+Okay, does everything at least have some volume now?
+
+Speaker SPEAKER_06: 1881.7s - 1883.5s
+I think so. Yeah, that's everything.
+
+Speaker SPEAKER_01: 1883.0s - 1886.6s
+- Yes, all right, let's start with some panning.
+
+Speaker SPEAKER_01: 1888.0s - 1893.1s
+Most of this can stay in the center, but let's see, maybe.
+
+Speaker SPEAKER_01: 1895.6s - 1898.7s
+Let's start with panning the guitars.
+
+Speaker SPEAKER_01: 1903.7s - 1905.8s
+So I'm curious, this main guitar here...
+
+Speaker SPEAKER_01: 1913.1s - 1921.6s
+I don't think I want this right in the center.
+ - No.
+ - 'Cause it's gonna take so much away from the vocal.
+ So maybe we'll start with it over here.
+
+Speaker SPEAKER_06: 1926.2s - 1929.0s
+Yeah, my immediate reaction was left as well.
+
+Speaker SPEAKER_01: 1929.8s - 1936.3s
+I don't know why, but for me, it's like dominant things go to the left.
+ I always think it's because I'm left-handed.
+
+Speaker SPEAKER_06: 1936.3s - 1939.9s
+- Me too, that's something to note, that's something to note.
+
+Speaker SPEAKER_01: 1940.2s - 1946.6s
+that's really interesting. Yeah, so that one can go there.
+ Um, let's see.
+
+Speaker SPEAKER_01: 1948.7s - 1952.0s
+Obviously, for this counterpoint, we're going to go to the right.
+
+Speaker SPEAKER_01: 1955.0s - 1960.9s
+I'm curious as with does the zoom stereo work? Like, can you hear the pan? Yeah, cool.
+
+Speaker SPEAKER_06: 1958.4s - 1963.6s
+you also hear the pandemic happening? Cool. Very well,
+ actually, much better than how we sound.
+
+Speaker SPEAKER_01: 1971.2s - 1975.4s
+Okay. Hearing this stereo, this does not need nearly as much volume as it has.
+
+Speaker SPEAKER_01: 1984.0s - 1991.0s
+And this is the one that you said could kind of go way over to one side since it's just accenting.
+ Let's make sure it's doing that the whole time.
+
+Speaker SPEAKER_01: 1993.3s - 1995.2s
+Yeah, that's really all it's doing.
+
+Speaker SPEAKER_01: 2005.8s - 2011.2s
+Yeah, I may make minor volume adjustments as we go as we pan things.
+
+Speaker SPEAKER_06: 2011.4s - 2013.0s
+- Yes, yeah, that makes sense.
+
+Speaker SPEAKER_01: 2019.8s - 2024.8s
+All right, I still want to pin this even though it is a lower frequency, but maybe just not as hard.
+
+Speaker SPEAKER_01: 2027.3s - 2032.6s
+And then for the Hammond, I could hear the Hammond being somewhat to the side.
+
+Speaker SPEAKER_06: 2034.3s - 2036.0s
+- Yeah.
+
+Speaker SPEAKER_01: 2034.3s - 2035.5s
+- Yeah.
+
+Speaker SPEAKER_01: 2037.9s - 2039.2s
+Make it very drastic.
+
+Speaker SPEAKER_06: 2059.9s - 2067.5s
+- It works.
+ It's a little bit quiet still.
+ It was quiet before you panned it
+ and it was quiet after you panned it, so I don't know.
+
+Speaker SPEAKER_01: 2068.2s - 2069.6s
+- Yeah, I might bring that up later.
+
+Speaker SPEAKER_01: 2073.3s - 2080.7s
+this stuff then the toms it's tough to know you had a good
+ suggestion with the the second one here can you remind me what that was
+
+Speaker SPEAKER_06: 2080.5s - 2087.6s
+- Yeah, just bringing that to the opposite side,
+ maybe to the left and bring the other two,
+ or to the right or vice versa.
+ - Yeah, let's try that. - See where it sounds
+
+Speaker SPEAKER_01: 2085.7s - 2086.8s
+- Yeah, let's try that.
+
+Speaker SPEAKER_01: 2089.0s - 2093.4s
+How much do we... I don't usually... I'm usually more conservative with my drum panning.
+
+Speaker SPEAKER_01: 2096.2s - 2098.0s
+Let's try that.
+
+Speaker SPEAKER_06: 2106.6s - 2114.9s
+I guess I would also make one of the tracks that two without going in the same direction, maybe the bottom one a little bit quieter, just create some more contrast with the terms.
+
+Speaker SPEAKER_01: 2127.7s - 2132.5s
+Yeah, that adds just a little bit of not feeling super mechanical.
+
+Speaker SPEAKER_01: 2135.3s - 2143.8s
+Yeah, all right. Anything else that we want to pan significantly? Oh, we talked about panning
+ these two quieter ambiences.
+
+Speaker SPEAKER_01: 2149.5s - 2157.4s
+- I feel like ambience can usually go pretty far over,
+ especially if we cut some of the low from these two,
+ and we can afford to go really far with these.
+
+Speaker SPEAKER_06: 2181.0s - 2182.2s
+I like that volume.
+
+Speaker SPEAKER_01: 2182.5s - 2184.5s
+I like that that's nice and wide too.
+
+Speaker SPEAKER_01: 2195.2s - 2196.4s
+- Okay.
+
+Speaker SPEAKER_01: 2197.9s - 2202.7s
+I think maybe the next step would be processing.
+ I a hundred percent always start with the vocal first.
+
+
+Speaker SPEAKER_01: 2221.1s - 2240.6s
+ I'm going to maybe start by throwing on
+ a channel strip preset that I made myself.
+ Um.
+
+Speaker SPEAKER_01: 2243.8s - 2250.7s
+and then just adjusting from there. These feel like they've already been tuned.
+ I don't think we're going to need any tuning on this.
+
+Speaker SPEAKER_01: 2253.9s - 2259.1s
+This is my little vocal chain that I've built out.
+ It's probably super wet right now, but...
+
+Speaker SPEAKER_01: 2263.7s - 2267.0s
+which also very pop.
+
+Speaker SPEAKER_01: 2268.1s - 2273.4s
+So I was thinking more of a, like a short plate reverb.
+
+Speaker SPEAKER_06: 2273.4s - 2274.7s
+My favorite cat.
+
+Speaker SPEAKER_06: 2286.2s - 2287.4s
+- Sounds professional already.
+
+Speaker SPEAKER_01: 2294.4s - 2299.6s
+And then my favorite plugin of all time, the Holy grail of brightening.
+
+Speaker SPEAKER_01: 2306.4s - 2310.3s
+So great at just adding a little bit of brightness there.
+
+Speaker SPEAKER_06: 2310.4s - 2318.1s
+I'm excited to learn. I don't use any like non native plugins
+ because I'm cheap.
+ Unless they're free.
+
+Speaker SPEAKER_01: 2317.2s - 2319.9s
+They're free.
+ - This is free.
+
+Speaker SPEAKER_06: 2319.9s - 2322.2s
+Oh, good. Okay. Yeah, fresh air.
+
+Speaker SPEAKER_01: 2323.1s - 2327.9s
+Um, yeah, I was thinking a slap back delay was the thing that I would want to do next.
+
+Speaker SPEAKER_01: 2330.5s - 2334.1s
+Um, let's see, I will use a native plugin for this.
+
+Speaker SPEAKER_01: 2338.4s - 2340.7s
+just crank that for now so we can really hear it.
+
+Speaker SPEAKER_05: 2346.0s - 2356.0s
+(upbeat music)
+ (music drowns out voice)
+ (upbeat music)
+ (upbeat music)
+
+Speaker SPEAKER_01: 2359.2s - 2362.9s
+So that's, that's great.
+ I think we need it to be way less drastic, but.
+
+Speaker SPEAKER_01: 2391.4s - 2398.8s
+So because I just wanted to bring the reverb down a little more since I added the slapback. It's like adding more of the reverb so
+
+Speaker SPEAKER_06: 2438.1s - 2442.9s
+But you took it to a Black Keys place really quickly.
+ (laughing)
+
+Speaker SPEAKER_01: 2442.9s - 2450.3s
+so I wanted to make sure that I because like I said, this is a preset that I made so I
+ Wanted to see if I was cutting the right frequencies
+
+Speaker SPEAKER_06: 2450.3s - 2462.8s
+works so well i i feel like i would also put maybe reverb on our guitar and then on our maybe
+ a little bit on our overheads but that's just because we're we're on a time crunch yeah
+
+Speaker SPEAKER_06: 2463.5s - 2465.9s
+I could work on this all day.
+ This is so fun.
+
+Speaker SPEAKER_01: 2465.9s - 2471.5s
+- Yeah, so let's see.
+ The guitar that we talked about a big reverb on
+ was this one here when it comes in.
+
+Speaker SPEAKER_01: 2476.7s - 2483.6s
+All right, I will just throw an EQ on here too, just so we have some, a little bit of control.
+
+Speaker SPEAKER_06: 2482.9s - 2484.6s
+Always EQ that verb.
+
+Speaker SPEAKER_01: 2491.3s - 2493.4s
+See, maybe like a, like a hall.
+
+
+Speaker SPEAKER_01: 2523.7s - 2528.4s
+We'll keep the 80s color because we're going for 80s sound.
+ Let's hear this in context.
+
+Speaker SPEAKER_06: 2534.1s - 2535.3s
+Super spacious. amazing. Eros went already.
+
+Speaker SPEAKER_01: 2542.3s - 2547.4s
+- Okay, how are we feeling about the level of the hat now?
+ Like the main?
+
+Speaker SPEAKER_06: 2549.8s - 2555.5s
+It's okay, just pan it. It could be a little quieter, but just pan it.
+
+Speaker SPEAKER_05: 2557.4s - 2561.9s
+So I went inside, that's when I saw her face
+
+Speaker SPEAKER_01: 2563.8s - 2566.9s
+Okay. Um, let's put some.
+
+Speaker SPEAKER_01: 2568.6s - 2571.2s
+Some more basic reverb on this here.
+
+Speaker SPEAKER_01: 2572.5s - 2575.7s
+And then maybe a little bit of distortion to just kind of warm it up.
+
+Speaker SPEAKER_01: 2586.4s - 2588.4s
+I think a hall reverb might be too much.
+
+Speaker SPEAKER_06: 2588.4s - 2589.5s
+Yeah.
+
+Speaker SPEAKER_01: 2589.5s - 2591.9s
+So maybe just a, like a room.
+
+Speaker SPEAKER_01: 2604.2s - 2606.0s
+I kind of like that.
+
+Speaker SPEAKER_06: 2606.0s - 2607.1s
+Yeah, that's amazing.
+
+Speaker SPEAKER_01: 2616.8s - 2618.5s
+I want it to shimmer a little bit more, so.
+
+Speaker SPEAKER_01: 2626.4s - 2630.1s
+something else that's, I'll finish the guitar first actually, then I will.
+
+Speaker SPEAKER_01: 2632.6s - 2634.2s
+Let's maybe...
+
+Speaker SPEAKER_01: 2639.9s - 2649.9s
+I want to just see if, cause this feels like the main guitar piece.
+ Can we add some distortion in here?
+ There's a guitar one that I like.
+
+Speaker SPEAKER_01: 2673.1s - 2676.9s
+Try one more. I don't want to play with it too much since we're low on time, but
+I like the tone of that better. Let's just hear it with the vocals now
+
+Speaker SPEAKER_06: 2716.6s - 2719.0s
+Prince. Straight out of Prince.
+
+Speaker SPEAKER_01: 2723.6s - 2729.7s
+The other thing that I was going to say that's kind of bothering me a little bit is I like that the Hammond is dry, but it feels like a little too dry.
+
+Speaker SPEAKER_06: 2729.8s - 2732.0s
+It's yeah, it's a bit strange now.
+
+Speaker SPEAKER_01: 2734.6s - 2738.3s
+It's got some natural reverb on it, but not nearly enough.
+
+Speaker SPEAKER_06: 2743.4s - 2749.2s
+maybe like a like a something to cut the lows a bit. Yes.
+
+Speaker SPEAKER_01: 2794.5s - 2806.0s
+I like the tone now. I think delay would be too much on this because it is just sort of a sharp
+ impact and I don't think it needs to be repeated at all but maybe some light reverb.
+
+Speaker SPEAKER_01: 2811.2s - 2818.2s
+Um, I think when I tend to think lighter reverb, I think plates and rooms.
+ Do you have any leaning on that?
+
+Speaker SPEAKER_06: 2819.0s - 2824.5s
+Um, let's do plate. Yeah. Keep it. Keep it simple.
+
+Speaker SPEAKER_06: 2841.4s - 2843.8s
+It's pretty good, a bit more presence.
+
+Speaker SPEAKER_01: 2846.4s - 2851.6s
+Okay, what else do we want to do with stuff here?
+ Um...
+
+Speaker SPEAKER_01: 2853.3s - 2862.0s
+The thing is, typically what I would think to do is with the drum group, do a ton of cool stuff with the drums, but Ambience is already doing so much of that for us.
+
+Speaker SPEAKER_01: 2864.0s - 2869.2s
+Maybe just EQing out a little bit of the lows on these other ones.
+
+Speaker SPEAKER_01: 2872.6s - 2877.8s
+Like, we don't need this happening on the sides.
+ - No.
+ - Just clean that up a bit.
+
+Speaker SPEAKER_01: 2902.5s - 2904.7s
+We can actually bring these up a little bit now, I think.
+
+Speaker SPEAKER_06: 2904.8s - 2907.4s
+Yes, vastly improved.
+
+Speaker SPEAKER_01: 2917.0s - 2926.7s
+All right, it sounds pretty good.
+ I think before we run out of time,
+ maybe the thing that makes the most sense
+ is some volume automation.
+ And then, so I'll start by just getting everything
+ to a place where it's not clipping.
+
+Speaker SPEAKER_01: 2935.4s - 2937.3s
+we have some work to do.
+
+Speaker SPEAKER_01: 2946.9s - 2950.2s
+All right, so the kick is very loud.
+
+
+Speaker SPEAKER_01: 2998.5s - 3000.0s
+the loudest part of the song.
+
+Speaker SPEAKER_06: 3015.9s - 3017.2s
+His vocals are so low.
+
+Speaker SPEAKER_01: 3019.2s - 3026.0s
+- The vocal? - Yeah.
+ - Yeah, so I think maybe it needs to come up here
+ and other stuff needs to come down.
+
+Speaker SPEAKER_01: 3030.8s - 3035.4s
+It's okay here.
+ It's when this comes in that we're running into issues.
+
+Speaker SPEAKER_01: 3038.9s - 3044.3s
+No, it's just gone.
+ We might-- I wonder, can we actually make this louder?
+
+Speaker SPEAKER_01: 3066.4s - 3070.6s
+Let's also try this because I like this moment here when it comes in.
+
+Speaker SPEAKER_01: 3071.6s - 3075.5s
+But it doesn't need to necessarily stay that prominent.
+
+Speaker SPEAKER_06: 3076.8s - 3080.6s
+- So I'm going to tinker it down a bit.
+ Beautiful.
+
+Speaker SPEAKER_03: 3079.8s - 3082.4s
+Just a little secret.
+
+Speaker SPEAKER_01: 3085.2s - 3088.0s
+can even give it we could even give it a little more.
+
+Speaker SPEAKER_01: 3102.4s - 3106.1s
+I totally wish we had more time with this, but this is still really cool.
+
+Speaker SPEAKER_06: 3104.6s - 3110.0s
+really cool i know the vocal shoot that needs to sound like it needs to go up and down now it's like
+
+Speaker SPEAKER_01: 3118.2s - 3121.8s
+We'll let it be for now, let's just uh...
+Focus on our guitar solo for a minute.
+
+Speaker SPEAKER_01: 3187.5s - 3191.2s
+What we're completely losing is the snare, so let's just give that a little bit more.
+
+Speaker SPEAKER_06: 3200.2s - 3202.9s
+maybe bring down the toms a little too if we need to.
+
+Speaker SPEAKER_01: 3203.6s - 3205.5s
+Yeah, let's see.
+
+Speaker SPEAKER_01: 3215.4s - 3223.3s
+So surprisingly because the vocals like belting here, I don't even know if we need to really
+ bring this guitar down that much but we'll do it a little bit just so it isn't taking
+
+Speaker SPEAKER_01: 3246.4s - 3249.9s
+right real quick, that bass, um,
+
+Speaker SPEAKER_01: 3251.1s - 3256.0s
+I think needs a little bit of saturation.
+ What did I write?
+ Um,
+ Did I write something?
+
+Speaker SPEAKER_06: 3255.3s - 3256.8s
+- Did I write something? - Transients.
+
+Speaker SPEAKER_01: 3257.1s - 3259.0s
+Yeah, so.
+We could probably do that with some compression.
+
+Speaker SPEAKER_01: 3269.7s - 3275.8s
+Let's just see if there's like a compression or base preset maybe.
+
+Speaker SPEAKER_01: 3301.4s - 3305.1s
+I feel like that gives it a little more transient.
+ Yeah.
+ And then I wonder.
+
+Speaker SPEAKER_06: 3312.2s - 3314.0s
+- Oh, perfect.
+
+Speaker SPEAKER_01: 3312.8s - 3314.9s
+I'm gonna do a little bit of this.
+
+Speaker SPEAKER_06: 3321.6s - 3323.6s
+I'm definitely going to be downloading this.
+
+Speaker SPEAKER_01: 3323.6s - 3329.7s
+Oh, you totally should. It's not going to work for this one thing, which is because I don't think it's, we're not grabbing the right frequency for it with that.
+
+Speaker SPEAKER_01: 3363.3s - 3366.9s
+- All right, and then where do we want this rain stick?
+ Maybe over here. - Perfect.
+
+Speaker SPEAKER_06: 3366.6s - 3367.7s
+- Perfect, yeah.
+
+
+Speaker SPEAKER_01: 3380.9s - 3388.0s
+Nice. Do you have any other final suggestions about things we could do to add some sparkle to this?
+
+Speaker SPEAKER_06: 3388.2s - 3392.5s
+I feel like I'd make the bass a little bit louder.
+ Just so slightly.
+
+Speaker SPEAKER_06: 3407.7s - 3409.2s
+- Yeah, that's better already.
+
+Speaker SPEAKER_01: 3410.0s - 3411.2s
+How much time do we have left?
+
+Speaker SPEAKER_01: 3415.1s - 3421.0s
+- All right, that's enough time to maybe do something
+ with the vocal here.
+ I thought it'd be cool to do like a delay here.
+
+Speaker SPEAKER_06: 3421.5s - 3424.7s
+for sure. I didn't think we'd have time for that. You got it.
+
+Speaker SPEAKER_01: 3425.6s - 3427.8s
+Yeah, let's try another delay here.
+
+Speaker SPEAKER_06: 3434.8s - 3437.6s
+That's complaining at me.
+
+Speaker SPEAKER_01: 3445.8s - 3447.1s
+I wonder if it should be even...
+Like a half note.
+
+Speaker SPEAKER_06: 3458.5s - 3462.9s
+Let's do something drastic, but let's make a big choice.
+
+Speaker SPEAKER_01: 3491.0s - 3497.5s
+I might control that a little bit more, but yeah, I don't know.
+ I'm pretty happy with this.
+
+Speaker SPEAKER_06: 3498.5s - 3507.6s
+- Very, yeah, very quick, very good.
+ I think that's like the same order of operations I would do.
+ You're such a professional.
+ You make me want to go to production school.
+
+Speaker SPEAKER_01: 3507.9s - 3550.8s
+- Thank you.
+ Your suggestions were all super, super helpful.
+ And it was like nice to know that a lot of the weird
+ like decisions I make, it's actually really helpful
+ to voice it out to someone and have them sort of question
+ and try to understand why I'm doing things
+ because I think a lot of times I will make decisions
+ just because I feel like I should and not necessarily,
+ I'll think I have a reason behind them, but I really don't.
+ It's not necessarily achieving it.
+ So when you give me like a concrete, try to do this,
+ it's actually really helpful because then it makes me think
+ about how to be more intentional with my decision-making.
+ What I should have been doing more, but I didn't do
+ was save in the middle.
+
+
+Speaker SPEAKER_01: 3558.0s - 3574.1s
+Um, I don't do it as much, but yeah, I think, I think that's, that's good.
+ I, I mean, I would do more to it.
+ I would probably do like processing on the master bus to add some stuff.
+ But I think this is like pretty nice, um, for a basic mix.

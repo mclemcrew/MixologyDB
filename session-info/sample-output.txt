@@ -1,0 +1,369 @@
+SESSION NAME:	DU-P2
+SAMPLE RATE:	44100.000000
+BIT DEPTH:	24-bit
+SESSION START TIMECODE:	00:00:00:00
+TIMECODE FORMAT:	25 Frame
+# OF AUDIO TRACKS:	25
+# OF AUDIO CLIPS:	43
+# OF AUDIO FILES:	29
+
+
+O N L I N E  F I L E S  I N  S E S S I O N
+Filename                  	Location
+
+
+O F F L I N E  F I L E S  I N  S E S S I O N
+Filename                  	Location
+BassDI_14.wav             	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+Floor_15.wav              	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+KickIn_15.wav             	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+KickOut_15.wav            	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+LdVox.cmp_01.wav          	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+MGtr1TB _09.wav           	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+Mgtr1_09.wav              	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+OH Coles_15.wav           	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+OH Ride_15.wav            	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+OH_15 S.wav               	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+Rack_15.wav               	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+Rgtr1_09-11.wav           	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+Rm Ride_15.wav            	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+Rm_15 S.wav               	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+RobGtr2.01_01.wav         	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+RobGtr2TB .01_01.wav      	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+RobGtr3.02_01.wav         	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+RobGtr3TB .02_01.wav      	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+ScratchVox_01.wav         	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+SnBot_15.wav              	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+SnTop_15.wav              	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+ld 2x cmp_01.wav          	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+mV1_09.wav                	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+rVh_07.wav                	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+tmb2_02.wav               	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+tmb_04.wav                	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+wrlz hi_10.wav            	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+wrlz lo_09.wav            	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+05 For Reasons Unknown.wav	e_\:Dokument:Pro Tools:Skola:Brecht De Man_Mix_01:Audio Files:
+
+
+O N L I N E  C L I P S  I N  S E S S I O N
+CLIP NAME               	Source File
+
+
+O F F L I N E  C L I P S  I N  S E S S I O N
+CLIP NAME               	Source File
+05 For Reasons Unknown.L	05 For Reasons Unknown.wav	[1]
+05 For Reasons Unknown.R	05 For Reasons Unknown.wav	[2]
+BassDI_14               	BassDI_14.wav
+Floor_15                	Floor_15.wav
+KickIn_15               	KickIn_15.wav
+KickIn_15-01            	KickIn_15.wav
+KickOut_15              	KickOut_15.wav
+KickOut_15-01           	KickOut_15.wav
+LdVox.cmp_01            	LdVox.cmp_01.wav
+MGtr1TB _09             	MGtr1TB _09.wav
+Mgtr1_09                	Mgtr1_09.wav
+Mgtr1_09-01             	Mgtr1_09.wav
+OH Coles_15             	OH Coles_15.wav
+OH Coles_15-01          	OH Coles_15.wav
+OH Ride_15              	OH Ride_15.wav
+OH Ride_15-01           	OH Ride_15.wav
+OH_15 S                 	OH_15 S.wav
+OH_15-01 S              	OH_15 S.wav
+Rack_15                 	Rack_15.wav
+Rgtr1_09-11             	Rgtr1_09-11.wav
+Rm Ride_15              	Rm Ride_15.wav
+Rm Ride_15-01           	Rm Ride_15.wav
+Rm_15 S                 	Rm_15 S.wav
+RobGtr2.01_01           	RobGtr2.01_01.wav
+RobGtr2.01_01-01        	RobGtr2.01_01.wav
+RobGtr2TB .01_01        	RobGtr2TB .01_01.wav
+RobGtr2TB .01_01-01     	RobGtr2TB .01_01.wav
+RobGtr3.02_01           	RobGtr3.02_01.wav
+RobGtr3TB .02_01        	RobGtr3TB .02_01.wav
+ScratchVox_01           	ScratchVox_01.wav
+SnBot_15                	SnBot_15.wav
+SnBot_15-01             	SnBot_15.wav
+SnTop_15                	SnTop_15.wav
+SnTop_15-01             	SnTop_15.wav
+ld 2x cmp_01            	ld 2x cmp_01.wav
+mV1_09                  	mV1_09.wav
+rVh_07                  	rVh_07.wav
+tmb2_02                 	tmb2_02.wav
+tmb_04                  	tmb_04.wav
+wrlz hi_10              	wrlz hi_10.wav
+wrlz hi_10-01           	wrlz hi_10.wav
+wrlz lo_09              	wrlz lo_09.wav
+wrlz lo_09-01           	wrlz lo_09.wav
+
+
+P L U G - I N S  L I S T I N G
+MANUFACTURER            	PLUG-IN NAME            	VERSION         	FORMAT          	STEMS                   	NUMBER OF INSTANCES
+Unknown (not available) 	RCompressor             	(unknown)       	AAX Native      	Mono / Mono             	3 inactive
+                        	RCompressor             	(unknown)       	AAX Native      	Stereo / Stereo         	2 inactive
+                        	Q3                      	(unknown)       	AAX Native      	Mono / Mono             	1 inactive
+                        	Q4                      	(unknown)       	AAX Native      	Stereo / Stereo         	1 inactive
+                        	Q4                      	(unknown)       	AAX Native      	Mono / Mono             	2 inactive
+                        	Q2                      	(unknown)       	AAX Native      	Mono / Mono             	2 inactive
+                        	Q6                      	(unknown)       	AAX Native      	Mono / Mono             	1 inactive
+                        	Q10                     	(unknown)       	AAX Native      	Stereo / Stereo         	1 inactive
+                        	C4                      	(unknown)       	AAX Native      	Stereo / Stereo         	1 inactive
+                        	REQ 4                   	(unknown)       	AAX Native      	Mono / Mono             	3 inactive
+                        	REQ 4                   	(unknown)       	AAX Native      	Stereo / Stereo         	3 inactive
+                        	RVox                    	(unknown)       	AAX Native      	Mono / Mono             	1 inactive
+                        	RVox                    	(unknown)       	AAX Native      	Stereo / Stereo         	1 inactive
+                        	TrueVerb                	(unknown)       	AAX Native      	Stereo / Stereo         	1 inactive
+                        	SuperTap 6-Taps         	(unknown)       	AAX Native      	Stereo / Stereo         	1 inactive
+AIR Music Technology    	AIR Reverb              	1.2.11.b1368c7  	AAX Native      	Stereo / Stereo         	1 active
+Avid                    	Channel Strip           	23.9.0d155      	AAX Native      	Mono / Mono             	4 active
+                        	Channel Strip           	23.9.0d155      	AAX Native      	Stereo / Stereo         	1 active
+                        	BF-76                   	23.9.0d155      	AAX Native      	Stereo / Stereo         	2 active
+                        	BF-76                   	23.9.0d155      	AAX Native      	Mono / Mono             	1 active
+                        	SansAmp PSA-1           	23.9.0d155      	AAX Native      	Stereo / Stereo         	1 active
+                        	EQ3 7-Band              	23.9.0d155      	AAX Native      	Stereo / Stereo         	5 active
+                        	EQ3 7-Band              	23.9.0d155      	AAX Native      	Mono / Mono             	2 active
+                        	Maxim                   	23.9.0d155      	AAX Native      	Stereo / Stereo         	1 active
+                        	Click II                	23.9.0d155      	AAX Native      	Mono / Mono             	1 active
+                        	Dyn3 Compressor/Limiter 	23.9.0d155      	AAX Native      	Stereo / Stereo         	2 active
+                        	Dyn3 Compressor/Limiter 	23.9.0d155      	AAX Native      	Mono / Mono             	1 active
+                        	Dyn3 De-Esser           	23.9.0d155      	AAX Native      	Mono / Mono             	1 active
+                        	Dyn3 Expander/Gate      	23.9.0d155      	AAX Native      	Mono / Mono             	6 active
+
+
+T R A C K  L I S T I N G
+TRACK NAME:	KickIn
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: 
+PLUG-INS: 	Dyn3 Expander/Gate (mono)	Channel Strip (mono)
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	KickIn_15-01                  	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+TRACK NAME:	KickOut
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: 
+PLUG-INS: 	Dyn3 Expander/Gate (mono)	Channel Strip (mono)
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	KickOut_15-01                 	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+TRACK NAME:	SnTop
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: 
+PLUG-INS: 	Dyn3 Expander/Gate (mono)	REQ 4 (mono)	RCompressor (mono)	Q3 (mono)
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	SnTop_15-01                   	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+TRACK NAME:	SnBot
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: 
+PLUG-INS: 	Dyn3 Expander/Gate (mono)	REQ 4 (mono)
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	SnBot_15-01                   	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+TRACK NAME:	Rack Tom
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: 
+PLUG-INS: 	Dyn3 Expander/Gate (mono)	Channel Strip (mono)
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	Rack_15                       	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+TRACK NAME:	Floor Tom
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: 
+PLUG-INS: 	Dyn3 Expander/Gate (mono)	Channel Strip (mono)
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	Floor_15                      	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+TRACK NAME:	OH's (Stereo)
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: 
+PLUG-INS: 	Q4 (stereo)	Dyn3 Compressor/Limiter (stereo)
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	OH Coles_15-01                	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+2       	1       	OH Ride_15-01                 	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+TRACK NAME:	OH
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: 
+PLUG-INS: 	Q4 (mono)	Dyn3 Compressor/Limiter (mono)
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	OH_15-01 S                    	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+TRACK NAME:	Room (Stereo)
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: 
+PLUG-INS: 	EQ3 7-Band (stereo)	BF-76 (stereo)
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	Rm Ride_15-01                 	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+2       	1       	Rm_15 S                       	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+TRACK NAME:	tmb2
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: 
+PLUG-INS: 	Q2 (mono)
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	tmb2_02                       	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+TRACK NAME:	tmb
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: 
+PLUG-INS: 	Q2 (mono)
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	tmb_04                        	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+TRACK NAME:	BassDI
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: 
+PLUG-INS: 	RCompressor (mono)	Q6 (mono)
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	BassDI_14                     	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+TRACK NAME:	MGtr1TB 
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: 
+PLUG-INS: 
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	MGtr1TB _09                   	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+TRACK NAME:	Rgtr1
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: 
+PLUG-INS: 
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	Rgtr1_09-11                   	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+TRACK NAME:	RobGtr2
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: 
+PLUG-INS: 
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	RobGtr2.01_01-01              	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+TRACK NAME:	RobGtr2TB 
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: 
+PLUG-INS: 
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	RobGtr2TB .01_01-01           	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+TRACK NAME:	RobGtr3
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: 
+PLUG-INS: 
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	RobGtr3.02_01                 	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+TRACK NAME:	RobGtr3TB 
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: 
+PLUG-INS: 
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	RobGtr3TB .02_01              	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+TRACK NAME:	Keys (Stereo)
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: 
+PLUG-INS: 	Channel Strip (stereo)
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	wrlz hi_10-01                 	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+2       	1       	wrlz lo_09-01                 	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+TRACK NAME:	LdVox.cmp
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: 
+PLUG-INS: 	Q4 (mono)	Dyn3 De-Esser (mono)	BF-76 (mono)	RCompressor (mono)	REQ 4 (mono)
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	LdVox.cmp_01                  	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+TRACK NAME:	ScratchVox
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: 
+PLUG-INS: 	RVox (mono)	EQ3 7-Band (mono)
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	ScratchVox_01                 	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+TRACK NAME:	ld 2x cmp
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: 
+PLUG-INS: 	EQ3 7-Band (mono)
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	ld 2x cmp_01                  	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+TRACK NAME:	mV1
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: 
+PLUG-INS: 
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	mV1_09                        	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+TRACK NAME:	rVh
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: 
+PLUG-INS: 
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	rVh_07                        	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+TRACK NAME:	Mgtr1
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: Muted 
+PLUG-INS: 
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	Mgtr1_09-01                   	           1|1	          94|1	     93|0| 161	Unmuted
+
+
+M A R K E R S  L I S T I N G
+#   	LOCATION     	TIME REFERENCE    	UNITS    	NAME                             	COMMENTS
+1   	2|4          	2|4               	Ticks    	Start                            	

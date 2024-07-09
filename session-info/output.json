@@ -1,0 +1,1623 @@
+[
+  {
+    "track-name": "Kin",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/LeadMe/Kin.wav",
+    "parameters": {
+      "gain": -12.9,
+      "pan": [0],
+      "eq": [
+        {
+          "type": "HP",
+          "value": {
+            "freq": 1000,
+            "q": 0,
+            "gain": 12
+          }
+        },
+        {
+          "type": "LP",
+          "value": {
+            "freq": 7300,
+            "q": 0,
+            "gain": 12
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 529.9,
+            "q": 4,
+            "gain": -0.7
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 2000,
+            "q": 4.6,
+            "gain": 0.6
+          }
+        },
+        {
+          "type": "HS",
+          "value": {
+            "freq": 1200,
+            "q": 0.5,
+            "gain": 2.2
+          }
+        }
+      ],
+      "compression": [
+        {
+          "name": "Channel Strip",
+          "attack": 20.4,
+          "release": 72.6,
+          "thres": -11.8,
+          "depth": -2,
+          "gain": 2.0,
+          "ratio": "2.0:1",
+          "knee": 3.3
+        }
+      ],
+      "reverb": [
+        {
+          "name": "LexRoom",
+          "type": "ROOM",
+          "gain": -3.3,
+          "pan": [0],
+          "send": "True"
+        },
+        {
+          "name": "LexRandomHall",
+          "type": "HALL",
+          "gain": -14,
+          "pan": [0],
+          "send": "True"
+        }
+      ]
+    }
+  },
+  {
+    "track-name": "KOut",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/LeadMe/KOut.wav",
+    "parameters": {
+      "gain": -1.6,
+      "pan": [0],
+      "eq": [
+        {
+          "type": "LP",
+          "value": {
+            "freq": 10200,
+            "q": 0,
+            "gain": 12
+          }
+        },
+        {
+          "type": "LS",
+          "value": {
+            "freq": 79.3,
+            "q": 0.5,
+            "gain": 4.1
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 121.8,
+            "q": 16.45,
+            "gain": -5.2
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 226.1,
+            "q": 4,
+            "gain": -2.1
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 3900,
+            "q": 4,
+            "gain": 1.7
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 529.9,
+            "q": 4,
+            "gain": -0.7
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 2000,
+            "q": 4.6,
+            "gain": 0.6
+          }
+        },
+        {
+          "type": "HS",
+          "value": {
+            "freq": 1200,
+            "q": 0.5,
+            "gain": 2.2
+          }
+        }
+      ],
+      "compression": [
+        {
+          "name": "Channel Strip",
+          "attack": 20.4,
+          "release": 72.6,
+          "thres": -11.8,
+          "depth": -2,
+          "gain": 2.0,
+          "ratio": "2.0:1",
+          "knee": 3.3
+        }
+      ],
+      "reverb": [
+        {
+          "name": "LexRoom",
+          "type": "ROOM",
+          "gain": -3.3,
+          "pan": [0],
+          "send": "True"
+        },
+        {
+          "name": "LexRandomHall",
+          "type": "HALL",
+          "gain": -14,
+          "pan": [0],
+          "send": "True"
+        }
+      ]
+    }
+  },
+  {
+    "track-name": "SnT2",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/LeadMe/SnT2.wav",
+    "parameters": {
+      "gain": -8.4,
+      "pan": [0],
+      "eq": [
+        {
+          "type": "HP",
+          "value": {
+            "freq": 121.9,
+            "q": 0,
+            "gain": 12
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 282.6,
+            "q": 16.19,
+            "gain": -3.9
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 529.9,
+            "q": 13.65,
+            "gain": -6
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 715.1,
+            "q": 16.97,
+            "gain": -3.7
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 3000,
+            "q": 6.68,
+            "gain": 1.4
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 529.9,
+            "q": 4,
+            "gain": -0.7
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 2000,
+            "q": 4.6,
+            "gain": 0.6
+          }
+        },
+        {
+          "type": "HS",
+          "value": {
+            "freq": 1200,
+            "q": 0.5,
+            "gain": 2.2
+          }
+        }
+      ],
+      "compression": [
+        {
+          "name": "Channel Strip",
+          "attack": 26.3,
+          "release": 61.7,
+          "thres": -9.5,
+          "depth": -36,
+          "gain": 0,
+          "ratio": "2.0:1",
+          "knee": 8
+        },
+        {
+          "name": "Channel Strip",
+          "attack": 20.4,
+          "release": 72.6,
+          "thres": -11.8,
+          "depth": -2,
+          "gain": 2.0,
+          "ratio": "2.0:1",
+          "knee": 3.3
+        }
+      ],
+      "reverb": [
+        {
+          "name": "LexRoom",
+          "type": "ROOM",
+          "gain": -3.3,
+          "pan": [0],
+          "send": "True"
+        },
+        {
+          "name": "LexRandomHall",
+          "type": "HALL",
+          "gain": -14,
+          "pan": [0],
+          "send": "True"
+        }
+      ]
+    }
+  },
+  {
+    "track-name": "StOH (Stereo)",
+    "track-type": "AUDIO",
+    "channel-mode": "STEREO",
+    "track-audio-path": "./audio/LeadMe/StOH.L.wav",
+    "parameters": {
+      "gain": -8.4,
+      "pan": [-85, 85],
+      "eq": [
+        {
+          "type": "HP",
+          "value": {
+            "freq": 52.5,
+            "q": 0,
+            "gain": 12
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 236.3,
+            "q": 5.72,
+            "gain": -1.8
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 429.7,
+            "q": 19.51,
+            "gain": -3.5
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 3500,
+            "q": 4,
+            "gain": 1.4
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 536.2,
+            "q": 26.21,
+            "gain": -5.3
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 529.9,
+            "q": 4,
+            "gain": -0.7
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 2000,
+            "q": 4.6,
+            "gain": 0.6
+          }
+        },
+        {
+          "type": "HS",
+          "value": {
+            "freq": 1200,
+            "q": 0.5,
+            "gain": 2.2
+          }
+        }
+      ],
+      "compression": [
+        {
+          "name": "Channel Strip",
+          "attack": 19.5,
+          "release": 83.4,
+          "thres": -30.9,
+          "depth": -36,
+          "gain": 5.7,
+          "ratio": "2.0:1",
+          "knee": 4.7
+        },
+        {
+          "name": "Channel Strip",
+          "attack": 20.4,
+          "release": 72.6,
+          "thres": -11.8,
+          "depth": -2,
+          "gain": 2.0,
+          "ratio": "2.0:1",
+          "knee": 3.3
+        }
+      ],
+      "reverb": [
+        {
+          "name": "LexRoom",
+          "type": "ROOM",
+          "gain": -3.3,
+          "pan": [-85, 85],
+          "send": "True"
+        },
+        {
+          "name": "LexRandomHall",
+          "type": "HALL",
+          "gain": -14,
+          "pan": [-85, 85],
+          "send": "True"
+        }
+      ]
+    }
+  },
+  {
+    "track-name": "Hat",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/LeadMe/Hat.wav",
+    "parameters": {
+      "gain": -14.8,
+      "pan": [0],
+      "compression": [
+        {
+          "name": "Channel Strip",
+          "attack": 20.4,
+          "release": 72.6,
+          "thres": -11.8,
+          "depth": -2,
+          "gain": 2.0,
+          "ratio": "2.0:1",
+          "knee": 3.3
+        }
+      ],
+      "reverb": [
+        {
+          "name": "LexRoom",
+          "type": "ROOM",
+          "gain": -3.3,
+          "pan": [0],
+          "send": "True"
+        },
+        {
+          "name": "LexRandomHall",
+          "type": "HALL",
+          "gain": -14,
+          "pan": [0],
+          "send": "True"
+        }
+      ]
+    }
+  },
+  {
+    "track-name": "Tom1",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/LeadMe/Tom1.wav",
+    "parameters": {
+      "gain": -15.1,
+      "pan": [45],
+      "eq": [
+        {
+          "type": "HP",
+          "value": {
+            "freq": 61.5,
+            "q": 0,
+            "gain": 12
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 227.1,
+            "q": 11.33,
+            "gain": -2.8
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 1100,
+            "q": 6.58,
+            "gain": 1.4
+          }
+        },
+        {
+          "type": "LP",
+          "value": {
+            "freq": 8000,
+            "q": 0,
+            "gain": 12
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 529.9,
+            "q": 4,
+            "gain": -0.7
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 2000,
+            "q": 4.6,
+            "gain": 0.6
+          }
+        },
+        {
+          "type": "HS",
+          "value": {
+            "freq": 1200,
+            "q": 0.5,
+            "gain": 2.2
+          }
+        }
+      ],
+      "compression": [
+        {
+          "name": "Channel Strip",
+          "attack": 20.4,
+          "release": 72.6,
+          "thres": -11.8,
+          "depth": -2,
+          "gain": 2.0,
+          "ratio": "2.0:1",
+          "knee": 3.3
+        }
+      ],
+      "gate": [
+        {
+          "name": "Channel Strip",
+          "attack": 0.02,
+          "release": 1.3,
+          "thres": -32.7,
+          "depth": -11.9,
+          "ratio": "1:4.5",
+          "knee": 2.9,
+          "hold": 5.4
+        }
+      ],
+      "reverb": [
+        {
+          "name": "LexRoom",
+          "type": "ROOM",
+          "gain": -3.3,
+          "pan": [45],
+          "send": "True"
+        },
+        {
+          "name": "LexRandomHall",
+          "type": "HALL",
+          "gain": -14,
+          "pan": [45],
+          "send": "True"
+        }
+      ]
+    }
+  },
+  {
+    "track-name": "Floor",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/LeadMe/Floor.wav",
+    "parameters": {
+      "gain": -15.1,
+      "pan": [-50],
+      "eq": [
+        {
+          "type": "HP",
+          "value": {
+            "freq": 31.9,
+            "q": 0,
+            "gain": 12
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 100.6,
+            "q": 3.27,
+            "gain": 0.6
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 329,
+            "q": 4,
+            "gain": -1.1
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 2000,
+            "q": 4,
+            "gain": 1.7
+          }
+        },
+        {
+          "type": "LP",
+          "value": {
+            "freq": 7000,
+            "q": 0,
+            "gain": 12
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 529.9,
+            "q": 4,
+            "gain": -0.7
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 2000,
+            "q": 4.6,
+            "gain": 0.6
+          }
+        },
+        {
+          "type": "HS",
+          "value": {
+            "freq": 1200,
+            "q": 0.5,
+            "gain": 2.2
+          }
+        }
+      ],
+      "compression": [
+        {
+          "name": "Channel Strip",
+          "attack": 20.4,
+          "release": 72.6,
+          "thres": -11.8,
+          "depth": -2,
+          "gain": 2.0,
+          "ratio": "2.0:1",
+          "knee": 3.3
+        }
+      ],
+      "gate": [
+        {
+          "name": "Channel Strip",
+          "attack": 0.02,
+          "release": 1.3,
+          "thres": -34.5,
+          "depth": -11.9,
+          "ratio": "1:4.5",
+          "knee": 2.9,
+          "hold": 5.4
+        }
+      ],
+      "reverb": [
+        {
+          "name": "LexRoom",
+          "type": "ROOM",
+          "gain": -3.3,
+          "pan": [-50],
+          "send": "True"
+        },
+        {
+          "name": "LexRandomHall",
+          "type": "HALL",
+          "gain": -14,
+          "pan": [-50],
+          "send": "True"
+        }
+      ]
+    }
+  },
+  {
+    "track-name": "Snaps1",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/LeadMe/Snaps1.wav",
+    "parameters": {
+      "gain": -14.3,
+      "pan": [0],
+      "reverb": [
+        {
+          "name": "LexRoom",
+          "type": "ROOM",
+          "gain": -5.9,
+          "pan": [0],
+          "send": "True"
+        },
+        {
+          "name": "LexRandomHall",
+          "type": "HALL",
+          "gain": -19.5,
+          "pan": [0],
+          "send": "True"
+        }
+      ]
+    }
+  },
+  {
+    "track-name": "Bass DI",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/LeadMe/Bass DI.wav",
+    "parameters": {
+      "gain": -6.1,
+      "pan": [0],
+      "eq": [
+        {
+          "type": "LS",
+          "value": {
+            "freq": 87.5,
+            "q": 0.5,
+            "gain": 1.9
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 124.3,
+            "q": 16.19,
+            "gain": -2.9
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 167.9,
+            "q": 2.63,
+            "gain": -1.6
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 1300,
+            "q": 4,
+            "gain": 1.2
+          }
+        },
+        {
+          "type": "LP",
+          "value": {
+            "freq": 3500,
+            "q": 0,
+            "gain": 12
+          }
+        }
+      ],
+      "compression": [
+        {
+          "name": "Channel Strip",
+          "attack": 17.8,
+          "release": 18.7,
+          "thres": -28.6,
+          "depth": -36,
+          "gain": 2.6,
+          "ratio": "3.0:1",
+          "knee": 5.2
+        }
+      ],
+      "reverb": [
+        {
+          "name": "LexRoom",
+          "type": "ROOM",
+          "gain": -19.5,
+          "pan": [0],
+          "send": "True"
+        }
+      ]
+    }
+  },
+  {
+    "track-name": "Act Guit (Stereo)",
+    "track-type": "AUDIO",
+    "channel-mode": "STEREO",
+    "track-audio-path": "./audio/LeadMe/Act Guit.L.wav",
+    "parameters": {
+      "gain": -12.8,
+      "pan": [-90, 90],
+      "eq": [
+        {
+          "type": "HP",
+          "value": {
+            "freq": 82.8,
+            "q": 0,
+            "gain": 12
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 186.2,
+            "q": 2.71,
+            "gain": -1.2
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 959.9,
+            "q": 4.06,
+            "gain": 1
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 5900,
+            "q": 9.55,
+            "gain": 0.9
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 11800,
+            "q": 7.68,
+            "gain": -1.8
+          }
+        }
+      ],
+      "compression": [
+        {
+          "name": "Channel Strip",
+          "attack": 55,
+          "release": 23.5,
+          "thres": -30,
+          "depth": -36,
+          "gain": 1.4,
+          "ratio": "1.5:1",
+          "knee": 10.2
+        }
+      ],
+      "reverb": [
+        {
+          "name": "LexRoom",
+          "type": "ROOM",
+          "gain": -8.9,
+          "pan": [-90, 90],
+          "send": "True"
+        },
+        {
+          "name": "LexRandomHall",
+          "type": "HALL",
+          "gain": -16.1,
+          "pan": [-90, 90],
+          "send": "True"
+        }
+      ]
+    }
+  },
+  {
+    "track-name": "Paul GTR",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/LeadMe/Paul GTR.wav",
+    "parameters": {
+      "gain": -13.4,
+      "pan": [100],
+      "eq": [
+        {
+          "type": "HP",
+          "value": {
+            "freq": 72.1,
+            "q": 0,
+            "gain": 12
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 306,
+            "q": 5.72,
+            "gain": -1.1
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 1800,
+            "q": 4.0,
+            "gain": 1
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 7000,
+            "q": 7.45,
+            "gain": 0.6
+          }
+        }
+      ],
+      "compression": [
+        {
+          "name": "Channel Strip",
+          "attack": 57.5,
+          "release": 12,
+          "thres": -20.1,
+          "depth": -36,
+          "gain": 0,
+          "ratio": "8.7:1",
+          "knee": 0
+        }
+      ],
+      "reverb": [
+        {
+          "name": "LexRoom",
+          "type": "ROOM",
+          "gain": -26.8,
+          "pan": [100],
+          "send": "True"
+        },
+        {
+          "name": "LexRandomHall",
+          "type": "HALL",
+          "gain": -18.3,
+          "pan": [100],
+          "send": "True"
+        }
+      ]
+    }
+  },
+  {
+    "track-name": "Paul GTR R84",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/LeadMe/Paul GTR R84.wav",
+    "parameters": {
+      "gain": -13.4,
+      "pan": [-100],
+      "eq": [
+        {
+          "type": "HP",
+          "value": {
+            "freq": 72.1,
+            "q": 0,
+            "gain": 12
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 227.1,
+            "q": 5.72,
+            "gain": -1
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 1700,
+            "q": 4.0,
+            "gain": 0.6
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 7300,
+            "q": 7.33,
+            "gain": 0.8
+          }
+        },
+        {
+          "type": "LP",
+          "value": {
+            "freq": 11200,
+            "q": 0,
+            "gain": -1.8
+          }
+        }
+      ],
+      "compression": [
+        {
+          "name": "Channel Strip",
+          "attack": 57.5,
+          "release": 13.2,
+          "thres": -22.3,
+          "depth": -36,
+          "gain": 1.6,
+          "ratio": "10.2:1",
+          "knee": 0
+        }
+      ],
+      "reverb": [
+        {
+          "name": "LexRoom",
+          "type": "ROOM",
+          "gain": -26.8,
+          "pan": [-100],
+          "send": "True"
+        },
+        {
+          "name": "LexRoom",
+          "type": "ROOM"
+        },
+        {
+          "name": "LexRandomHall",
+          "type": "HALL",
+          "gain": -18.3,
+          "pan": [-100],
+          "send": "True"
+        }
+      ]
+    }
+  },
+  {
+    "track-name": "Paul GTR.double",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/LeadMe/Paul GTR.double.wav",
+    "parameters": {
+      "gain": -16.5,
+      "pan": [50],
+      "eq": [
+        {
+          "type": "HP",
+          "value": {
+            "freq": 103,
+            "q": 0,
+            "gain": 12
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 218.3,
+            "q": 5.72,
+            "gain": -1.1
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 2000,
+            "q": 4.0,
+            "gain": 0.8
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 7200,
+            "q": 7.45,
+            "gain": 0.8
+          }
+        }
+      ],
+      "reverb": [
+        {
+          "name": "LexRoom",
+          "type": "ROOM",
+          "gain": -26.8,
+          "pan": [50],
+          "send": "True"
+        },
+        {
+          "name": "LexRandomHall",
+          "type": "HALL",
+          "gain": -18.3,
+          "pan": [50],
+          "send": "True"
+        }
+      ]
+    }
+  },
+  {
+    "track-name": "Keys2 (edit)",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/LeadMe/Keys2 (edit).wav",
+    "parameters": {
+      "gain": -7.4,
+      "pan": [-60],
+      "eq": [
+        {
+          "type": "HP",
+          "value": {
+            "freq": 78,
+            "q": 0,
+            "gain": 12
+          }
+        },
+        {
+          "type": "LS",
+          "value": {
+            "freq": 141,
+            "q": 0.5,
+            "gain": -1.1
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 249.1,
+            "q": 4.13,
+            "gain": -1.8
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 1100,
+            "q": 4,
+            "gain": 1.1
+          }
+        }
+      ],
+      "compression": [
+        {
+          "name": "Channel Strip",
+          "attack": 17.4,
+          "release": 26.4,
+          "thres": -32.7,
+          "depth": -36,
+          "gain": 5,
+          "ratio": "2.0:1",
+          "knee": 6.5
+        }
+      ],
+      "reverb": [
+        {
+          "name": "LexRoom",
+          "type": "ROOM",
+          "gain": -9.9,
+          "pan": [-60],
+          "send": "True"
+        },
+        {
+          "name": "LexRandomHall",
+          "type": "HALL",
+          "gain": -8.9,
+          "pan": [-60],
+          "send": "True"
+        }
+      ]
+    }
+  },
+  {
+    "track-name": "Accordian (edit)",
+    "track-type": "AUDIO",
+    "channel-mode": "STEREO",
+    "track-audio-path": "./audio/LeadMe/Accordian (edit).wav",
+    "parameters": {
+      "gain": -6,
+      "pan": [-100, 100],
+      "eq": [
+        {
+          "type": "HP",
+          "value": {
+            "freq": 81.2,
+            "q": 0,
+            "gain": 12
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 596.8,
+            "q": 2.59,
+            "gain": -3.5
+          }
+        },
+        {
+          "type": "HS",
+          "value": {
+            "freq": 9900,
+            "q": 0.5,
+            "gain": 1.4
+          }
+        }
+      ],
+      "reverb": [
+        {
+          "name": "LexRoom",
+          "type": "ROOM",
+          "gain": -9.9,
+          "pan": [60],
+          "send": "True"
+        },
+        {
+          "name": "LexRandomHall",
+          "type": "HALL",
+          "gain": -8,
+          "pan": [60],
+          "send": "True"
+        }
+      ]
+    }
+  },
+  {
+    "track-name": "LeadVoc",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/LeadMe/LeadVoc.wav",
+    "parameters": {
+      "gain": -1.8,
+      "pan": [0],
+      "eq": [
+        {
+          "type": "HP",
+          "value": {
+            "freq": 97,
+            "q": 0,
+            "gain": 12
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 227.1,
+            "q": 5.54,
+            "gain": -1.2
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 6500,
+            "q": 5.21,
+            "gain": 1.2
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 3000,
+            "q": 16.19,
+            "gain": -2.9
+          }
+        },
+        {
+          "type": "HS",
+          "value": {
+            "freq": 12500,
+            "q": 0.5,
+            "gain": 1.7
+          }
+        }
+      ],
+      "compression": [
+        {
+          "name": "Channel Strip",
+          "attack": 24.5,
+          "release": 20.5,
+          "thres": -24,
+          "depth": -36,
+          "gain": 3.2,
+          "ratio": "4.0:1",
+          "knee": 12.9
+        }
+      ],
+      "gate": [
+        {
+          "name": "Channel Strip",
+          "attack": 0.02,
+          "release": 89.3,
+          "thres": -51.8,
+          "depth": -5.4,
+          "ratio": "1:2.4",
+          "knee": 14.2,
+          "hold": 1.9
+        }
+      ],
+      "reverb": [
+        {
+          "name": "LexRoom",
+          "type": "ROOM",
+          "gain": -13,
+          "pan": [0],
+          "send": "True"
+        },
+        {
+          "name": "LexRandomHall",
+          "type": "HALL",
+          "gain": -9.9,
+          "pan": [0],
+          "send": "True"
+        }
+      ]
+    }
+  },
+  {
+    "track-name": "JanineVoc",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/LeadMe/JanineVoc.wav",
+    "parameters": {
+      "gain": -7.3,
+      "pan": [-30],
+      "eq": [
+        {
+          "type": "HP",
+          "value": {
+            "freq": 123.3,
+            "q": 0,
+            "gain": 12
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 388.3,
+            "q": 4,
+            "gain": -3.5
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 7000,
+            "q": 3.17,
+            "gain": 1.5
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 3200,
+            "q": 14.3,
+            "gain": -5.9
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 15100,
+            "q": 29.68,
+            "gain": -4.2
+          }
+        }
+      ],
+      "compression": [
+        {
+          "name": "Channel Strip",
+          "attack": 25.1,
+          "release": 29.6,
+          "thres": -26.4,
+          "depth": -36,
+          "gain": 2,
+          "ratio": "3.1:1",
+          "knee": 18.2
+        }
+      ],
+      "reverb": [
+        {
+          "name": "LexRoom",
+          "type": "ROOM",
+          "gain": 0,
+          "pan": [-30],
+          "send": "True"
+        },
+        {
+          "name": "LexRandomHall",
+          "type": "HALL",
+          "gain": -6.9,
+          "pan": [-30],
+          "send": "True"
+        }
+      ]
+    }
+  },
+  {
+    "track-name": "GangM1",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/LeadMe/GangM1.wav",
+    "parameters": {
+      "gain": -5,
+      "pan": [-60],
+      "eq": [
+        {
+          "type": "HP",
+          "value": {
+            "freq": 39,
+            "q": 0,
+            "gain": 12
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 218.3,
+            "q": 6.47,
+            "gain": -2.1
+          }
+        },
+        {
+          "type": "HS",
+          "value": {
+            "freq": 5600,
+            "q": 0.5,
+            "gain": 2.5
+          }
+        }
+      ],
+      "compression": [
+        {
+          "name": "Channel Strip",
+          "attack": 8.3,
+          "release": 13.8,
+          "thres": -33.6,
+          "depth": -36,
+          "gain": 7,
+          "ratio": "4.0:1",
+          "knee": 10.1
+        }
+      ],
+      "reverb": [
+        {
+          "name": "LexRoom",
+          "type": "ROOM",
+          "gain": -5.9,
+          "pan": [-60],
+          "send": "True"
+        },
+        {
+          "name": "LexRandomHall",
+          "type": "HALL",
+          "gain": -14,
+          "pan": [-60],
+          "send": "True"
+        }
+      ]
+    }
+  },
+  {
+    "track-name": "GangM2",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/LeadMe/GangM2.wav",
+    "parameters": {
+      "gain": -5,
+      "pan": [60],
+      "eq": [
+        {
+          "type": "HP",
+          "value": {
+            "freq": 39,
+            "q": 0,
+            "gain": 12
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 218.3,
+            "q": 6.47,
+            "gain": -2.1
+          }
+        },
+        {
+          "type": "HS",
+          "value": {
+            "freq": 5600,
+            "q": 0.5,
+            "gain": 2.5
+          }
+        }
+      ],
+      "compression": [
+        {
+          "name": "Channel Strip",
+          "attack": 8.3,
+          "release": 13.8,
+          "thres": -33.6,
+          "depth": -36,
+          "gain": 7,
+          "ratio": "4.0:1",
+          "knee": 10.1
+        }
+      ],
+      "reverb": [
+        {
+          "name": "LexRoom",
+          "type": "ROOM",
+          "gain": -5.9,
+          "pan": [60],
+          "send": "True"
+        },
+        {
+          "name": "LexRandomHall",
+          "type": "HALL",
+          "gain": -14,
+          "pan": [60],
+          "send": "True"
+        }
+      ]
+    }
+  },
+  {
+    "track-name": "GangM3",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/LeadMe/GangM3.wav",
+    "parameters": {
+      "gain": -6.8,
+      "pan": [-40],
+      "eq": [
+        {
+          "type": "HP",
+          "value": {
+            "freq": 39,
+            "q": 0,
+            "gain": 12
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 218.3,
+            "q": 6.47,
+            "gain": -2.1
+          }
+        },
+        {
+          "type": "HS",
+          "value": {
+            "freq": 5600,
+            "q": 0.5,
+            "gain": 2.5
+          }
+        }
+      ],
+      "compression": [
+        {
+          "name": "Channel Strip",
+          "attack": 8.3,
+          "release": 13.8,
+          "thres": -33.6,
+          "depth": -36,
+          "gain": 7,
+          "ratio": "4.0:1",
+          "knee": 10.1
+        }
+      ],
+      "reverb": [
+        {
+          "name": "LexRoom",
+          "type": "ROOM",
+          "gain": -5.9,
+          "pan": [-40],
+          "send": "True"
+        },
+        {
+          "name": "LexRandomHall",
+          "type": "HALL",
+          "gain": -14,
+          "pan": [-40],
+          "send": "True"
+        }
+      ]
+    }
+  },
+  {
+    "track-name": "GangM4",
+    "track-type": "AUDIO",
+    "channel-mode": "MONO",
+    "track-audio-path": "./audio/LeadMe/GangM4.wav",
+    "parameters": {
+      "gain": -6.8,
+      "pan": [40],
+      "eq": [
+        {
+          "type": "HP",
+          "value": {
+            "freq": 39,
+            "q": 0,
+            "gain": 12
+          }
+        },
+        {
+          "type": "NOTCH",
+          "value": {
+            "freq": 218.3,
+            "q": 6.47,
+            "gain": -2.1
+          }
+        },
+        {
+          "type": "HS",
+          "value": {
+            "freq": 5600,
+            "q": 0.5,
+            "gain": 2.5
+          }
+        }
+      ],
+      "compression": [
+        {
+          "name": "Channel Strip",
+          "attack": 8.3,
+          "release": 13.8,
+          "thres": -33.6,
+          "depth": -36,
+          "gain": 7,
+          "ratio": "4.0:1",
+          "knee": 10.1
+        }
+      ],
+      "reverb": [
+        {
+          "name": "LexRoom",
+          "type": "ROOM",
+          "gain": -5.9,
+          "pan": [40],
+          "send": "True"
+        },
+        {
+          "name": "LexRandomHall",
+          "type": "HALL",
+          "gain": -14,
+          "pan": [40],
+          "send": "True"
+        }
+      ]
+    }
+  }
+]

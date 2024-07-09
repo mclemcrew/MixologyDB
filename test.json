@@ -1,0 +1,220 @@
+{
+  "mixes": [
+    {
+      "mix-name": "PXL-L1",
+      "song-name": "Vermont",
+      "artist-name": "The Districts",
+      "genre": "POP ROCK",
+      "mix-evaluation": [
+        {
+          "track-num-eval": 0.76,
+          "track-semantic-eval": "Great mix, but it bothers me a bit in the vocals, something in the low-mid. Otherwise, very well done. In terms of effects and spatiality, this is really good. In my opinion, the drums could be a bit more present."
+        },
+        {
+          "track-num-eval": 0.47,
+          "track-semantic-eval": "It's very disturbing that the backing track of the lead is running along. They are not in sync. In terms of balance, it's not a bad mix overall, but I just can't listen to it. It irritates me immensely."
+        },
+        {
+          "track-num-eval": 0.87,
+          "track-semantic-eval": "Very nice mix and balance. Unfortunately, no real comments :)"
+        },
+        {
+          "track-num-eval": 0.5,
+          "track-semantic-eval": "Too much drums/vocals, too few guitars, especially the melodic guitar."
+        },
+        {
+          "track-num-eval": 0.54,
+          "track-semantic-eval": "Not the best but certainly not bad."
+        },
+        {
+          "track-num-eval": 0.49,
+          "track-semantic-eval": "The mix lacks presence in the vocals. Due to the loud cymbals, you would expect the vocals to be EQed to sound 'fresher.' In mono, the mix loses some of its strength, and the uncontrolled vocals are particularly noticeable."
+        },
+        {
+          "track-num-eval": 0.48,
+          "track-semantic-eval": "Beautiful balance, good EQ, not excessive with reverb, but lacks a bit of freshness."
+        },
+        {
+          "track-num-eval": 0.64,
+          "track-semantic-eval": "The vocals come in quite abruptly during the chorus but are better in terms of balance. Reverb on the snare sounds nice. This mix sounds more open than mix 1 and 4 and is better in terms of balance. Toms are well balanced compared to the rest of the drums."
+        },
+        {
+          "track-num-eval": 0.51,
+          "track-semantic-eval": "The mix sounds quite empty. Perhaps make more room through EQ?"
+        },
+        {
+          "track-num-eval": 0.14,
+          "track-semantic-eval": "Mix sounds right. Nice spatial image but the snare is a bit small. Sounds quite distant."
+        },
+        {
+          "track-num-eval": 0.59,
+          "track-semantic-eval": "I would personally use less reverb, and especially a different patch. It could also use a bit more brightness and less muddiness; it doesn't necessarily sound open."
+        },
+        {
+          "track-num-eval": 0.42,
+          "track-semantic-eval": "The vocals have good effects but are slightly too loud at some moments. The EQ on the vocals is also well done. Maybe add a bit more compression on the vocals. The song itself lacks a bit of power. Drums are also relatively quiet."
+        },
+        {
+          "track-num-eval": 0.38,
+          "track-semantic-eval": "-The vocals sit well in the mix, but there seems to be a very dull delay on the lead, and it doesn't sound good. -Instruments in this mix seem heavily EQ'd just to cut through the mix, but they don't sound pleasant. I miss definition. -The chorus has a strange balance, it's almost only drums, vocals, and keys, while there is much more in it."
+        },
+        {
+          "track-num-eval": 0.29,
+          "track-semantic-eval": "vocals get lost in places"
+        },
+        {
+          "track-num-eval": 0.56,
+          "track-semantic-eval": "Very narrow stereo width, vocals are too prominent"
+        },
+        {
+          "track-num-eval": 0.56,
+          "track-semantic-eval": "0"
+        },
+        {
+          "track-num-eval": 0.69,
+          "track-semantic-eval": "Nice but some panning should be added to all the instruments (very similar to track 3)"
+        },
+        {
+          "track-num-eval": 0.6,
+          "track-semantic-eval": "A bit too much reverb for my taste. Quite punchy and clear mix though. Vocals dominate too much over the instruments. Good build up to the chorus which sounds more energetic than the verse as it should be. A bit more guitar would be welcome."
+        },
+        {
+          "track-num-eval": 0.56,
+          "track-semantic-eval": "Well balanced and spread out. Vocals clear and with nice space from the reverb. Could have more energy in build-up to chorus."
+        },
+        {
+          "track-num-eval": 0.68,
+          "track-semantic-eval": "good, but compared to others less rich . voice very over the rest"
+        },
+        {
+          "track-num-eval": 0.33,
+          "track-semantic-eval": "barely can hear drums. voice it too present and not improved."
+        },
+        {
+          "track-num-eval": 0.41,
+          "track-semantic-eval": "Too much rev, where have the vocals gone?"
+        },
+        {
+          "track-num-eval": 0.86,
+          "track-semantic-eval": "Hard to make out the lyrics. Vocals should be louder. Nice balance otherwise"
+        },
+        {
+          "track-num-eval": 0.73,
+          "track-semantic-eval": "the voice stands a bit too much"
+        },
+        {
+          "track-num-eval": 0.53,
+          "track-semantic-eval": "there is a high cut here but I can't pin point the main characteristic of this mix. In the beginning vocals are not very well mixed but it gets better in the second section of the mix. Fair mix but lacks excitement"
+        },
+        {
+          "track-num-eval": 0.71,
+          "track-semantic-eval": "maybe the EQ balance affected and mixed all these sound sources together, not bad"
+        },
+        {
+          "track-num-eval": 0.43,
+          "track-semantic-eval": "This lacks punch as well, although I find it better than the first two. The whole mix is not very loud and the guitar is not distinctive enough"
+        },
+        {
+          "track-num-eval": 0.58,
+          "track-semantic-eval": "Background vocals very prominent, Vocals overall a bit too prominent in comparison to remaining instruments. A very interesting mix"
+        },
+        {
+          "track-num-eval": 0.28,
+          "track-semantic-eval": "some delay effect"
+        }
+      ],
+      "tracks": [
+        {
+          "track-name": "Kick In",
+          "track-type": "AUDIO",
+          "lufs": -27.31,
+          "track-instrument-subtype": "KICK",
+          "track-instrument-type": "DRUMS",
+          "track-audio-path": "./audio/Vermont/01 K in.wav",
+          "channel-mode": "MONO",
+          "parameters": {
+            "gain": -5.9,
+            "pan": [0],
+            "compression": [
+              {
+                "name": "Gate",
+                "attack": 10,
+                "hold": 80,
+                "release": 26,
+                "thresh": -11,
+                "gain": 0,
+                "reduction": -100
+              }
+            ]
+          }
+        },
+        {
+          "track-name": "Kick Out",
+          "track-type": "AUDIO",
+          "lufs": -24.32,
+          "track-instrument-subtype": "KICK",
+          "track-instrument-type": "DRUMS",
+          "track-audio-path": "./audio/Vermont/02 K out.wav",
+          "channel-mode": "MONO",
+          "parameters": {
+            "gain": -5.9,
+            "pan": [0],
+            "compression": [
+              {
+                "name": "Gate",
+                "attack": 3,
+                "hold": 230,
+                "release": 46.3,
+                "thresh": -14,
+                "gain": 0,
+                "reduction": -100
+              }
+            ]
+          }
+        },
+        {
+          "track-name": "Snare Top",
+          "track-type": "AUDIO",
+          "lufs": -16.31,
+          "track-instrument-subtype": "SNARE",
+          "track-instrument-type": "DRUMS",
+          "track-audio-path": "./audio/Vermont/03 S top.wav",
+          "channel-mode": "MONO",
+          "parameters": {
+            "gain": -9.9,
+            "pan": [0],
+            "eq": [
+              {
+                "type": "HP",
+                "value": {
+                  "freq": 114,
+                  "q": 0.71
+                }
+              },
+              {
+                "type": "NOTCH",
+                "value": {
+                  "freq": 128,
+                  "q": 0.41,
+                  "gain": 3
+                }
+              }
+            ],
+            "reverb": [
+              {
+                "name": "Space Designer",
+                "type": "PLATE",
+                "gain": -2.7,
+                "pan": [0],
+                "pre-delay": 0,
+                "length": 1320,
+                "size": 1,
+                "send": "True"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

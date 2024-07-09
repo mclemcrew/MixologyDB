@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      body {
+        margin: 0;
+        overflow: hidden;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        overflow: auto;
+      }
+
+      canvas {
+        border: 1px solid black;
+        cursor: none;
+      }
+    </style>
+  </head>
+  <body>
+    <input type="file" id="imageUpload" accept="image/*" />
+    <canvas id="myCanvas"></canvas>
+    <script>
+      let canvas = document.getElementById("myCanvas");
+      let ctx = canvas.getContext("2d");
+      let img = new Image();
+      let zoomLevel = 1;
+      let pointerRadius = 5;
+      let radius;
+      let pointerX = -1;
+      let pointerY = -1;
+      let centerSelected = false;
+      let minSelected = false;
+      let maxSelected = false;
+      let testSelected = false;
+      let center = {};
+      let minPoint,
+        maxPoint,
+        testPoint = {};
+      let minAngle, maxAngle, testAngle;
+      let minValue,
+        maxValue = {};
+
+      document
+        .getElementById("imageUpload")
+        .addEventListener("change", handleImageUpload);
+
+      img.onload = () => {
+        drawImageWithZoom();
+      };
+
+      function handleImageUpload(event) {
+        const file = event.target.files[0];
+        if (file) {
+          const reader = new FileReader();
+          reader.onload = function (e) {
+            img.src = e.target.result;
+          };
+          reader.readAsDataURL(file);
+        }
+      }
+
+      img.src = "/Users/mclem/Desktop/CleanShot 2023-11-09 at 13.40.18.png";
+
+      function drawImageWithZoom() {
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+        // Calculate image position considering zoom level and horizontal scroll
+        var x = 0;
+        var y = 0;
+
+        // Draw the scaled image
+        ctx.drawImage(img, x, y, canvas.width, canvas.height);
+
+        // Calculate cursor position considering zoom level and horizontal scroll
+        var canvasX = (pointerX - x) / zoomLevel;
+        var canvasY = (pointerY - y) / zoomLevel;
+
+        // Draw the pointer
+        if (pointerX >= 0 && pointerY >= 0 && !centerSelected) {
+          ctx.beginPath();
+          ctx.arc(pointerX, pointerY, pointerRadius, 0, Math.PI * 2);
+          ctx.fillStyle = "red";
+          ctx.fill();
+          ctx.closePath();
+        } else {
+          ctx.beginPath();
+          ctx.strokeStyle = "white";
+          ctx.lineWidth = 3;
+          ctx.moveTo(center.x, center.y);
+          ctx.lineTo(pointerX, pointerY);
+          ctx.stroke();
+          ctx.closePath();
+
+          ctx.beginPath();
+          ctx.arc(pointerX, pointerY, pointerRadius, 0, Math.PI * 2);
+          ctx.fillStyle = "red";
+          ctx.fill();
+          ctx.closePath();
+        }
+
+        // Draw indicators for min and max angles
+        if (centerSelected) {
+          ctx.beginPath();
+          ctx.arc(center.x, center.y, pointerRadius, 0, Math.PI * 2);
+          ctx.fillStyle = "rgb(0, 225, 255)";
+          ctx.fill();
+          ctx.closePath();
+        }
+        if (minSelected) {
+          ctx.beginPath();
+          ctx.arc(minPoint.x, minPoint.y, pointerRadius, 0, Math.PI * 2);
+          ctx.fillStyle = "rgb(0, 225, 255)";
+          ctx.fill();
+          ctx.closePath();
+
+          // Draws circle based on radius from center to the min point
+          ctx.beginPath();
+          radius = Math.sqrt(
+            Math.pow(center.x - minPoint.x, 2) +
+              Math.pow(center.y - minPoint.y, 2)
+          );
+          ctx.arc(center.x, center.y, radius, 0, Math.PI * 2);
+          ctx.lineWidth = 5;
+          ctx.strokeStyle = "rgb(191, 0, 255)";
+          ctx.stroke();
+          ctx.closePath();
+        }
+        if (maxSelected) {
+          ctx.beginPath();
+          ctx.arc(maxPoint.x, maxPoint.y, pointerRadius, 0, Math.PI * 2);
+          ctx.fillStyle = "rgb(0, 225, 255)";
+          ctx.fill();
+          ctx.closePath();
+        }
+        if (testSelected) {
+          ctx.beginPath();
+          ctx.arc(maxPoint.x, maxPoint.y, pointerRadius, 0, Math.PI * 2);
+          ctx.fillStyle = "rgb(0, 225, 255)";
+          ctx.fill();
+          ctx.closePath();
+        }
+      }
+
+      window.addEventListener("resize", drawImageWithZoom);
+
+      canvas.onwheel = function (e) {
+        e.preventDefault();
+        if (e.deltaY < 0) {
+          zoomLevel *= 1.1;
+        } else {
+          zoomLevel /= 1.1;
+        }
+        drawImageWithZoom();
+      };
+
+      canvas.onmousemove = function (e) {
+        var rect = canvas.getBoundingClientRect();
+        var canvasX = e.clientX - rect.left;
+        var canvasY = e.clientY - rect.top;
+
+        // Calculate pointer position considering zoom level
+        pointerX =
+          (canvasX - (canvas.width / 2 - (img.width * zoomLevel) / 2)) /
+          zoomLevel;
+        pointerY =
+          (canvasY - (canvas.height / 2 - (img.height * zoomLevel) / 2)) /
+          zoomLevel;
+
+        drawImageWithZoom();
+      };
+
+      canvas.onclick = function (e) {
+        var rect = canvas.getBoundingClientRect();
+        var canvasX = e.clientX - rect.left;
+        var canvasY = e.clientY - rect.top;
+
+        // Calculate click position considering zoom level
+        var x =
+          (canvasX - (canvas.width / 2 - (img.width * zoomLevel) / 2)) /
+          zoomLevel;
+        var y =
+          (canvasY - (canvas.height / 2 - (img.height * zoomLevel) / 2)) /
+          zoomLevel;
+
+        if (!centerSelected) {
+          center = { x, y };
+          centerSelected = true;
+        } else if (!minSelected) {
+          minPoint = { x, y, value: 0 };
+          minAngle = Math.atan2(y - center.y, x - center.x);
+          minSelected = true;
+          minValue = parseFloat(prompt("Enter the minimum value:"));
+          minPoint.value = minValue;
+        } else if (!maxSelected) {
+          maxPoint = { x, y, value: 0 };
+          maxAngle = Math.atan2(y - center.y, x - center.x);
+          maxSelected = true;
+          maxValue = parseFloat(prompt("Enter the maximum value:"));
+          maxPoint.value = maxValue;
+        } else if (!testSelected) {
+          testPoint = { x, y, value: 0 };
+          testAngle = Math.atan2(y - center.y, x - center.x);
+          testSelected = true;
+          alert(calculateAndDisplayValue());
+        }
+      };
+
+      function angle(cx, cy, ex, ey) {
+        var dy = ey - cy;
+        var dx = ex - cx;
+        var theta = Math.atan2(dy, dx); // range (-PI, PI]
+        theta *= 180 / Math.PI; // rads to degs, range (-180, 180]
+        if (theta < 0) theta = 360 + theta; // range [0, 360)
+        return theta;
+      }
+
+      function calculateAndDisplayValue() {
+        // Calculate value based on angles and user-entered values
+        // Adjust this calculation as needed based on your dial configuration
+        let angleA = angle(center.x, center.y, minPoint.x, minPoint.y);
+        let angleB = angle(center.x, center.y, maxPoint.x, maxPoint.y);
+        let angleC = angle(center.x, center.y, testPoint.x, testPoint.y);
+
+        angleA = 360 - (angleA - angleB);
+        angleC = 360 - (angleC - angleB);
+        angleB = 0;
+
+        console.log({ A: angleA }, { B: angleB }, { C: angleC });
+
+        let cValue = interpolate(
+          angleA,
+          minPoint.value,
+          angleB,
+          maxPoint.value,
+          angleC
+        );
+        return cValue;
+      }
+
+      function interpolate(A_angle, A_value, B_angle, B_value, C_angle) {
+        // Apply the linear interpolation formula
+        var C_value =
+          A_value +
+          ((C_angle - A_angle) * (B_value - A_value)) / (B_angle - A_angle);
+
+        return C_value.toFixed(1);
+      }
+    </script>
+  </body>
+</html>
